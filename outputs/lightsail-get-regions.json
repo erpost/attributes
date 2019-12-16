@@ -1,0 +1,22 @@
+{
+    "regions": [
+        {
+            "continentCode": "continentCode",
+            "description": "description",
+            "displayName": "displayName",
+            "name": "name",
+            "availabilityZones": [
+                {
+                    "zoneName": "zoneName",
+                    "state": "state"
+                }
+            ],
+            "relationalDatabaseAvailabilityZones": [
+                {
+                    "zoneName": "zoneName",
+                    "state": "state"
+                }
+            ]
+        }
+    ]
+}

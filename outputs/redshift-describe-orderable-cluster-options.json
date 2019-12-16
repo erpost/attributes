@@ -1,0 +1,20 @@
+{
+    "OrderableClusterOptions": [
+        {
+            "ClusterVersion": "ClusterVersion",
+            "ClusterType": "ClusterType",
+            "NodeType": "NodeType",
+            "AvailabilityZones": [
+                {
+                    "Name": "Name",
+                    "SupportedPlatforms": [
+                        {
+                            "Name": "Name"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Marker": "Marker"
+}

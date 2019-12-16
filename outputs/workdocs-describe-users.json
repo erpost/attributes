@@ -1,0 +1,29 @@
+{
+    "Users": [
+        {
+            "Id": "Id",
+            "Username": "Username",
+            "EmailAddress": "EmailAddress",
+            "GivenName": "GivenName",
+            "Surname": "Surname",
+            "OrganizationId": "OrganizationId",
+            "RootFolderId": "RootFolderId",
+            "RecycleBinFolderId": "RecycleBinFolderId",
+            "Status": "Status",
+            "Type": "Type",
+            "CreatedTimestamp": "1970-01-01T00:00:00",
+            "ModifiedTimestamp": "1970-01-01T00:00:00",
+            "TimeZoneId": "TimeZoneId",
+            "Locale": "Locale",
+            "Storage": {
+                "StorageUtilizedInBytes": 0,
+                "StorageRule": {
+                    "StorageAllocatedInBytes": 0,
+                    "StorageType": "StorageType"
+                }
+            }
+        }
+    ],
+    "TotalNumberOfUsers": 0,
+    "Marker": "Marker"
+}

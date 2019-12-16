@@ -1,0 +1,14 @@
+{
+    "EgressOnlyInternetGateways": [
+        {
+            "Attachments": [
+                {
+                    "State": "State",
+                    "VpcId": "VpcId"
+                }
+            ],
+            "EgressOnlyInternetGatewayId": "EgressOnlyInternetGatewayId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

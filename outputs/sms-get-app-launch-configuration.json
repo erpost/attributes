@@ -1,0 +1,43 @@
+{
+    "appId": "appId",
+    "roleName": "roleName",
+    "serverGroupLaunchConfigurations": [
+        {
+            "serverGroupId": "serverGroupId",
+            "launchOrder": 0,
+            "serverLaunchConfigurations": [
+                {
+                    "server": {
+                        "serverId": "serverId",
+                        "serverType": "serverType",
+                        "vmServer": {
+                            "vmServerAddress": {
+                                "vmManagerId": "vmManagerId",
+                                "vmId": "vmId"
+                            },
+                            "vmName": "vmName",
+                            "vmManagerName": "vmManagerName",
+                            "vmManagerType": "vmManagerType",
+                            "vmPath": "vmPath"
+                        },
+                        "replicationJobId": "replicationJobId",
+                        "replicationJobTerminated": true
+                    },
+                    "logicalId": "logicalId",
+                    "vpc": "vpc",
+                    "subnet": "subnet",
+                    "securityGroup": "securityGroup",
+                    "ec2KeyName": "ec2KeyName",
+                    "userData": {
+                        "s3Location": {
+                            "bucket": "bucket",
+                            "key": "key"
+                        }
+                    },
+                    "instanceType": "instanceType",
+                    "associatePublicIpAddress": true
+                }
+            ]
+        }
+    ]
+}

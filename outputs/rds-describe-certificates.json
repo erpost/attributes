@@ -1,0 +1,13 @@
+{
+    "Certificates": [
+        {
+            "CertificateIdentifier": "CertificateIdentifier",
+            "CertificateType": "CertificateType",
+            "Thumbprint": "Thumbprint",
+            "ValidFrom": "1970-01-01T00:00:00",
+            "ValidTill": "1970-01-01T00:00:00",
+            "CertificateArn": "CertificateArn"
+        }
+    ],
+    "Marker": "Marker"
+}

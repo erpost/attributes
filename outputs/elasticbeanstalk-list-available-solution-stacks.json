@@ -1,0 +1,13 @@
+{
+    "SolutionStacks": [
+        "SolutionStackName"
+    ],
+    "SolutionStackDetails": [
+        {
+            "SolutionStackName": "SolutionStackName",
+            "PermittedFileTypes": [
+                "FileTypeExtension"
+            ]
+        }
+    ]
+}

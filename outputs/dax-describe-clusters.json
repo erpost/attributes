@@ -1,0 +1,57 @@
+{
+    "NextToken": "NextToken",
+    "Clusters": [
+        {
+            "ClusterName": "ClusterName",
+            "Description": "Description",
+            "ClusterArn": "ClusterArn",
+            "TotalNodes": 0,
+            "ActiveNodes": 0,
+            "NodeType": "NodeType",
+            "Status": "Status",
+            "ClusterDiscoveryEndpoint": {
+                "Address": "Address",
+                "Port": 0
+            },
+            "NodeIdsToRemove": [
+                "String"
+            ],
+            "Nodes": [
+                {
+                    "NodeId": "NodeId",
+                    "Endpoint": {
+                        "Address": "Address",
+                        "Port": 0
+                    },
+                    "NodeCreateTime": "1970-01-01T00:00:00",
+                    "AvailabilityZone": "AvailabilityZone",
+                    "NodeStatus": "NodeStatus",
+                    "ParameterGroupStatus": "ParameterGroupStatus"
+                }
+            ],
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "NotificationConfiguration": {
+                "TopicArn": "TopicArn",
+                "TopicStatus": "TopicStatus"
+            },
+            "SubnetGroup": "SubnetGroup",
+            "SecurityGroups": [
+                {
+                    "SecurityGroupIdentifier": "SecurityGroupIdentifier",
+                    "Status": "Status"
+                }
+            ],
+            "IamRoleArn": "IamRoleArn",
+            "ParameterGroup": {
+                "ParameterGroupName": "ParameterGroupName",
+                "ParameterApplyStatus": "ParameterApplyStatus",
+                "NodeIdsToReboot": [
+                    "String"
+                ]
+            },
+            "SSEDescription": {
+                "Status": "Status"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "TagOptionDetails": [
+        {
+            "Key": "Key",
+            "Value": "Value",
+            "Active": true,
+            "Id": "Id"
+        }
+    ],
+    "PageToken": "PageToken"
+}

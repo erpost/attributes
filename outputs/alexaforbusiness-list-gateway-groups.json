@@ -1,0 +1,10 @@
+{
+    "GatewayGroups": [
+        {
+            "Arn": "Arn",
+            "Name": "Name",
+            "Description": "Description"
+        }
+    ],
+    "NextToken": "NextToken"
+}

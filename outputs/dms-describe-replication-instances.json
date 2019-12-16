@@ -1,0 +1,58 @@
+{
+    "Marker": "Marker",
+    "ReplicationInstances": [
+        {
+            "ReplicationInstanceIdentifier": "ReplicationInstanceIdentifier",
+            "ReplicationInstanceClass": "ReplicationInstanceClass",
+            "ReplicationInstanceStatus": "ReplicationInstanceStatus",
+            "AllocatedStorage": 0,
+            "InstanceCreateTime": "1970-01-01T00:00:00",
+            "VpcSecurityGroups": [
+                {
+                    "VpcSecurityGroupId": "VpcSecurityGroupId",
+                    "Status": "Status"
+                }
+            ],
+            "AvailabilityZone": "AvailabilityZone",
+            "ReplicationSubnetGroup": {
+                "ReplicationSubnetGroupIdentifier": "ReplicationSubnetGroupIdentifier",
+                "ReplicationSubnetGroupDescription": "ReplicationSubnetGroupDescription",
+                "VpcId": "VpcId",
+                "SubnetGroupStatus": "SubnetGroupStatus",
+                "Subnets": [
+                    {
+                        "SubnetIdentifier": "SubnetIdentifier",
+                        "SubnetAvailabilityZone": {
+                            "Name": "Name"
+                        },
+                        "SubnetStatus": "SubnetStatus"
+                    }
+                ]
+            },
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "PendingModifiedValues": {
+                "ReplicationInstanceClass": "ReplicationInstanceClass",
+                "AllocatedStorage": 0,
+                "MultiAZ": true,
+                "EngineVersion": "EngineVersion"
+            },
+            "MultiAZ": true,
+            "EngineVersion": "EngineVersion",
+            "AutoMinorVersionUpgrade": true,
+            "KmsKeyId": "KmsKeyId",
+            "ReplicationInstanceArn": "ReplicationInstanceArn",
+            "ReplicationInstancePublicIpAddress": "ReplicationInstancePublicIpAddress",
+            "ReplicationInstancePrivateIpAddress": "ReplicationInstancePrivateIpAddress",
+            "ReplicationInstancePublicIpAddresses": [
+                "String"
+            ],
+            "ReplicationInstancePrivateIpAddresses": [
+                "String"
+            ],
+            "PubliclyAccessible": true,
+            "SecondaryAvailabilityZone": "SecondaryAvailabilityZone",
+            "FreeUntil": "1970-01-01T00:00:00",
+            "DnsNameServers": "DnsNameServers"
+        }
+    ]
+}

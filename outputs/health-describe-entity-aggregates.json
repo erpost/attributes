@@ -1,0 +1,8 @@
+{
+    "entityAggregates": [
+        {
+            "eventArn": "eventArn",
+            "count": 0
+        }
+    ]
+}

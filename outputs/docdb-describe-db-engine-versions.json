@@ -1,0 +1,25 @@
+{
+    "Marker": "Marker",
+    "DBEngineVersions": [
+        {
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "DBParameterGroupFamily": "DBParameterGroupFamily",
+            "DBEngineDescription": "DBEngineDescription",
+            "DBEngineVersionDescription": "DBEngineVersionDescription",
+            "ValidUpgradeTarget": [
+                {
+                    "Engine": "Engine",
+                    "EngineVersion": "EngineVersion",
+                    "Description": "Description",
+                    "AutoUpgrade": true,
+                    "IsMajorVersionUpgrade": true
+                }
+            ],
+            "ExportableLogTypes": [
+                "String"
+            ],
+            "SupportsLogExportsToCloudwatchLogs": true
+        }
+    ]
+}

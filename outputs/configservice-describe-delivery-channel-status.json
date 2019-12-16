@@ -1,0 +1,29 @@
+{
+    "DeliveryChannelsStatus": [
+        {
+            "name": "name",
+            "configSnapshotDeliveryInfo": {
+                "lastStatus": "lastStatus",
+                "lastErrorCode": "lastErrorCode",
+                "lastErrorMessage": "lastErrorMessage",
+                "lastAttemptTime": "1970-01-01T00:00:00",
+                "lastSuccessfulTime": "1970-01-01T00:00:00",
+                "nextDeliveryTime": "1970-01-01T00:00:00"
+            },
+            "configHistoryDeliveryInfo": {
+                "lastStatus": "lastStatus",
+                "lastErrorCode": "lastErrorCode",
+                "lastErrorMessage": "lastErrorMessage",
+                "lastAttemptTime": "1970-01-01T00:00:00",
+                "lastSuccessfulTime": "1970-01-01T00:00:00",
+                "nextDeliveryTime": "1970-01-01T00:00:00"
+            },
+            "configStreamDeliveryInfo": {
+                "lastStatus": "lastStatus",
+                "lastErrorCode": "lastErrorCode",
+                "lastErrorMessage": "lastErrorMessage",
+                "lastStatusChangeTime": "1970-01-01T00:00:00"
+            }
+        }
+    ]
+}

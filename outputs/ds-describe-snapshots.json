@@ -1,0 +1,13 @@
+{
+    "Snapshots": [
+        {
+            "DirectoryId": "DirectoryId",
+            "SnapshotId": "SnapshotId",
+            "Type": "Type",
+            "Name": "Name",
+            "Status": "Status",
+            "StartTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

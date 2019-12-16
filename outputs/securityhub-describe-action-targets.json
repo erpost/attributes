@@ -1,0 +1,10 @@
+{
+    "ActionTargets": [
+        {
+            "ActionTargetArn": "ActionTargetArn",
+            "Name": "Name",
+            "Description": "Description"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,43 @@
+{
+    "Stacks": [
+        {
+            "StackId": "StackId",
+            "Name": "Name",
+            "Arn": "Arn",
+            "Region": "Region",
+            "VpcId": "VpcId",
+            "Attributes": {
+                "KeyName": ""
+            },
+            "ServiceRoleArn": "ServiceRoleArn",
+            "DefaultInstanceProfileArn": "DefaultInstanceProfileArn",
+            "DefaultOs": "DefaultOs",
+            "HostnameTheme": "HostnameTheme",
+            "DefaultAvailabilityZone": "DefaultAvailabilityZone",
+            "DefaultSubnetId": "DefaultSubnetId",
+            "CustomJson": "CustomJson",
+            "ConfigurationManager": {
+                "Name": "Name",
+                "Version": "Version"
+            },
+            "ChefConfiguration": {
+                "ManageBerkshelf": true,
+                "BerkshelfVersion": "BerkshelfVersion"
+            },
+            "UseCustomCookbooks": true,
+            "UseOpsworksSecurityGroups": true,
+            "CustomCookbooksSource": {
+                "Type": "Type",
+                "Url": "Url",
+                "Username": "Username",
+                "Password": "Password",
+                "SshKey": "SshKey",
+                "Revision": "Revision"
+            },
+            "DefaultSshKeyName": "DefaultSshKeyName",
+            "CreatedAt": "CreatedAt",
+            "DefaultRootDeviceType": "DefaultRootDeviceType",
+            "AgentVersion": "AgentVersion"
+        }
+    ]
+}

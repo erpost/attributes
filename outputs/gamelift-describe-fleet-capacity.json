@@ -1,0 +1,18 @@
+{
+    "FleetCapacity": [
+        {
+            "FleetId": "FleetId",
+            "InstanceType": "InstanceType",
+            "InstanceCounts": {
+                "DESIRED": 0,
+                "MINIMUM": 0,
+                "MAXIMUM": 0,
+                "PENDING": 0,
+                "ACTIVE": 0,
+                "IDLE": 0,
+                "TERMINATING": 0
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

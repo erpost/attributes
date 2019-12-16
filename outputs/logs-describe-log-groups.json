@@ -1,0 +1,14 @@
+{
+    "logGroups": [
+        {
+            "logGroupName": "logGroupName",
+            "creationTime": 0,
+            "retentionInDays": 0,
+            "metricFilterCount": 0,
+            "arn": "arn",
+            "storedBytes": 0,
+            "kmsKeyId": "kmsKeyId"
+        }
+    ],
+    "nextToken": "nextToken"
+}

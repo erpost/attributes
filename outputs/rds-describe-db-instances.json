@@ -1,0 +1,167 @@
+{
+    "Marker": "Marker",
+    "DBInstances": [
+        {
+            "DBInstanceIdentifier": "DBInstanceIdentifier",
+            "DBInstanceClass": "DBInstanceClass",
+            "Engine": "Engine",
+            "DBInstanceStatus": "DBInstanceStatus",
+            "MasterUsername": "MasterUsername",
+            "DBName": "DBName",
+            "Endpoint": {
+                "Address": "Address",
+                "Port": 0,
+                "HostedZoneId": "HostedZoneId"
+            },
+            "AllocatedStorage": 0,
+            "InstanceCreateTime": "1970-01-01T00:00:00",
+            "PreferredBackupWindow": "PreferredBackupWindow",
+            "BackupRetentionPeriod": 0,
+            "DBSecurityGroups": [
+                {
+                    "DBSecurityGroupName": "DBSecurityGroupName",
+                    "Status": "Status"
+                }
+            ],
+            "VpcSecurityGroups": [
+                {
+                    "VpcSecurityGroupId": "VpcSecurityGroupId",
+                    "Status": "Status"
+                }
+            ],
+            "DBParameterGroups": [
+                {
+                    "DBParameterGroupName": "DBParameterGroupName",
+                    "ParameterApplyStatus": "ParameterApplyStatus"
+                }
+            ],
+            "AvailabilityZone": "AvailabilityZone",
+            "DBSubnetGroup": {
+                "DBSubnetGroupName": "DBSubnetGroupName",
+                "DBSubnetGroupDescription": "DBSubnetGroupDescription",
+                "VpcId": "VpcId",
+                "SubnetGroupStatus": "SubnetGroupStatus",
+                "Subnets": [
+                    {
+                        "SubnetIdentifier": "SubnetIdentifier",
+                        "SubnetAvailabilityZone": {
+                            "Name": "Name"
+                        },
+                        "SubnetStatus": "SubnetStatus"
+                    }
+                ],
+                "DBSubnetGroupArn": "DBSubnetGroupArn"
+            },
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "PendingModifiedValues": {
+                "DBInstanceClass": "DBInstanceClass",
+                "AllocatedStorage": 0,
+                "MasterUserPassword": "MasterUserPassword",
+                "Port": 0,
+                "BackupRetentionPeriod": 0,
+                "MultiAZ": true,
+                "EngineVersion": "EngineVersion",
+                "LicenseModel": "LicenseModel",
+                "Iops": 0,
+                "DBInstanceIdentifier": "DBInstanceIdentifier",
+                "StorageType": "StorageType",
+                "CACertificateIdentifier": "CACertificateIdentifier",
+                "DBSubnetGroupName": "DBSubnetGroupName",
+                "PendingCloudwatchLogsExports": {
+                    "LogTypesToEnable": [
+                        "String"
+                    ],
+                    "LogTypesToDisable": [
+                        "String"
+                    ]
+                },
+                "ProcessorFeatures": [
+                    {
+                        "Name": "Name",
+                        "Value": "Value"
+                    }
+                ]
+            },
+            "LatestRestorableTime": "1970-01-01T00:00:00",
+            "MultiAZ": true,
+            "EngineVersion": "EngineVersion",
+            "AutoMinorVersionUpgrade": true,
+            "ReadReplicaSourceDBInstanceIdentifier": "ReadReplicaSourceDBInstanceIdentifier",
+            "ReadReplicaDBInstanceIdentifiers": [
+                "String"
+            ],
+            "ReadReplicaDBClusterIdentifiers": [
+                "String"
+            ],
+            "LicenseModel": "LicenseModel",
+            "Iops": 0,
+            "OptionGroupMemberships": [
+                {
+                    "OptionGroupName": "OptionGroupName",
+                    "Status": "Status"
+                }
+            ],
+            "CharacterSetName": "CharacterSetName",
+            "SecondaryAvailabilityZone": "SecondaryAvailabilityZone",
+            "PubliclyAccessible": true,
+            "StatusInfos": [
+                {
+                    "StatusType": "StatusType",
+                    "Normal": true,
+                    "Status": "Status",
+                    "Message": "Message"
+                }
+            ],
+            "StorageType": "StorageType",
+            "TdeCredentialArn": "TdeCredentialArn",
+            "DbInstancePort": 0,
+            "DBClusterIdentifier": "DBClusterIdentifier",
+            "StorageEncrypted": true,
+            "KmsKeyId": "KmsKeyId",
+            "DbiResourceId": "DbiResourceId",
+            "CACertificateIdentifier": "CACertificateIdentifier",
+            "DomainMemberships": [
+                {
+                    "Domain": "Domain",
+                    "Status": "Status",
+                    "FQDN": "FQDN",
+                    "IAMRoleName": "IAMRoleName"
+                }
+            ],
+            "CopyTagsToSnapshot": true,
+            "MonitoringInterval": 0,
+            "EnhancedMonitoringResourceArn": "EnhancedMonitoringResourceArn",
+            "MonitoringRoleArn": "MonitoringRoleArn",
+            "PromotionTier": 0,
+            "DBInstanceArn": "DBInstanceArn",
+            "Timezone": "Timezone",
+            "IAMDatabaseAuthenticationEnabled": true,
+            "PerformanceInsightsEnabled": true,
+            "PerformanceInsightsKMSKeyId": "PerformanceInsightsKMSKeyId",
+            "PerformanceInsightsRetentionPeriod": 0,
+            "EnabledCloudwatchLogsExports": [
+                "String"
+            ],
+            "ProcessorFeatures": [
+                {
+                    "Name": "Name",
+                    "Value": "Value"
+                }
+            ],
+            "DeletionProtection": true,
+            "AssociatedRoles": [
+                {
+                    "RoleArn": "RoleArn",
+                    "FeatureName": "FeatureName",
+                    "Status": "Status"
+                }
+            ],
+            "ListenerEndpoint": {
+                "Address": "Address",
+                "Port": 0,
+                "HostedZoneId": "HostedZoneId"
+            },
+            "MaxAllocatedStorage": 0
+        }
+    ]
+}

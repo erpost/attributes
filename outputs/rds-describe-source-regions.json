@@ -1,0 +1,10 @@
+{
+    "Marker": "Marker",
+    "SourceRegions": [
+        {
+            "RegionName": "RegionName",
+            "Endpoint": "Endpoint",
+            "Status": "Status"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "PolicyTypeDescriptions": [
+        {
+            "PolicyTypeName": "PolicyTypeName",
+            "Description": "Description",
+            "PolicyAttributeTypeDescriptions": [
+                {
+                    "AttributeName": "AttributeName",
+                    "AttributeType": "AttributeType",
+                    "Description": "Description",
+                    "DefaultValue": "DefaultValue",
+                    "Cardinality": "Cardinality"
+                }
+            ]
+        }
+    ]
+}

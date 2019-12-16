@@ -1,0 +1,57 @@
+{
+    "instanceSnapshots": [
+        {
+            "name": "name",
+            "arn": "arn",
+            "supportCode": "supportCode",
+            "createdAt": "1970-01-01T00:00:00",
+            "location": {
+                "availabilityZone": "availabilityZone",
+                "regionName": "regionName"
+            },
+            "resourceType": "resourceType",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ],
+            "state": "state",
+            "progress": "progress",
+            "fromAttachedDisks": [
+                {
+                    "name": "name",
+                    "arn": "arn",
+                    "supportCode": "supportCode",
+                    "createdAt": "1970-01-01T00:00:00",
+                    "location": {
+                        "availabilityZone": "availabilityZone",
+                        "regionName": "regionName"
+                    },
+                    "resourceType": "resourceType",
+                    "tags": [
+                        {
+                            "key": "key",
+                            "value": "value"
+                        }
+                    ],
+                    "sizeInGb": 0,
+                    "isSystemDisk": true,
+                    "iops": 0,
+                    "path": "path",
+                    "state": "state",
+                    "attachedTo": "attachedTo",
+                    "isAttached": true,
+                    "attachmentState": "attachmentState",
+                    "gbInUse": 0
+                }
+            ],
+            "fromInstanceName": "fromInstanceName",
+            "fromInstanceArn": "fromInstanceArn",
+            "fromBlueprintId": "fromBlueprintId",
+            "fromBundleId": "fromBundleId",
+            "sizeInGb": 0
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

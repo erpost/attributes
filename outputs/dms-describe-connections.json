@@ -1,0 +1,13 @@
+{
+    "Marker": "Marker",
+    "Connections": [
+        {
+            "ReplicationInstanceArn": "ReplicationInstanceArn",
+            "EndpointArn": "EndpointArn",
+            "Status": "Status",
+            "LastFailureMessage": "LastFailureMessage",
+            "EndpointIdentifier": "EndpointIdentifier",
+            "ReplicationInstanceIdentifier": "ReplicationInstanceIdentifier"
+        }
+    ]
+}

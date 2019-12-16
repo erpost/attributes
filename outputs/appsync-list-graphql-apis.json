@@ -1,0 +1,49 @@
+{
+    "graphqlApis": [
+        {
+            "name": "name",
+            "apiId": "apiId",
+            "authenticationType": "authenticationType",
+            "logConfig": {
+                "fieldLogLevel": "fieldLogLevel",
+                "cloudWatchLogsRoleArn": "cloudWatchLogsRoleArn"
+            },
+            "userPoolConfig": {
+                "userPoolId": "userPoolId",
+                "awsRegion": "awsRegion",
+                "defaultAction": "defaultAction",
+                "appIdClientRegex": "appIdClientRegex"
+            },
+            "openIDConnectConfig": {
+                "issuer": "issuer",
+                "clientId": "clientId",
+                "iatTTL": 0,
+                "authTTL": 0
+            },
+            "arn": "arn",
+            "uris": {
+                "KeyName": ""
+            },
+            "tags": {
+                "KeyName": ""
+            },
+            "additionalAuthenticationProviders": [
+                {
+                    "authenticationType": "authenticationType",
+                    "openIDConnectConfig": {
+                        "issuer": "issuer",
+                        "clientId": "clientId",
+                        "iatTTL": 0,
+                        "authTTL": 0
+                    },
+                    "userPoolConfig": {
+                        "userPoolId": "userPoolId",
+                        "awsRegion": "awsRegion",
+                        "appIdClientRegex": "appIdClientRegex"
+                    }
+                }
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

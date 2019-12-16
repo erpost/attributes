@@ -1,0 +1,35 @@
+{
+    "Subnets": [
+        {
+            "AvailabilityZone": "AvailabilityZone",
+            "AvailabilityZoneId": "AvailabilityZoneId",
+            "AvailableIpAddressCount": 0,
+            "CidrBlock": "CidrBlock",
+            "DefaultForAz": true,
+            "MapPublicIpOnLaunch": true,
+            "State": "State",
+            "SubnetId": "SubnetId",
+            "VpcId": "VpcId",
+            "OwnerId": "OwnerId",
+            "AssignIpv6AddressOnCreation": true,
+            "Ipv6CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "AssociationId",
+                    "Ipv6CidrBlock": "Ipv6CidrBlock",
+                    "Ipv6CidrBlockState": {
+                        "State": "State",
+                        "StatusMessage": "StatusMessage"
+                    }
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "SubnetArn": "SubnetArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,97 @@
+{
+    "AutoScalingGroups": [
+        {
+            "AutoScalingGroupName": "AutoScalingGroupName",
+            "AutoScalingGroupARN": "AutoScalingGroupARN",
+            "LaunchConfigurationName": "LaunchConfigurationName",
+            "LaunchTemplate": {
+                "LaunchTemplateId": "LaunchTemplateId",
+                "LaunchTemplateName": "LaunchTemplateName",
+                "Version": "Version"
+            },
+            "MixedInstancesPolicy": {
+                "LaunchTemplate": {
+                    "LaunchTemplateSpecification": {
+                        "LaunchTemplateId": "LaunchTemplateId",
+                        "LaunchTemplateName": "LaunchTemplateName",
+                        "Version": "Version"
+                    },
+                    "Overrides": [
+                        {
+                            "InstanceType": "InstanceType"
+                        }
+                    ]
+                },
+                "InstancesDistribution": {
+                    "OnDemandAllocationStrategy": "OnDemandAllocationStrategy",
+                    "OnDemandBaseCapacity": 0,
+                    "OnDemandPercentageAboveBaseCapacity": 0,
+                    "SpotAllocationStrategy": "SpotAllocationStrategy",
+                    "SpotInstancePools": 0,
+                    "SpotMaxPrice": "SpotMaxPrice"
+                }
+            },
+            "MinSize": 0,
+            "MaxSize": 0,
+            "DesiredCapacity": 0,
+            "DefaultCooldown": 0,
+            "AvailabilityZones": [
+                "XmlStringMaxLen255"
+            ],
+            "LoadBalancerNames": [
+                "XmlStringMaxLen255"
+            ],
+            "TargetGroupARNs": [
+                "XmlStringMaxLen511"
+            ],
+            "HealthCheckType": "HealthCheckType",
+            "HealthCheckGracePeriod": 0,
+            "Instances": [
+                {
+                    "InstanceId": "InstanceId",
+                    "AvailabilityZone": "AvailabilityZone",
+                    "LifecycleState": "LifecycleState",
+                    "HealthStatus": "HealthStatus",
+                    "LaunchConfigurationName": "LaunchConfigurationName",
+                    "LaunchTemplate": {
+                        "LaunchTemplateId": "LaunchTemplateId",
+                        "LaunchTemplateName": "LaunchTemplateName",
+                        "Version": "Version"
+                    },
+                    "ProtectedFromScaleIn": true
+                }
+            ],
+            "CreatedTime": "1970-01-01T00:00:00",
+            "SuspendedProcesses": [
+                {
+                    "ProcessName": "ProcessName",
+                    "SuspensionReason": "SuspensionReason"
+                }
+            ],
+            "PlacementGroup": "PlacementGroup",
+            "VPCZoneIdentifier": "VPCZoneIdentifier",
+            "EnabledMetrics": [
+                {
+                    "Metric": "Metric",
+                    "Granularity": "Granularity"
+                }
+            ],
+            "Status": "Status",
+            "Tags": [
+                {
+                    "ResourceId": "ResourceId",
+                    "ResourceType": "ResourceType",
+                    "Key": "Key",
+                    "Value": "Value",
+                    "PropagateAtLaunch": true
+                }
+            ],
+            "TerminationPolicies": [
+                "XmlStringMaxLen1600"
+            ],
+            "NewInstancesProtectedFromScaleIn": true,
+            "ServiceLinkedRoleARN": "ServiceLinkedRoleARN"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,12 @@
+{
+    "ServiceErrors": [
+        {
+            "ServiceErrorId": "ServiceErrorId",
+            "StackId": "StackId",
+            "InstanceId": "InstanceId",
+            "Type": "Type",
+            "Message": "Message",
+            "CreatedAt": "CreatedAt"
+        }
+    ]
+}

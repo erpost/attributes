@@ -1,0 +1,30 @@
+{
+    "FieldLevelEncryptionProfileList": {
+        "NextMarker": "NextMarker",
+        "MaxItems": 0,
+        "Quantity": 0,
+        "Items": [
+            {
+                "Id": "Id",
+                "LastModifiedTime": "1970-01-01T00:00:00",
+                "Name": "Name",
+                "EncryptionEntities": {
+                    "Quantity": 0,
+                    "Items": [
+                        {
+                            "PublicKeyId": "PublicKeyId",
+                            "ProviderId": "ProviderId",
+                            "FieldPatterns": {
+                                "Quantity": 0,
+                                "Items": [
+                                    "string"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "Comment": "Comment"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "things": [
+        {
+            "thingName": "thingName",
+            "thingTypeName": "thingTypeName",
+            "thingArn": "thingArn",
+            "attributes": {
+                "KeyName": ""
+            },
+            "version": 0
+        }
+    ],
+    "nextToken": "nextToken"
+}

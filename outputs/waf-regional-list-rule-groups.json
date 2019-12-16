@@ -1,0 +1,9 @@
+{
+    "NextMarker": "NextMarker",
+    "RuleGroups": [
+        {
+            "RuleGroupId": "RuleGroupId",
+            "Name": "Name"
+        }
+    ]
+}

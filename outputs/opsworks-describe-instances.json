@@ -1,0 +1,68 @@
+{
+    "Instances": [
+        {
+            "AgentVersion": "AgentVersion",
+            "AmiId": "AmiId",
+            "Architecture": "Architecture",
+            "Arn": "Arn",
+            "AutoScalingType": "AutoScalingType",
+            "AvailabilityZone": "AvailabilityZone",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "DeviceName",
+                    "NoDevice": "NoDevice",
+                    "VirtualName": "VirtualName",
+                    "Ebs": {
+                        "SnapshotId": "SnapshotId",
+                        "Iops": 0,
+                        "VolumeSize": 0,
+                        "VolumeType": "VolumeType",
+                        "DeleteOnTermination": true
+                    }
+                }
+            ],
+            "CreatedAt": "CreatedAt",
+            "EbsOptimized": true,
+            "Ec2InstanceId": "Ec2InstanceId",
+            "EcsClusterArn": "EcsClusterArn",
+            "EcsContainerInstanceArn": "EcsContainerInstanceArn",
+            "ElasticIp": "ElasticIp",
+            "Hostname": "Hostname",
+            "InfrastructureClass": "InfrastructureClass",
+            "InstallUpdatesOnBoot": true,
+            "InstanceId": "InstanceId",
+            "InstanceProfileArn": "InstanceProfileArn",
+            "InstanceType": "InstanceType",
+            "LastServiceErrorId": "LastServiceErrorId",
+            "LayerIds": [
+                "String"
+            ],
+            "Os": "Os",
+            "Platform": "Platform",
+            "PrivateDns": "PrivateDns",
+            "PrivateIp": "PrivateIp",
+            "PublicDns": "PublicDns",
+            "PublicIp": "PublicIp",
+            "RegisteredBy": "RegisteredBy",
+            "ReportedAgentVersion": "ReportedAgentVersion",
+            "ReportedOs": {
+                "Family": "Family",
+                "Name": "Name",
+                "Version": "Version"
+            },
+            "RootDeviceType": "RootDeviceType",
+            "RootDeviceVolumeId": "RootDeviceVolumeId",
+            "SecurityGroupIds": [
+                "String"
+            ],
+            "SshHostDsaKeyFingerprint": "SshHostDsaKeyFingerprint",
+            "SshHostRsaKeyFingerprint": "SshHostRsaKeyFingerprint",
+            "SshKeyName": "SshKeyName",
+            "StackId": "StackId",
+            "Status": "Status",
+            "SubnetId": "SubnetId",
+            "Tenancy": "Tenancy",
+            "VirtualizationType": "VirtualizationType"
+        }
+    ]
+}

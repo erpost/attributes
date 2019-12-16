@@ -1,0 +1,19 @@
+{
+    "blueprints": [
+        {
+            "blueprintId": "blueprintId",
+            "name": "name",
+            "group": "group",
+            "type": "type",
+            "description": "description",
+            "isActive": true,
+            "minPower": 0,
+            "version": "version",
+            "versionCode": "versionCode",
+            "productUrl": "productUrl",
+            "licenseUrl": "licenseUrl",
+            "platform": "platform"
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

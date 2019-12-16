@@ -1,0 +1,27 @@
+{
+    "jobSummaryList": [
+        {
+            "jobId": "jobId",
+            "jobName": "jobName",
+            "createdAt": 0,
+            "status": "status",
+            "statusReason": "statusReason",
+            "startedAt": 0,
+            "stoppedAt": 0,
+            "container": {
+                "exitCode": 0,
+                "reason": "reason"
+            },
+            "arrayProperties": {
+                "size": 0,
+                "index": 0
+            },
+            "nodeProperties": {
+                "isMainNode": true,
+                "numNodes": 0,
+                "nodeIndex": 0
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

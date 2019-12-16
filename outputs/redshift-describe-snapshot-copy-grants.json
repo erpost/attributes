@@ -1,0 +1,15 @@
+{
+    "Marker": "Marker",
+    "SnapshotCopyGrants": [
+        {
+            "SnapshotCopyGrantName": "SnapshotCopyGrantName",
+            "KmsKeyId": "KmsKeyId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

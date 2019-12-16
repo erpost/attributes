@@ -1,0 +1,9 @@
+{
+    "NextToken": "NextToken",
+    "StreamProcessors": [
+        {
+            "Name": "Name",
+            "Status": "Status"
+        }
+    ]
+}

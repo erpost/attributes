@@ -1,0 +1,43 @@
+{
+    "InstanceStatuses": [
+        {
+            "AvailabilityZone": "AvailabilityZone",
+            "Events": [
+                {
+                    "InstanceEventId": "InstanceEventId",
+                    "Code": "Code",
+                    "Description": "Description",
+                    "NotAfter": "1970-01-01T00:00:00",
+                    "NotBefore": "1970-01-01T00:00:00",
+                    "NotBeforeDeadline": "1970-01-01T00:00:00"
+                }
+            ],
+            "InstanceId": "InstanceId",
+            "InstanceState": {
+                "Code": 0,
+                "Name": "Name"
+            },
+            "InstanceStatus": {
+                "Details": [
+                    {
+                        "ImpairedSince": "1970-01-01T00:00:00",
+                        "Name": "Name",
+                        "Status": "Status"
+                    }
+                ],
+                "Status": "Status"
+            },
+            "SystemStatus": {
+                "Details": [
+                    {
+                        "ImpairedSince": "1970-01-01T00:00:00",
+                        "Name": "Name",
+                        "Status": "Status"
+                    }
+                ],
+                "Status": "Status"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

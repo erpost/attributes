@@ -1,0 +1,14 @@
+{
+    "PaginationToken": "PaginationToken",
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "ResourceARN",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

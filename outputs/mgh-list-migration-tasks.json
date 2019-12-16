@@ -1,0 +1,13 @@
+{
+    "NextToken": "NextToken",
+    "MigrationTaskSummaryList": [
+        {
+            "ProgressUpdateStream": "ProgressUpdateStream",
+            "MigrationTaskName": "MigrationTaskName",
+            "Status": "Status",
+            "ProgressPercent": 0,
+            "StatusDetail": "StatusDetail",
+            "UpdateDateTime": "1970-01-01T00:00:00"
+        }
+    ]
+}

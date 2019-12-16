@@ -1,0 +1,11 @@
+{
+    "NextToken": "NextToken",
+    "NotebookInstanceLifecycleConfigs": [
+        {
+            "NotebookInstanceLifecycleConfigName": "NotebookInstanceLifecycleConfigName",
+            "NotebookInstanceLifecycleConfigArn": "NotebookInstanceLifecycleConfigArn",
+            "CreationTime": "1970-01-01T00:00:00",
+            "LastModifiedTime": "1970-01-01T00:00:00"
+        }
+    ]
+}

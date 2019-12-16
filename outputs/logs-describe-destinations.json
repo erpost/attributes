@@ -1,0 +1,13 @@
+{
+    "destinations": [
+        {
+            "destinationName": "destinationName",
+            "targetArn": "targetArn",
+            "roleArn": "roleArn",
+            "accessPolicy": "accessPolicy",
+            "arn": "arn",
+            "creationTime": 0
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,12 @@
+{
+    "locations": [
+        {
+            "locationCode": "locationCode",
+            "locationName": "locationName",
+            "region": "region",
+            "availablePortSpeeds": [
+                "PortSpeed"
+            ]
+        }
+    ]
+}

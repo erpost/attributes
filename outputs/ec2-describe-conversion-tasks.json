@@ -1,0 +1,55 @@
+{
+    "ConversionTasks": [
+        {
+            "ConversionTaskId": "ConversionTaskId",
+            "ExpirationTime": "ExpirationTime",
+            "ImportInstance": {
+                "Description": "Description",
+                "InstanceId": "InstanceId",
+                "Platform": "Platform",
+                "Volumes": [
+                    {
+                        "AvailabilityZone": "AvailabilityZone",
+                        "BytesConverted": 0,
+                        "Description": "Description",
+                        "Image": {
+                            "Checksum": "Checksum",
+                            "Format": "Format",
+                            "ImportManifestUrl": "ImportManifestUrl",
+                            "Size": 0
+                        },
+                        "Status": "Status",
+                        "StatusMessage": "StatusMessage",
+                        "Volume": {
+                            "Id": "Id",
+                            "Size": 0
+                        }
+                    }
+                ]
+            },
+            "ImportVolume": {
+                "AvailabilityZone": "AvailabilityZone",
+                "BytesConverted": 0,
+                "Description": "Description",
+                "Image": {
+                    "Checksum": "Checksum",
+                    "Format": "Format",
+                    "ImportManifestUrl": "ImportManifestUrl",
+                    "Size": 0
+                },
+                "Volume": {
+                    "Id": "Id",
+                    "Size": 0
+                }
+            },
+            "State": "State",
+            "StatusMessage": "StatusMessage",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

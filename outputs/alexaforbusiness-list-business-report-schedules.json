@@ -1,0 +1,28 @@
+{
+    "BusinessReportSchedules": [
+        {
+            "ScheduleArn": "ScheduleArn",
+            "ScheduleName": "ScheduleName",
+            "S3BucketName": "S3BucketName",
+            "S3KeyPrefix": "S3KeyPrefix",
+            "Format": "Format",
+            "ContentRange": {
+                "Interval": "Interval"
+            },
+            "Recurrence": {
+                "StartDate": "StartDate"
+            },
+            "LastBusinessReport": {
+                "Status": "Status",
+                "FailureCode": "FailureCode",
+                "S3Location": {
+                    "Path": "Path",
+                    "BucketName": "BucketName"
+                },
+                "DeliveryTime": "1970-01-01T00:00:00",
+                "DownloadUrl": "DownloadUrl"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

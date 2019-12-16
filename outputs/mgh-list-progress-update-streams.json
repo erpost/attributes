@@ -1,0 +1,8 @@
+{
+    "ProgressUpdateStreamSummaryList": [
+        {
+            "ProgressUpdateStreamName": "ProgressUpdateStreamName"
+        }
+    ],
+    "NextToken": "NextToken"
+}

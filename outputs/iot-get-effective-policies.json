@@ -1,0 +1,9 @@
+{
+    "effectivePolicies": [
+        {
+            "policyName": "policyName",
+            "policyArn": "policyArn",
+            "policyDocument": "policyDocument"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "NextToken": "NextToken",
+    "NumResults": 0,
+    "WorkerBlocks": [
+        {
+            "WorkerId": "WorkerId",
+            "Reason": "Reason"
+        }
+    ]
+}

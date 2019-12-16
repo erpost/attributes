@@ -1,0 +1,9 @@
+{
+    "NextToken": "NextToken",
+    "Vpcs": [
+        {
+            "ClassicLinkDnsSupported": true,
+            "VpcId": "VpcId"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "CompilationJobSummaries": [
+        {
+            "CompilationJobName": "CompilationJobName",
+            "CompilationJobArn": "CompilationJobArn",
+            "CreationTime": "1970-01-01T00:00:00",
+            "CompilationStartTime": "1970-01-01T00:00:00",
+            "CompilationEndTime": "1970-01-01T00:00:00",
+            "CompilationTargetDevice": "CompilationTargetDevice",
+            "LastModifiedTime": "1970-01-01T00:00:00",
+            "CompilationJobStatus": "CompilationJobStatus"
+        }
+    ],
+    "NextToken": "NextToken"
+}

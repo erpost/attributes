@@ -1,0 +1,9 @@
+{
+    "NextMarker": "NextMarker",
+    "RegexPatternSets": [
+        {
+            "RegexPatternSetId": "RegexPatternSetId",
+            "Name": "Name"
+        }
+    ]
+}

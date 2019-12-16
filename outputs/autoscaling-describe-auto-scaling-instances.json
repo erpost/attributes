@@ -1,0 +1,19 @@
+{
+    "AutoScalingInstances": [
+        {
+            "InstanceId": "InstanceId",
+            "AutoScalingGroupName": "AutoScalingGroupName",
+            "AvailabilityZone": "AvailabilityZone",
+            "LifecycleState": "LifecycleState",
+            "HealthStatus": "HealthStatus",
+            "LaunchConfigurationName": "LaunchConfigurationName",
+            "LaunchTemplate": {
+                "LaunchTemplateId": "LaunchTemplateId",
+                "LaunchTemplateName": "LaunchTemplateName",
+                "Version": "Version"
+            },
+            "ProtectedFromScaleIn": true
+        }
+    ],
+    "NextToken": "NextToken"
+}

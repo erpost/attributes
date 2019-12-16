@@ -1,0 +1,11 @@
+{
+    "ServiceActionSummaries": [
+        {
+            "Id": "Id",
+            "Name": "Name",
+            "Description": "Description",
+            "DefinitionType": "DefinitionType"
+        }
+    ],
+    "NextPageToken": "NextPageToken"
+}

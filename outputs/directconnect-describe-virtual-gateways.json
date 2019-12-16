@@ -1,0 +1,8 @@
+{
+    "virtualGateways": [
+        {
+            "virtualGatewayId": "virtualGatewayId",
+            "virtualGatewayState": "virtualGatewayState"
+        }
+    ]
+}

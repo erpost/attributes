@@ -1,0 +1,5 @@
+{
+    "TerminationPolicyTypes": [
+        "XmlStringMaxLen1600"
+    ]
+}

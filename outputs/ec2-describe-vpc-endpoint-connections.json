@@ -1,0 +1,21 @@
+{
+    "VpcEndpointConnections": [
+        {
+            "ServiceId": "ServiceId",
+            "VpcEndpointId": "VpcEndpointId",
+            "VpcEndpointOwner": "VpcEndpointOwner",
+            "VpcEndpointState": "VpcEndpointState",
+            "CreationTimestamp": "1970-01-01T00:00:00",
+            "DnsEntries": [
+                {
+                    "DnsName": "DnsName",
+                    "HostedZoneId": "HostedZoneId"
+                }
+            ],
+            "NetworkLoadBalancerArns": [
+                "String"
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

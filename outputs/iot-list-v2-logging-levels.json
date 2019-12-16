@@ -1,0 +1,12 @@
+{
+    "logTargetConfigurations": [
+        {
+            "logTarget": {
+                "targetType": "targetType",
+                "targetName": "targetName"
+            },
+            "logLevel": "logLevel"
+        }
+    ],
+    "nextToken": "nextToken"
+}

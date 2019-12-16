@@ -1,0 +1,21 @@
+{
+    "Entities": [
+        {
+            "Id": "Id",
+            "Data": {
+                "KeyName": {
+                    "TypeName": "TypeName",
+                    "SchemaVersion": "SchemaVersion",
+                    "CaptureTime": "CaptureTime",
+                    "ContentHash": "ContentHash",
+                    "Content": [
+                        {
+                            "KeyName": ""
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

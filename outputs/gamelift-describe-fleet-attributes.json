@@ -1,0 +1,36 @@
+{
+    "FleetAttributes": [
+        {
+            "FleetId": "FleetId",
+            "FleetArn": "FleetArn",
+            "FleetType": "FleetType",
+            "InstanceType": "InstanceType",
+            "Description": "Description",
+            "Name": "Name",
+            "CreationTime": "1970-01-01T00:00:00",
+            "TerminationTime": "1970-01-01T00:00:00",
+            "Status": "Status",
+            "BuildId": "BuildId",
+            "ScriptId": "ScriptId",
+            "ServerLaunchPath": "ServerLaunchPath",
+            "ServerLaunchParameters": "ServerLaunchParameters",
+            "LogPaths": [
+                "NonZeroAndMaxString"
+            ],
+            "NewGameSessionProtectionPolicy": "NewGameSessionProtectionPolicy",
+            "OperatingSystem": "OperatingSystem",
+            "ResourceCreationLimitPolicy": {
+                "NewGameSessionsPerCreator": 0,
+                "PolicyPeriodInMinutes": 0
+            },
+            "MetricGroups": [
+                "MetricGroup"
+            ],
+            "StoppedActions": [
+                "FleetAction"
+            ],
+            "InstanceRoleArn": "InstanceRoleArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,12 @@
+{
+    "Marker": "Marker",
+    "CacheEngineVersions": [
+        {
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "CacheParameterGroupFamily": "CacheParameterGroupFamily",
+            "CacheEngineDescription": "CacheEngineDescription",
+            "CacheEngineVersionDescription": "CacheEngineVersionDescription"
+        }
+    ]
+}

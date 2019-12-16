@@ -1,0 +1,29 @@
+{
+    "diskSnapshots": [
+        {
+            "name": "name",
+            "arn": "arn",
+            "supportCode": "supportCode",
+            "createdAt": "1970-01-01T00:00:00",
+            "location": {
+                "availabilityZone": "availabilityZone",
+                "regionName": "regionName"
+            },
+            "resourceType": "resourceType",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ],
+            "sizeInGb": 0,
+            "state": "state",
+            "progress": "progress",
+            "fromDiskName": "fromDiskName",
+            "fromDiskArn": "fromDiskArn",
+            "fromInstanceName": "fromInstanceName",
+            "fromInstanceArn": "fromInstanceArn"
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

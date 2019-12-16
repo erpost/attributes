@@ -1,0 +1,13 @@
+{
+    "Assets": [
+        {
+            "Arn": "Arn",
+            "Id": "Id",
+            "PackagingGroupId": "PackagingGroupId",
+            "ResourceId": "ResourceId",
+            "SourceArn": "SourceArn",
+            "SourceRoleArn": "SourceRoleArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

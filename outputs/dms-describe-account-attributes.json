@@ -1,0 +1,10 @@
+{
+    "AccountQuotas": [
+        {
+            "AccountQuotaName": "AccountQuotaName",
+            "Used": 0,
+            "Max": 0
+        }
+    ],
+    "UniqueAccountIdentifier": "UniqueAccountIdentifier"
+}

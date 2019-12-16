@@ -1,0 +1,22 @@
+{
+    "Namespaces": [
+        {
+            "Id": "Id",
+            "Arn": "Arn",
+            "Name": "Name",
+            "Type": "Type",
+            "Description": "Description",
+            "ServiceCount": 0,
+            "Properties": {
+                "DnsProperties": {
+                    "HostedZoneId": "HostedZoneId"
+                },
+                "HttpProperties": {
+                    "HttpName": "HttpName"
+                }
+            },
+            "CreateDate": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

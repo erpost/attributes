@@ -1,0 +1,9 @@
+{
+    "authorizers": [
+        {
+            "authorizerName": "authorizerName",
+            "authorizerArn": "authorizerArn"
+        }
+    ],
+    "nextMarker": "nextMarker"
+}

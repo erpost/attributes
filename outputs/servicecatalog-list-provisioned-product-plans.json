@@ -1,0 +1,13 @@
+{
+    "ProvisionedProductPlans": [
+        {
+            "PlanName": "PlanName",
+            "PlanId": "PlanId",
+            "ProvisionProductId": "ProvisionProductId",
+            "ProvisionProductName": "ProvisionProductName",
+            "PlanType": "PlanType",
+            "ProvisioningArtifactId": "ProvisioningArtifactId"
+        }
+    ],
+    "NextPageToken": "NextPageToken"
+}

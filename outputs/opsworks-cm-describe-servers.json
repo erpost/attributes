@@ -1,0 +1,39 @@
+{
+    "Servers": [
+        {
+            "AssociatePublicIpAddress": true,
+            "BackupRetentionCount": 0,
+            "ServerName": "ServerName",
+            "CreatedAt": "1970-01-01T00:00:00",
+            "CloudFormationStackArn": "CloudFormationStackArn",
+            "DisableAutomatedBackup": true,
+            "Endpoint": "Endpoint",
+            "Engine": "Engine",
+            "EngineModel": "EngineModel",
+            "EngineAttributes": [
+                {
+                    "Name": "Name",
+                    "Value": "Value"
+                }
+            ],
+            "EngineVersion": "EngineVersion",
+            "InstanceProfileArn": "InstanceProfileArn",
+            "InstanceType": "InstanceType",
+            "KeyPair": "KeyPair",
+            "MaintenanceStatus": "MaintenanceStatus",
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "PreferredBackupWindow": "PreferredBackupWindow",
+            "SecurityGroupIds": [
+                "String"
+            ],
+            "ServiceRoleArn": "ServiceRoleArn",
+            "Status": "Status",
+            "StatusReason": "StatusReason",
+            "SubnetIds": [
+                "String"
+            ],
+            "ServerArn": "ServerArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,14 @@
+{
+    "services": [
+        {
+            "code": "code",
+            "name": "name",
+            "categories": [
+                {
+                    "code": "code",
+                    "name": "name"
+                }
+            ]
+        }
+    ]
+}

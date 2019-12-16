@@ -1,0 +1,6 @@
+{
+    "serviceArns": [
+        "String"
+    ],
+    "nextToken": "nextToken"
+}

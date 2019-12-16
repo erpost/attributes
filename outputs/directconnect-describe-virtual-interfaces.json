@@ -1,0 +1,51 @@
+{
+    "virtualInterfaces": [
+        {
+            "ownerAccount": "ownerAccount",
+            "virtualInterfaceId": "virtualInterfaceId",
+            "location": "location",
+            "connectionId": "connectionId",
+            "virtualInterfaceType": "virtualInterfaceType",
+            "virtualInterfaceName": "virtualInterfaceName",
+            "vlan": 0,
+            "asn": 0,
+            "amazonSideAsn": 0,
+            "authKey": "authKey",
+            "amazonAddress": "amazonAddress",
+            "customerAddress": "customerAddress",
+            "addressFamily": "addressFamily",
+            "virtualInterfaceState": "virtualInterfaceState",
+            "customerRouterConfig": "customerRouterConfig",
+            "mtu": 0,
+            "jumboFrameCapable": true,
+            "virtualGatewayId": "virtualGatewayId",
+            "directConnectGatewayId": "directConnectGatewayId",
+            "routeFilterPrefixes": [
+                {
+                    "cidr": "cidr"
+                }
+            ],
+            "bgpPeers": [
+                {
+                    "bgpPeerId": "bgpPeerId",
+                    "asn": 0,
+                    "authKey": "authKey",
+                    "addressFamily": "addressFamily",
+                    "amazonAddress": "amazonAddress",
+                    "customerAddress": "customerAddress",
+                    "bgpPeerState": "bgpPeerState",
+                    "bgpStatus": "bgpStatus",
+                    "awsDeviceV2": "awsDeviceV2"
+                }
+            ],
+            "region": "region",
+            "awsDeviceV2": "awsDeviceV2",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ]
+        }
+    ]
+}

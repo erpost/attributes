@@ -1,0 +1,21 @@
+{
+    "Addresses": [
+        {
+            "InstanceId": "InstanceId",
+            "PublicIp": "PublicIp",
+            "AllocationId": "AllocationId",
+            "AssociationId": "AssociationId",
+            "Domain": "Domain",
+            "NetworkInterfaceId": "NetworkInterfaceId",
+            "NetworkInterfaceOwnerId": "NetworkInterfaceOwnerId",
+            "PrivateIpAddress": "PrivateIpAddress",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "PublicIpv4Pool": "PublicIpv4Pool"
+        }
+    ]
+}

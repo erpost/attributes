@@ -1,0 +1,39 @@
+{
+    "FieldLevelEncryptionList": {
+        "NextMarker": "NextMarker",
+        "MaxItems": 0,
+        "Quantity": 0,
+        "Items": [
+            {
+                "Id": "Id",
+                "LastModifiedTime": "1970-01-01T00:00:00",
+                "Comment": "Comment",
+                "QueryArgProfileConfig": {
+                    "ForwardWhenQueryArgProfileIsUnknown": true,
+                    "QueryArgProfiles": {
+                        "Quantity": 0,
+                        "Items": [
+                            {
+                                "QueryArg": "QueryArg",
+                                "ProfileId": "ProfileId"
+                            }
+                        ]
+                    }
+                },
+                "ContentTypeProfileConfig": {
+                    "ForwardWhenContentTypeIsUnknown": true,
+                    "ContentTypeProfiles": {
+                        "Quantity": 0,
+                        "Items": [
+                            {
+                                "Format": "Format",
+                                "ProfileId": "ProfileId",
+                                "ContentType": "ContentType"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

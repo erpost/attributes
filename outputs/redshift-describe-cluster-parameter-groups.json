@@ -1,0 +1,16 @@
+{
+    "Marker": "Marker",
+    "ParameterGroups": [
+        {
+            "ParameterGroupName": "ParameterGroupName",
+            "ParameterGroupFamily": "ParameterGroupFamily",
+            "Description": "Description",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "InternetGateways": [
+        {
+            "Attachments": [
+                {
+                    "State": "State",
+                    "VpcId": "VpcId"
+                }
+            ],
+            "InternetGatewayId": "InternetGatewayId",
+            "OwnerId": "OwnerId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

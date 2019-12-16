@@ -1,0 +1,23 @@
+{
+    "Parameters": [
+        {
+            "Name": "Name",
+            "Type": "Type",
+            "KeyId": "KeyId",
+            "LastModifiedDate": "1970-01-01T00:00:00",
+            "LastModifiedUser": "LastModifiedUser",
+            "Description": "Description",
+            "AllowedPattern": "AllowedPattern",
+            "Version": 0,
+            "Tier": "Tier",
+            "Policies": [
+                {
+                    "PolicyText": "PolicyText",
+                    "PolicyType": "PolicyType",
+                    "PolicyStatus": "PolicyStatus"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

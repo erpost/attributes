@@ -1,0 +1,33 @@
+{
+    "Volumes": [
+        {
+            "Attachments": [
+                {
+                    "AttachTime": "1970-01-01T00:00:00",
+                    "Device": "Device",
+                    "InstanceId": "InstanceId",
+                    "State": "State",
+                    "VolumeId": "VolumeId",
+                    "DeleteOnTermination": true
+                }
+            ],
+            "AvailabilityZone": "AvailabilityZone",
+            "CreateTime": "1970-01-01T00:00:00",
+            "Encrypted": true,
+            "KmsKeyId": "KmsKeyId",
+            "Size": 0,
+            "SnapshotId": "SnapshotId",
+            "State": "State",
+            "VolumeId": "VolumeId",
+            "Iops": 0,
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VolumeType": "VolumeType"
+        }
+    ],
+    "NextToken": "NextToken"
+}

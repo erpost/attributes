@@ -1,0 +1,10 @@
+{
+    "groundStationList": [
+        {
+            "groundStationId": "groundStationId",
+            "groundStationName": "groundStationName",
+            "region": "region"
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,38 @@
+{
+    "StreamingDistributionList": {
+        "Marker": "Marker",
+        "NextMarker": "NextMarker",
+        "MaxItems": 0,
+        "IsTruncated": true,
+        "Quantity": 0,
+        "Items": [
+            {
+                "Id": "Id",
+                "ARN": "ARN",
+                "Status": "Status",
+                "LastModifiedTime": "1970-01-01T00:00:00",
+                "DomainName": "DomainName",
+                "S3Origin": {
+                    "DomainName": "DomainName",
+                    "OriginAccessIdentity": "OriginAccessIdentity"
+                },
+                "Aliases": {
+                    "Quantity": 0,
+                    "Items": [
+                        "string"
+                    ]
+                },
+                "TrustedSigners": {
+                    "Enabled": true,
+                    "Quantity": 0,
+                    "Items": [
+                        "string"
+                    ]
+                },
+                "Comment": "Comment",
+                "PriceClass": "PriceClass",
+                "Enabled": true
+            }
+        ]
+    }
+}

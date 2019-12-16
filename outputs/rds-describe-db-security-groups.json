@@ -1,0 +1,26 @@
+{
+    "Marker": "Marker",
+    "DBSecurityGroups": [
+        {
+            "OwnerId": "OwnerId",
+            "DBSecurityGroupName": "DBSecurityGroupName",
+            "DBSecurityGroupDescription": "DBSecurityGroupDescription",
+            "VpcId": "VpcId",
+            "EC2SecurityGroups": [
+                {
+                    "Status": "Status",
+                    "EC2SecurityGroupName": "EC2SecurityGroupName",
+                    "EC2SecurityGroupId": "EC2SecurityGroupId",
+                    "EC2SecurityGroupOwnerId": "EC2SecurityGroupOwnerId"
+                }
+            ],
+            "IPRanges": [
+                {
+                    "Status": "Status",
+                    "CIDRIP": "CIDRIP"
+                }
+            ],
+            "DBSecurityGroupArn": "DBSecurityGroupArn"
+        }
+    ]
+}

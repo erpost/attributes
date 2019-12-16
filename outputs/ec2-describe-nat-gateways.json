@@ -1,0 +1,36 @@
+{
+    "NatGateways": [
+        {
+            "CreateTime": "1970-01-01T00:00:00",
+            "DeleteTime": "1970-01-01T00:00:00",
+            "FailureCode": "FailureCode",
+            "FailureMessage": "FailureMessage",
+            "NatGatewayAddresses": [
+                {
+                    "AllocationId": "AllocationId",
+                    "NetworkInterfaceId": "NetworkInterfaceId",
+                    "PrivateIp": "PrivateIp",
+                    "PublicIp": "PublicIp"
+                }
+            ],
+            "NatGatewayId": "NatGatewayId",
+            "ProvisionedBandwidth": {
+                "ProvisionTime": "1970-01-01T00:00:00",
+                "Provisioned": "Provisioned",
+                "RequestTime": "1970-01-01T00:00:00",
+                "Requested": "Requested",
+                "Status": "Status"
+            },
+            "State": "State",
+            "SubnetId": "SubnetId",
+            "VpcId": "VpcId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

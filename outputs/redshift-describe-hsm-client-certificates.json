@@ -1,0 +1,15 @@
+{
+    "Marker": "Marker",
+    "HsmClientCertificates": [
+        {
+            "HsmClientCertificateIdentifier": "HsmClientCertificateIdentifier",
+            "HsmClientCertificatePublicKey": "HsmClientCertificatePublicKey",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

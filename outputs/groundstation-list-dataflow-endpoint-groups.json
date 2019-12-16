@@ -1,0 +1,9 @@
+{
+    "dataflowEndpointGroupList": [
+        {
+            "dataflowEndpointGroupArn": "dataflowEndpointGroupArn",
+            "dataflowEndpointGroupId": "dataflowEndpointGroupId"
+        }
+    ],
+    "nextToken": "nextToken"
+}

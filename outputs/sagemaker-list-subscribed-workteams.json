@@ -1,0 +1,12 @@
+{
+    "SubscribedWorkteams": [
+        {
+            "WorkteamArn": "WorkteamArn",
+            "MarketplaceTitle": "MarketplaceTitle",
+            "SellerName": "SellerName",
+            "MarketplaceDescription": "MarketplaceDescription",
+            "ListingId": "ListingId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

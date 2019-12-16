@@ -1,0 +1,23 @@
+{
+    "ConferenceProviders": [
+        {
+            "Arn": "Arn",
+            "Name": "Name",
+            "Type": "Type",
+            "IPDialIn": {
+                "Endpoint": "Endpoint",
+                "CommsProtocol": "CommsProtocol"
+            },
+            "PSTNDialIn": {
+                "CountryCode": "CountryCode",
+                "PhoneNumber": "PhoneNumber",
+                "OneClickIdDelay": "OneClickIdDelay",
+                "OneClickPinDelay": "OneClickPinDelay"
+            },
+            "MeetingSetting": {
+                "RequirePin": "RequirePin"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

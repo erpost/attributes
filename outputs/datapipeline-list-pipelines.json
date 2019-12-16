@@ -1,0 +1,10 @@
+{
+    "pipelineIdList": [
+        {
+            "id": "id",
+            "name": "name"
+        }
+    ],
+    "marker": "marker",
+    "hasMoreResults": true
+}

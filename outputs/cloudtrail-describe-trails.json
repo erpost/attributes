@@ -1,0 +1,21 @@
+{
+    "trailList": [
+        {
+            "Name": "Name",
+            "S3BucketName": "S3BucketName",
+            "S3KeyPrefix": "S3KeyPrefix",
+            "SnsTopicName": "SnsTopicName",
+            "SnsTopicARN": "SnsTopicARN",
+            "IncludeGlobalServiceEvents": true,
+            "IsMultiRegionTrail": true,
+            "HomeRegion": "HomeRegion",
+            "TrailARN": "TrailARN",
+            "LogFileValidationEnabled": true,
+            "CloudWatchLogsLogGroupArn": "CloudWatchLogsLogGroupArn",
+            "CloudWatchLogsRoleArn": "CloudWatchLogsRoleArn",
+            "KmsKeyId": "KmsKeyId",
+            "HasCustomEventSelectors": true,
+            "IsOrganizationTrail": true
+        }
+    ]
+}

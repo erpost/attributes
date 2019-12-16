@@ -1,0 +1,52 @@
+{
+    "ClientVpnEndpoints": [
+        {
+            "ClientVpnEndpointId": "ClientVpnEndpointId",
+            "Description": "Description",
+            "Status": {
+                "Code": "Code",
+                "Message": "Message"
+            },
+            "CreationTime": "CreationTime",
+            "DeletionTime": "DeletionTime",
+            "DnsName": "DnsName",
+            "ClientCidrBlock": "ClientCidrBlock",
+            "DnsServers": [
+                "String"
+            ],
+            "SplitTunnel": true,
+            "VpnProtocol": "VpnProtocol",
+            "TransportProtocol": "TransportProtocol",
+            "AssociatedTargetNetworks": [
+                {
+                    "NetworkId": "NetworkId",
+                    "NetworkType": "NetworkType"
+                }
+            ],
+            "ServerCertificateArn": "ServerCertificateArn",
+            "AuthenticationOptions": [
+                {
+                    "Type": "Type",
+                    "ActiveDirectory": {
+                        "DirectoryId": "DirectoryId"
+                    },
+                    "MutualAuthentication": {
+                        "ClientRootCertificateChain": "ClientRootCertificateChain"
+                    }
+                }
+            ],
+            "ConnectionLogOptions": {
+                "Enabled": true,
+                "CloudwatchLogGroup": "CloudwatchLogGroup",
+                "CloudwatchLogStream": "CloudwatchLogStream"
+            },
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

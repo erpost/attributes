@@ -1,0 +1,57 @@
+{
+    "relationalDatabases": [
+        {
+            "name": "name",
+            "arn": "arn",
+            "supportCode": "supportCode",
+            "createdAt": "1970-01-01T00:00:00",
+            "location": {
+                "availabilityZone": "availabilityZone",
+                "regionName": "regionName"
+            },
+            "resourceType": "resourceType",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ],
+            "relationalDatabaseBlueprintId": "relationalDatabaseBlueprintId",
+            "relationalDatabaseBundleId": "relationalDatabaseBundleId",
+            "masterDatabaseName": "masterDatabaseName",
+            "hardware": {
+                "cpuCount": 0,
+                "diskSizeInGb": 0,
+                "ramSizeInGb": 0.0
+            },
+            "state": "state",
+            "secondaryAvailabilityZone": "secondaryAvailabilityZone",
+            "backupRetentionEnabled": true,
+            "pendingModifiedValues": {
+                "masterUserPassword": "masterUserPassword",
+                "engineVersion": "engineVersion",
+                "backupRetentionEnabled": true
+            },
+            "engine": "engine",
+            "engineVersion": "engineVersion",
+            "latestRestorableTime": "1970-01-01T00:00:00",
+            "masterUsername": "masterUsername",
+            "parameterApplyStatus": "parameterApplyStatus",
+            "preferredBackupWindow": "preferredBackupWindow",
+            "preferredMaintenanceWindow": "preferredMaintenanceWindow",
+            "publiclyAccessible": true,
+            "masterEndpoint": {
+                "port": 0,
+                "address": "address"
+            },
+            "pendingMaintenanceActions": [
+                {
+                    "action": "action",
+                    "description": "description",
+                    "currentApplyDate": "1970-01-01T00:00:00"
+                }
+            ]
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

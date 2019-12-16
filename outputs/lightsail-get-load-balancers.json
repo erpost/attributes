@@ -1,0 +1,46 @@
+{
+    "loadBalancers": [
+        {
+            "name": "name",
+            "arn": "arn",
+            "supportCode": "supportCode",
+            "createdAt": "1970-01-01T00:00:00",
+            "location": {
+                "availabilityZone": "availabilityZone",
+                "regionName": "regionName"
+            },
+            "resourceType": "resourceType",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ],
+            "dnsName": "dnsName",
+            "state": "state",
+            "protocol": "protocol",
+            "publicPorts": [
+                0
+            ],
+            "healthCheckPath": "healthCheckPath",
+            "instancePort": 0,
+            "instanceHealthSummary": [
+                {
+                    "instanceName": "instanceName",
+                    "instanceHealth": "instanceHealth",
+                    "instanceHealthReason": "instanceHealthReason"
+                }
+            ],
+            "tlsCertificateSummaries": [
+                {
+                    "name": "name",
+                    "isAttached": true
+                }
+            ],
+            "configurationOptions": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

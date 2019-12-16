@@ -1,0 +1,23 @@
+{
+    "Channels": [
+        {
+            "Arn": "Arn",
+            "Description": "Description",
+            "HlsIngest": {
+                "IngestEndpoints": [
+                    {
+                        "Id": "Id",
+                        "Password": "Password",
+                        "Url": "Url",
+                        "Username": "Username"
+                    }
+                ]
+            },
+            "Id": "Id",
+            "Tags": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

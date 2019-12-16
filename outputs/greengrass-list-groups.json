@@ -1,0 +1,14 @@
+{
+    "Groups": [
+        {
+            "Arn": "Arn",
+            "CreationTimestamp": "CreationTimestamp",
+            "Id": "Id",
+            "LastUpdatedTimestamp": "LastUpdatedTimestamp",
+            "LatestVersion": "LatestVersion",
+            "LatestVersionArn": "LatestVersionArn",
+            "Name": "Name"
+        }
+    ],
+    "NextToken": "NextToken"
+}

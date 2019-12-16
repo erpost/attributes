@@ -1,0 +1,39 @@
+{
+    "Clusters": [
+        {
+            "BackupPolicy": "BackupPolicy",
+            "ClusterId": "ClusterId",
+            "CreateTimestamp": "1970-01-01T00:00:00",
+            "Hsms": [
+                {
+                    "AvailabilityZone": "AvailabilityZone",
+                    "ClusterId": "ClusterId",
+                    "SubnetId": "SubnetId",
+                    "EniId": "EniId",
+                    "EniIp": "EniIp",
+                    "HsmId": "HsmId",
+                    "State": "State",
+                    "StateMessage": "StateMessage"
+                }
+            ],
+            "HsmType": "HsmType",
+            "PreCoPassword": "PreCoPassword",
+            "SecurityGroup": "SecurityGroup",
+            "SourceBackupId": "SourceBackupId",
+            "State": "State",
+            "StateMessage": "StateMessage",
+            "SubnetMapping": {
+                "KeyName": ""
+            },
+            "VpcId": "VpcId",
+            "Certificates": {
+                "ClusterCsr": "ClusterCsr",
+                "HsmCertificate": "HsmCertificate",
+                "AwsHardwareCertificate": "AwsHardwareCertificate",
+                "ManufacturerHardwareCertificate": "ManufacturerHardwareCertificate",
+                "ClusterCertificate": "ClusterCertificate"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

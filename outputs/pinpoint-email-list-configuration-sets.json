@@ -1,0 +1,6 @@
+{
+    "ConfigurationSets": [
+        "ConfigurationSetName"
+    ],
+    "NextToken": "NextToken"
+}

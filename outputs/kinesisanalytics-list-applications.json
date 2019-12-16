@@ -1,0 +1,10 @@
+{
+    "ApplicationSummaries": [
+        {
+            "ApplicationName": "ApplicationName",
+            "ApplicationARN": "ApplicationARN",
+            "ApplicationStatus": "ApplicationStatus"
+        }
+    ],
+    "HasMoreApplications": true
+}

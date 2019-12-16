@@ -1,0 +1,6 @@
+{
+    "ProductSubscriptions": [
+        "NonEmptyString"
+    ],
+    "NextToken": "NextToken"
+}

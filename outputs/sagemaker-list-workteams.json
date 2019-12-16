@@ -1,0 +1,28 @@
+{
+    "Workteams": [
+        {
+            "WorkteamName": "WorkteamName",
+            "MemberDefinitions": [
+                {
+                    "CognitoMemberDefinition": {
+                        "UserPool": "UserPool",
+                        "UserGroup": "UserGroup",
+                        "ClientId": "ClientId"
+                    }
+                }
+            ],
+            "WorkteamArn": "WorkteamArn",
+            "ProductListingIds": [
+                "String"
+            ],
+            "Description": "Description",
+            "SubDomain": "SubDomain",
+            "CreateDate": "1970-01-01T00:00:00",
+            "LastUpdatedDate": "1970-01-01T00:00:00",
+            "NotificationConfiguration": {
+                "NotificationTopicArn": "NotificationTopicArn"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

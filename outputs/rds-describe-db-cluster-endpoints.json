@@ -1,0 +1,21 @@
+{
+    "Marker": "Marker",
+    "DBClusterEndpoints": [
+        {
+            "DBClusterEndpointIdentifier": "DBClusterEndpointIdentifier",
+            "DBClusterIdentifier": "DBClusterIdentifier",
+            "DBClusterEndpointResourceIdentifier": "DBClusterEndpointResourceIdentifier",
+            "Endpoint": "Endpoint",
+            "Status": "Status",
+            "EndpointType": "EndpointType",
+            "CustomEndpointType": "CustomEndpointType",
+            "StaticMembers": [
+                "String"
+            ],
+            "ExcludedMembers": [
+                "String"
+            ],
+            "DBClusterEndpointArn": "DBClusterEndpointArn"
+        }
+    ]
+}

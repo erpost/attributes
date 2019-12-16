@@ -1,0 +1,15 @@
+{
+    "subscriptions": [
+        {
+            "resourceArn": "resourceArn",
+            "topicArn": "topicArn",
+            "eventSubscriptions": [
+                {
+                    "event": "event",
+                    "subscribedAt": "1970-01-01T00:00:00"
+                }
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

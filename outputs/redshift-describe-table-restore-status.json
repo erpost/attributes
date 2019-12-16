@@ -1,0 +1,21 @@
+{
+    "TableRestoreStatusDetails": [
+        {
+            "TableRestoreRequestId": "TableRestoreRequestId",
+            "Status": "Status",
+            "Message": "Message",
+            "RequestTime": "1970-01-01T00:00:00",
+            "ProgressInMegaBytes": 0,
+            "TotalDataInMegaBytes": 0,
+            "ClusterIdentifier": "ClusterIdentifier",
+            "SnapshotIdentifier": "SnapshotIdentifier",
+            "SourceDatabaseName": "SourceDatabaseName",
+            "SourceSchemaName": "SourceSchemaName",
+            "SourceTableName": "SourceTableName",
+            "TargetDatabaseName": "TargetDatabaseName",
+            "TargetSchemaName": "TargetSchemaName",
+            "NewTableName": "NewTableName"
+        }
+    ],
+    "Marker": "Marker"
+}

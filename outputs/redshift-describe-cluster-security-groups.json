@@ -1,0 +1,40 @@
+{
+    "Marker": "Marker",
+    "ClusterSecurityGroups": [
+        {
+            "ClusterSecurityGroupName": "ClusterSecurityGroupName",
+            "Description": "Description",
+            "EC2SecurityGroups": [
+                {
+                    "Status": "Status",
+                    "EC2SecurityGroupName": "EC2SecurityGroupName",
+                    "EC2SecurityGroupOwnerId": "EC2SecurityGroupOwnerId",
+                    "Tags": [
+                        {
+                            "Key": "Key",
+                            "Value": "Value"
+                        }
+                    ]
+                }
+            ],
+            "IPRanges": [
+                {
+                    "Status": "Status",
+                    "CIDRIP": "CIDRIP",
+                    "Tags": [
+                        {
+                            "Key": "Key",
+                            "Value": "Value"
+                        }
+                    ]
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

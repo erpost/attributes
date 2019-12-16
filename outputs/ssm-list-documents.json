@@ -1,0 +1,24 @@
+{
+    "DocumentIdentifiers": [
+        {
+            "Name": "Name",
+            "Owner": "Owner",
+            "VersionName": "VersionName",
+            "PlatformTypes": [
+                "PlatformType"
+            ],
+            "DocumentVersion": "DocumentVersion",
+            "DocumentType": "DocumentType",
+            "SchemaVersion": "SchemaVersion",
+            "DocumentFormat": "DocumentFormat",
+            "TargetType": "TargetType",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

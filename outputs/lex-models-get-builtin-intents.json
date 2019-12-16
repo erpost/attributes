@@ -1,0 +1,11 @@
+{
+    "intents": [
+        {
+            "signature": "signature",
+            "supportedLocales": [
+                "Locale"
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

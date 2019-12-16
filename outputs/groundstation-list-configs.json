@@ -1,0 +1,11 @@
+{
+    "configList": [
+        {
+            "configArn": "configArn",
+            "configId": "configId",
+            "configType": "configType",
+            "name": "name"
+        }
+    ],
+    "nextToken": "nextToken"
+}

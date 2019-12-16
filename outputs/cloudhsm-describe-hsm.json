@@ -1,0 +1,25 @@
+{
+    "HsmArn": "HsmArn",
+    "Status": "Status",
+    "StatusDetails": "StatusDetails",
+    "AvailabilityZone": "AvailabilityZone",
+    "EniId": "EniId",
+    "EniIp": "EniIp",
+    "SubscriptionType": "SubscriptionType",
+    "SubscriptionStartDate": "SubscriptionStartDate",
+    "SubscriptionEndDate": "SubscriptionEndDate",
+    "VpcId": "VpcId",
+    "SubnetId": "SubnetId",
+    "IamRoleArn": "IamRoleArn",
+    "SerialNumber": "SerialNumber",
+    "VendorName": "VendorName",
+    "HsmType": "HsmType",
+    "SoftwareVersion": "SoftwareVersion",
+    "SshPublicKey": "SshPublicKey",
+    "SshKeyLastUpdated": "SshKeyLastUpdated",
+    "ServerCertUri": "ServerCertUri",
+    "ServerCertLastUpdated": "ServerCertLastUpdated",
+    "Partitions": [
+        "PartitionArn"
+    ]
+}

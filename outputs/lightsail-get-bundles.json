@@ -1,0 +1,20 @@
+{
+    "bundles": [
+        {
+            "price": 0.0,
+            "cpuCount": 0,
+            "diskSizeInGb": 0,
+            "bundleId": "bundleId",
+            "instanceType": "instanceType",
+            "isActive": true,
+            "name": "name",
+            "power": 0,
+            "ramSizeInGb": 0.0,
+            "transferPerMonthInGb": 0,
+            "supportedPlatforms": [
+                "InstancePlatform"
+            ]
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

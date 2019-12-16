@@ -1,0 +1,14 @@
+{
+    "PolicyDescriptions": [
+        {
+            "PolicyName": "PolicyName",
+            "PolicyTypeName": "PolicyTypeName",
+            "PolicyAttributeDescriptions": [
+                {
+                    "AttributeName": "AttributeName",
+                    "AttributeValue": "AttributeValue"
+                }
+            ]
+        }
+    ]
+}

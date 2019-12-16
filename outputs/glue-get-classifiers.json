@@ -1,0 +1,45 @@
+{
+    "Classifiers": [
+        {
+            "GrokClassifier": {
+                "Name": "Name",
+                "Classification": "Classification",
+                "CreationTime": "1970-01-01T00:00:00",
+                "LastUpdated": "1970-01-01T00:00:00",
+                "Version": 0,
+                "GrokPattern": "GrokPattern",
+                "CustomPatterns": "CustomPatterns"
+            },
+            "XMLClassifier": {
+                "Name": "Name",
+                "Classification": "Classification",
+                "CreationTime": "1970-01-01T00:00:00",
+                "LastUpdated": "1970-01-01T00:00:00",
+                "Version": 0,
+                "RowTag": "RowTag"
+            },
+            "JsonClassifier": {
+                "Name": "Name",
+                "CreationTime": "1970-01-01T00:00:00",
+                "LastUpdated": "1970-01-01T00:00:00",
+                "Version": 0,
+                "JsonPath": "JsonPath"
+            },
+            "CsvClassifier": {
+                "Name": "Name",
+                "CreationTime": "1970-01-01T00:00:00",
+                "LastUpdated": "1970-01-01T00:00:00",
+                "Version": 0,
+                "Delimiter": "Delimiter",
+                "QuoteSymbol": "QuoteSymbol",
+                "ContainsHeader": "ContainsHeader",
+                "Header": [
+                    "NameString"
+                ],
+                "DisableValueTrimming": true,
+                "AllowSingleColumn": true
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

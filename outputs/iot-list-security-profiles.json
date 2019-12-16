@@ -1,0 +1,9 @@
+{
+    "securityProfileIdentifiers": [
+        {
+            "name": "name",
+            "arn": "arn"
+        }
+    ],
+    "nextToken": "nextToken"
+}

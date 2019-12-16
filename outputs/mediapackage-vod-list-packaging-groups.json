@@ -1,0 +1,9 @@
+{
+    "NextToken": "NextToken",
+    "PackagingGroups": [
+        {
+            "Arn": "Arn",
+            "Id": "Id"
+        }
+    ]
+}

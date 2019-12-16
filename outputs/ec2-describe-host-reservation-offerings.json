@@ -1,0 +1,14 @@
+{
+    "NextToken": "NextToken",
+    "OfferingSet": [
+        {
+            "CurrencyCode": "CurrencyCode",
+            "Duration": 0,
+            "HourlyPrice": "HourlyPrice",
+            "InstanceFamily": "InstanceFamily",
+            "OfferingId": "OfferingId",
+            "PaymentOption": "PaymentOption",
+            "UpfrontPrice": "UpfrontPrice"
+        }
+    ]
+}

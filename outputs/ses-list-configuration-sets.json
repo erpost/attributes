@@ -1,0 +1,8 @@
+{
+    "ConfigurationSets": [
+        {
+            "Name": "Name"
+        }
+    ],
+    "NextToken": "NextToken"
+}

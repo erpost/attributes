@@ -1,0 +1,12 @@
+{
+    "SpotDatafeedSubscription": {
+        "Bucket": "Bucket",
+        "Fault": {
+            "Code": "Code",
+            "Message": "Message"
+        },
+        "OwnerId": "OwnerId",
+        "Prefix": "Prefix",
+        "State": "State"
+    }
+}

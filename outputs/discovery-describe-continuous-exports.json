@@ -1,0 +1,17 @@
+{
+    "descriptions": [
+        {
+            "exportId": "exportId",
+            "status": "status",
+            "statusDetail": "statusDetail",
+            "s3Bucket": "s3Bucket",
+            "startTime": "1970-01-01T00:00:00",
+            "stopTime": "1970-01-01T00:00:00",
+            "dataSource": "dataSource",
+            "schemaStorageConfig": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

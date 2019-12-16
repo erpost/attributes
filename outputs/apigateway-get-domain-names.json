@@ -1,0 +1,28 @@
+{
+    "position": "position",
+    "items": [
+        {
+            "domainName": "domainName",
+            "certificateName": "certificateName",
+            "certificateArn": "certificateArn",
+            "certificateUploadDate": "1970-01-01T00:00:00",
+            "regionalDomainName": "regionalDomainName",
+            "regionalHostedZoneId": "regionalHostedZoneId",
+            "regionalCertificateName": "regionalCertificateName",
+            "regionalCertificateArn": "regionalCertificateArn",
+            "distributionDomainName": "distributionDomainName",
+            "distributionHostedZoneId": "distributionHostedZoneId",
+            "endpointConfiguration": {
+                "types": [
+                    "EndpointType"
+                ]
+            },
+            "domainNameStatus": "domainNameStatus",
+            "domainNameStatusMessage": "domainNameStatusMessage",
+            "securityPolicy": "securityPolicy",
+            "tags": {
+                "KeyName": ""
+            }
+        }
+    ]
+}

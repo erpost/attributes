@@ -1,0 +1,57 @@
+{
+    "Marker": "Marker",
+    "DBClusters": [
+        {
+            "AvailabilityZones": [
+                "String"
+            ],
+            "BackupRetentionPeriod": 0,
+            "DBClusterIdentifier": "DBClusterIdentifier",
+            "DBClusterParameterGroup": "DBClusterParameterGroup",
+            "DBSubnetGroup": "DBSubnetGroup",
+            "Status": "Status",
+            "PercentProgress": "PercentProgress",
+            "EarliestRestorableTime": "1970-01-01T00:00:00",
+            "Endpoint": "Endpoint",
+            "ReaderEndpoint": "ReaderEndpoint",
+            "MultiAZ": true,
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "LatestRestorableTime": "1970-01-01T00:00:00",
+            "Port": 0,
+            "MasterUsername": "MasterUsername",
+            "PreferredBackupWindow": "PreferredBackupWindow",
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "DBClusterMembers": [
+                {
+                    "DBInstanceIdentifier": "DBInstanceIdentifier",
+                    "IsClusterWriter": true,
+                    "DBClusterParameterGroupStatus": "DBClusterParameterGroupStatus",
+                    "PromotionTier": 0
+                }
+            ],
+            "VpcSecurityGroups": [
+                {
+                    "VpcSecurityGroupId": "VpcSecurityGroupId",
+                    "Status": "Status"
+                }
+            ],
+            "HostedZoneId": "HostedZoneId",
+            "StorageEncrypted": true,
+            "KmsKeyId": "KmsKeyId",
+            "DbClusterResourceId": "DbClusterResourceId",
+            "DBClusterArn": "DBClusterArn",
+            "AssociatedRoles": [
+                {
+                    "RoleArn": "RoleArn",
+                    "Status": "Status"
+                }
+            ],
+            "ClusterCreateTime": "1970-01-01T00:00:00",
+            "EnabledCloudwatchLogsExports": [
+                "String"
+            ],
+            "DeletionProtection": true
+        }
+    ]
+}

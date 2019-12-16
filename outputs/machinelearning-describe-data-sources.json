@@ -1,0 +1,42 @@
+{
+    "Results": [
+        {
+            "DataSourceId": "DataSourceId",
+            "DataLocationS3": "DataLocationS3",
+            "DataRearrangement": "DataRearrangement",
+            "CreatedByIamUser": "CreatedByIamUser",
+            "CreatedAt": "1970-01-01T00:00:00",
+            "LastUpdatedAt": "1970-01-01T00:00:00",
+            "DataSizeInBytes": 0,
+            "NumberOfFiles": 0,
+            "Name": "Name",
+            "Status": "Status",
+            "Message": "Message",
+            "RedshiftMetadata": {
+                "RedshiftDatabase": {
+                    "DatabaseName": "DatabaseName",
+                    "ClusterIdentifier": "ClusterIdentifier"
+                },
+                "DatabaseUserName": "DatabaseUserName",
+                "SelectSqlQuery": "SelectSqlQuery"
+            },
+            "RDSMetadata": {
+                "Database": {
+                    "InstanceIdentifier": "InstanceIdentifier",
+                    "DatabaseName": "DatabaseName"
+                },
+                "DatabaseUserName": "DatabaseUserName",
+                "SelectSqlQuery": "SelectSqlQuery",
+                "ResourceRole": "ResourceRole",
+                "ServiceRole": "ServiceRole",
+                "DataPipelineId": "DataPipelineId"
+            },
+            "RoleARN": "RoleARN",
+            "ComputeStatistics": true,
+            "ComputeTime": 0,
+            "FinishedAt": "1970-01-01T00:00:00",
+            "StartedAt": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

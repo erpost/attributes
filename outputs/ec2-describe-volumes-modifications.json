@@ -1,0 +1,19 @@
+{
+    "VolumesModifications": [
+        {
+            "VolumeId": "VolumeId",
+            "ModificationState": "ModificationState",
+            "StatusMessage": "StatusMessage",
+            "TargetSize": 0,
+            "TargetIops": 0,
+            "TargetVolumeType": "TargetVolumeType",
+            "OriginalSize": 0,
+            "OriginalIops": 0,
+            "OriginalVolumeType": "OriginalVolumeType",
+            "Progress": 0,
+            "StartTime": "1970-01-01T00:00:00",
+            "EndTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

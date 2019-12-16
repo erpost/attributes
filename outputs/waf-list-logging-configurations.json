@@ -1,0 +1,17 @@
+{
+    "LoggingConfigurations": [
+        {
+            "ResourceArn": "ResourceArn",
+            "LogDestinationConfigs": [
+                "ResourceArn"
+            ],
+            "RedactedFields": [
+                {
+                    "Type": "Type",
+                    "Data": "Data"
+                }
+            ]
+        }
+    ],
+    "NextMarker": "NextMarker"
+}

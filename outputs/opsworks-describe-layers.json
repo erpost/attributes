@@ -1,0 +1,101 @@
+{
+    "Layers": [
+        {
+            "Arn": "Arn",
+            "StackId": "StackId",
+            "LayerId": "LayerId",
+            "Type": "Type",
+            "Name": "Name",
+            "Shortname": "Shortname",
+            "Attributes": {
+                "KeyName": ""
+            },
+            "CloudWatchLogsConfiguration": {
+                "Enabled": true,
+                "LogStreams": [
+                    {
+                        "LogGroupName": "LogGroupName",
+                        "DatetimeFormat": "DatetimeFormat",
+                        "TimeZone": "TimeZone",
+                        "File": "File",
+                        "FileFingerprintLines": "FileFingerprintLines",
+                        "MultiLineStartPattern": "MultiLineStartPattern",
+                        "InitialPosition": "InitialPosition",
+                        "Encoding": "Encoding",
+                        "BufferDuration": 0,
+                        "BatchCount": 0,
+                        "BatchSize": 0
+                    }
+                ]
+            },
+            "CustomInstanceProfileArn": "CustomInstanceProfileArn",
+            "CustomJson": "CustomJson",
+            "CustomSecurityGroupIds": [
+                "String"
+            ],
+            "DefaultSecurityGroupNames": [
+                "String"
+            ],
+            "Packages": [
+                "String"
+            ],
+            "VolumeConfigurations": [
+                {
+                    "MountPoint": "MountPoint",
+                    "RaidLevel": 0,
+                    "NumberOfDisks": 0,
+                    "Size": 0,
+                    "VolumeType": "VolumeType",
+                    "Iops": 0,
+                    "Encrypted": true
+                }
+            ],
+            "EnableAutoHealing": true,
+            "AutoAssignElasticIps": true,
+            "AutoAssignPublicIps": true,
+            "DefaultRecipes": {
+                "Setup": [
+                    "String"
+                ],
+                "Configure": [
+                    "String"
+                ],
+                "Deploy": [
+                    "String"
+                ],
+                "Undeploy": [
+                    "String"
+                ],
+                "Shutdown": [
+                    "String"
+                ]
+            },
+            "CustomRecipes": {
+                "Setup": [
+                    "String"
+                ],
+                "Configure": [
+                    "String"
+                ],
+                "Deploy": [
+                    "String"
+                ],
+                "Undeploy": [
+                    "String"
+                ],
+                "Shutdown": [
+                    "String"
+                ]
+            },
+            "CreatedAt": "CreatedAt",
+            "InstallUpdatesOnBoot": true,
+            "UseEbsOptimizedInstances": true,
+            "LifecycleEventConfiguration": {
+                "Shutdown": {
+                    "ExecutionTimeout": 0,
+                    "DelayUntilElbConnectionsDrained": true
+                }
+            }
+        }
+    ]
+}

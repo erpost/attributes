@@ -1,0 +1,11 @@
+{
+    "Summaries": [
+        {
+            "StackSetName": "StackSetName",
+            "StackSetId": "StackSetId",
+            "Description": "Description",
+            "Status": "Status"
+        }
+    ],
+    "NextToken": "NextToken"
+}

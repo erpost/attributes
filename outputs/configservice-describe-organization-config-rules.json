@@ -1,0 +1,40 @@
+{
+    "OrganizationConfigRules": [
+        {
+            "OrganizationConfigRuleName": "OrganizationConfigRuleName",
+            "OrganizationConfigRuleArn": "OrganizationConfigRuleArn",
+            "OrganizationManagedRuleMetadata": {
+                "Description": "Description",
+                "RuleIdentifier": "RuleIdentifier",
+                "InputParameters": "InputParameters",
+                "MaximumExecutionFrequency": "MaximumExecutionFrequency",
+                "ResourceTypesScope": [
+                    "StringWithCharLimit256"
+                ],
+                "ResourceIdScope": "ResourceIdScope",
+                "TagKeyScope": "TagKeyScope",
+                "TagValueScope": "TagValueScope"
+            },
+            "OrganizationCustomRuleMetadata": {
+                "Description": "Description",
+                "LambdaFunctionArn": "LambdaFunctionArn",
+                "OrganizationConfigRuleTriggerTypes": [
+                    "OrganizationConfigRuleTriggerType"
+                ],
+                "InputParameters": "InputParameters",
+                "MaximumExecutionFrequency": "MaximumExecutionFrequency",
+                "ResourceTypesScope": [
+                    "StringWithCharLimit256"
+                ],
+                "ResourceIdScope": "ResourceIdScope",
+                "TagKeyScope": "TagKeyScope",
+                "TagValueScope": "TagValueScope"
+            },
+            "ExcludedAccounts": [
+                "AccountId"
+            ],
+            "LastUpdateTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

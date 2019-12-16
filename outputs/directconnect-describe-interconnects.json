@@ -1,0 +1,24 @@
+{
+    "interconnects": [
+        {
+            "interconnectId": "interconnectId",
+            "interconnectName": "interconnectName",
+            "interconnectState": "interconnectState",
+            "region": "region",
+            "location": "location",
+            "bandwidth": "bandwidth",
+            "loaIssueTime": "1970-01-01T00:00:00",
+            "lagId": "lagId",
+            "awsDevice": "awsDevice",
+            "jumboFrameCapable": true,
+            "awsDeviceV2": "awsDeviceV2",
+            "hasLogicalRedundancy": "hasLogicalRedundancy",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ]
+        }
+    ]
+}

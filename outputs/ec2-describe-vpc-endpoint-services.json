@@ -1,0 +1,34 @@
+{
+    "ServiceNames": [
+        "String"
+    ],
+    "ServiceDetails": [
+        {
+            "ServiceName": "ServiceName",
+            "ServiceId": "ServiceId",
+            "ServiceType": [
+                {
+                    "ServiceType": "ServiceType"
+                }
+            ],
+            "AvailabilityZones": [
+                "String"
+            ],
+            "Owner": "Owner",
+            "BaseEndpointDnsNames": [
+                "String"
+            ],
+            "PrivateDnsName": "PrivateDnsName",
+            "VpcEndpointPolicySupported": true,
+            "AcceptanceRequired": true,
+            "ManagesVpcEndpoints": true,
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

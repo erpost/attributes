@@ -1,0 +1,14 @@
+{
+    "Vpcs": [
+        {
+            "ClassicLinkEnabled": true,
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VpcId": "VpcId"
+        }
+    ]
+}

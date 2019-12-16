@@ -1,0 +1,49 @@
+{
+    "Marker": "Marker",
+    "Snapshots": [
+        {
+            "SnapshotName": "SnapshotName",
+            "ReplicationGroupId": "ReplicationGroupId",
+            "ReplicationGroupDescription": "ReplicationGroupDescription",
+            "CacheClusterId": "CacheClusterId",
+            "SnapshotStatus": "SnapshotStatus",
+            "SnapshotSource": "SnapshotSource",
+            "CacheNodeType": "CacheNodeType",
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "NumCacheNodes": 0,
+            "PreferredAvailabilityZone": "PreferredAvailabilityZone",
+            "CacheClusterCreateTime": "1970-01-01T00:00:00",
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "TopicArn": "TopicArn",
+            "Port": 0,
+            "CacheParameterGroupName": "CacheParameterGroupName",
+            "CacheSubnetGroupName": "CacheSubnetGroupName",
+            "VpcId": "VpcId",
+            "AutoMinorVersionUpgrade": true,
+            "SnapshotRetentionLimit": 0,
+            "SnapshotWindow": "SnapshotWindow",
+            "NumNodeGroups": 0,
+            "AutomaticFailover": "AutomaticFailover",
+            "NodeSnapshots": [
+                {
+                    "CacheClusterId": "CacheClusterId",
+                    "NodeGroupId": "NodeGroupId",
+                    "CacheNodeId": "CacheNodeId",
+                    "NodeGroupConfiguration": {
+                        "NodeGroupId": "NodeGroupId",
+                        "Slots": "Slots",
+                        "ReplicaCount": 0,
+                        "PrimaryAvailabilityZone": "PrimaryAvailabilityZone",
+                        "ReplicaAvailabilityZones": [
+                            "String"
+                        ]
+                    },
+                    "CacheSize": "CacheSize",
+                    "CacheNodeCreateTime": "1970-01-01T00:00:00",
+                    "SnapshotCreateTime": "1970-01-01T00:00:00"
+                }
+            ]
+        }
+    ]
+}

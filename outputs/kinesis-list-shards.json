@@ -1,0 +1,18 @@
+{
+    "Shards": [
+        {
+            "ShardId": "ShardId",
+            "ParentShardId": "ParentShardId",
+            "AdjacentParentShardId": "AdjacentParentShardId",
+            "HashKeyRange": {
+                "StartingHashKey": "StartingHashKey",
+                "EndingHashKey": "EndingHashKey"
+            },
+            "SequenceNumberRange": {
+                "StartingSequenceNumber": "StartingSequenceNumber",
+                "EndingSequenceNumber": "EndingSequenceNumber"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

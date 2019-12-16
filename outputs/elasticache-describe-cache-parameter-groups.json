@@ -1,0 +1,10 @@
+{
+    "Marker": "Marker",
+    "CacheParameterGroups": [
+        {
+            "CacheParameterGroupName": "CacheParameterGroupName",
+            "CacheParameterGroupFamily": "CacheParameterGroupFamily",
+            "Description": "Description"
+        }
+    ]
+}

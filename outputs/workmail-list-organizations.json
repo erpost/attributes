@@ -1,0 +1,11 @@
+{
+    "OrganizationSummaries": [
+        {
+            "OrganizationId": "OrganizationId",
+            "Alias": "Alias",
+            "ErrorMessage": "ErrorMessage",
+            "State": "State"
+        }
+    ],
+    "NextToken": "NextToken"
+}

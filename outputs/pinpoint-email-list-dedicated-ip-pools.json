@@ -1,0 +1,6 @@
+{
+    "DedicatedIpPools": [
+        "PoolName"
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,9 @@
+{
+    "thingIndexingConfiguration": {
+        "thingIndexingMode": "thingIndexingMode",
+        "thingConnectivityIndexingMode": "thingConnectivityIndexingMode"
+    },
+    "thingGroupIndexingConfiguration": {
+        "thingGroupIndexingMode": "thingGroupIndexingMode"
+    }
+}

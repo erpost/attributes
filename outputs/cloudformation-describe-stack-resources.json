@@ -1,0 +1,19 @@
+{
+    "StackResources": [
+        {
+            "StackName": "StackName",
+            "StackId": "StackId",
+            "LogicalResourceId": "LogicalResourceId",
+            "PhysicalResourceId": "PhysicalResourceId",
+            "ResourceType": "ResourceType",
+            "Timestamp": "1970-01-01T00:00:00",
+            "ResourceStatus": "ResourceStatus",
+            "ResourceStatusReason": "ResourceStatusReason",
+            "Description": "Description",
+            "DriftInformation": {
+                "StackResourceDriftStatus": "StackResourceDriftStatus",
+                "LastCheckTimestamp": "1970-01-01T00:00:00"
+            }
+        }
+    ]
+}

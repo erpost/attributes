@@ -1,0 +1,19 @@
+{
+    "position": "position",
+    "items": [
+        {
+            "id": "id",
+            "friendlyName": "friendlyName",
+            "description": "description",
+            "configurationProperties": [
+                {
+                    "name": "name",
+                    "friendlyName": "friendlyName",
+                    "description": "description",
+                    "required": true,
+                    "defaultValue": "defaultValue"
+                }
+            ]
+        }
+    ]
+}

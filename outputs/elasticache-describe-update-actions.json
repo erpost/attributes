@@ -1,0 +1,38 @@
+{
+    "Marker": "Marker",
+    "UpdateActions": [
+        {
+            "ReplicationGroupId": "ReplicationGroupId",
+            "ServiceUpdateName": "ServiceUpdateName",
+            "ServiceUpdateReleaseDate": "1970-01-01T00:00:00",
+            "ServiceUpdateSeverity": "ServiceUpdateSeverity",
+            "ServiceUpdateStatus": "ServiceUpdateStatus",
+            "ServiceUpdateRecommendedApplyByDate": "1970-01-01T00:00:00",
+            "ServiceUpdateType": "ServiceUpdateType",
+            "UpdateActionAvailableDate": "1970-01-01T00:00:00",
+            "UpdateActionStatus": "UpdateActionStatus",
+            "NodesUpdated": "NodesUpdated",
+            "UpdateActionStatusModifiedDate": "1970-01-01T00:00:00",
+            "SlaMet": "SlaMet",
+            "NodeGroupUpdateStatus": [
+                {
+                    "NodeGroupId": "NodeGroupId",
+                    "NodeGroupMemberUpdateStatus": [
+                        {
+                            "CacheClusterId": "CacheClusterId",
+                            "CacheNodeId": "CacheNodeId",
+                            "NodeUpdateStatus": "NodeUpdateStatus",
+                            "NodeDeletionDate": "1970-01-01T00:00:00",
+                            "NodeUpdateStartDate": "1970-01-01T00:00:00",
+                            "NodeUpdateEndDate": "1970-01-01T00:00:00",
+                            "NodeUpdateInitiatedBy": "NodeUpdateInitiatedBy",
+                            "NodeUpdateInitiatedDate": "1970-01-01T00:00:00",
+                            "NodeUpdateStatusModifiedDate": "1970-01-01T00:00:00"
+                        }
+                    ]
+                }
+            ],
+            "EstimatedUpdateTime": "EstimatedUpdateTime"
+        }
+    ]
+}

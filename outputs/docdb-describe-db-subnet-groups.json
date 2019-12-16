@@ -1,0 +1,21 @@
+{
+    "Marker": "Marker",
+    "DBSubnetGroups": [
+        {
+            "DBSubnetGroupName": "DBSubnetGroupName",
+            "DBSubnetGroupDescription": "DBSubnetGroupDescription",
+            "VpcId": "VpcId",
+            "SubnetGroupStatus": "SubnetGroupStatus",
+            "Subnets": [
+                {
+                    "SubnetIdentifier": "SubnetIdentifier",
+                    "SubnetAvailabilityZone": {
+                        "Name": "Name"
+                    },
+                    "SubnetStatus": "SubnetStatus"
+                }
+            ],
+            "DBSubnetGroupArn": "DBSubnetGroupArn"
+        }
+    ]
+}

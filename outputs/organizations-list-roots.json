@@ -1,0 +1,16 @@
+{
+    "Roots": [
+        {
+            "Id": "Id",
+            "Arn": "Arn",
+            "Name": "Name",
+            "PolicyTypes": [
+                {
+                    "Type": "Type",
+                    "Status": "Status"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

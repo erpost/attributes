@@ -1,0 +1,9 @@
+{
+    "EC2InstanceLimits": [
+        {
+            "EC2InstanceType": "EC2InstanceType",
+            "CurrentInstances": 0,
+            "InstanceLimit": 0
+        }
+    ]
+}

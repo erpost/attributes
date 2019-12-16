@@ -1,0 +1,25 @@
+{
+    "NextToken": "NextToken",
+    "Queues": [
+        {
+            "Arn": "Arn",
+            "CreatedAt": "1970-01-01T00:00:00",
+            "Description": "Description",
+            "LastUpdated": "1970-01-01T00:00:00",
+            "Name": "Name",
+            "PricingPlan": "PricingPlan",
+            "ProgressingJobsCount": 0,
+            "ReservationPlan": {
+                "Commitment": "Commitment",
+                "ExpiresAt": "1970-01-01T00:00:00",
+                "PurchasedAt": "1970-01-01T00:00:00",
+                "RenewalType": "RenewalType",
+                "ReservedSlots": 0,
+                "Status": "Status"
+            },
+            "Status": "Status",
+            "SubmittedJobsCount": 0,
+            "Type": "Type"
+        }
+    ]
+}

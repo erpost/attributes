@@ -1,0 +1,13 @@
+{
+    "inputSummaries": [
+        {
+            "inputName": "inputName",
+            "inputDescription": "inputDescription",
+            "inputArn": "inputArn",
+            "creationTime": "1970-01-01T00:00:00",
+            "lastUpdateTime": "1970-01-01T00:00:00",
+            "status": "status"
+        }
+    ],
+    "nextToken": "nextToken"
+}

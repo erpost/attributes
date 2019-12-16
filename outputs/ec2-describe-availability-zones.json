@@ -1,0 +1,15 @@
+{
+    "AvailabilityZones": [
+        {
+            "State": "State",
+            "Messages": [
+                {
+                    "Message": "Message"
+                }
+            ],
+            "RegionName": "RegionName",
+            "ZoneName": "ZoneName",
+            "ZoneId": "ZoneId"
+        }
+    ]
+}

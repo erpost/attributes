@@ -1,0 +1,15 @@
+{
+    "exportsInfo": [
+        {
+            "exportId": "exportId",
+            "exportStatus": "exportStatus",
+            "statusMessage": "statusMessage",
+            "configurationsDownloadUrl": "configurationsDownloadUrl",
+            "exportRequestTime": "1970-01-01T00:00:00",
+            "isTruncated": true,
+            "requestedStartTime": "1970-01-01T00:00:00",
+            "requestedEndTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "nextToken": "nextToken"
+}

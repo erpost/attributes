@@ -1,0 +1,9 @@
+{
+    "NextToken": "NextToken",
+    "ParameterGroups": [
+        {
+            "ParameterGroupName": "ParameterGroupName",
+            "Description": "Description"
+        }
+    ]
+}

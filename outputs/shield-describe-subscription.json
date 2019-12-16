@@ -1,0 +1,14 @@
+{
+    "Subscription": {
+        "StartTime": "1970-01-01T00:00:00",
+        "EndTime": "1970-01-01T00:00:00",
+        "TimeCommitmentInSeconds": 0,
+        "AutoRenew": "AutoRenew",
+        "Limits": [
+            {
+                "Type": "Type",
+                "Max": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "TrafficMirrorFilters": [
+        {
+            "TrafficMirrorFilterId": "TrafficMirrorFilterId",
+            "IngressFilterRules": [
+                {
+                    "TrafficMirrorFilterRuleId": "TrafficMirrorFilterRuleId",
+                    "TrafficMirrorFilterId": "TrafficMirrorFilterId",
+                    "TrafficDirection": "TrafficDirection",
+                    "RuleNumber": 0,
+                    "RuleAction": "RuleAction",
+                    "Protocol": 0,
+                    "DestinationPortRange": {
+                        "FromPort": 0,
+                        "ToPort": 0
+                    },
+                    "SourcePortRange": {
+                        "FromPort": 0,
+                        "ToPort": 0
+                    },
+                    "DestinationCidrBlock": "DestinationCidrBlock",
+                    "SourceCidrBlock": "SourceCidrBlock",
+                    "Description": "Description"
+                }
+            ],
+            "EgressFilterRules": [
+                {
+                    "TrafficMirrorFilterRuleId": "TrafficMirrorFilterRuleId",
+                    "TrafficMirrorFilterId": "TrafficMirrorFilterId",
+                    "TrafficDirection": "TrafficDirection",
+                    "RuleNumber": 0,
+                    "RuleAction": "RuleAction",
+                    "Protocol": 0,
+                    "DestinationPortRange": {
+                        "FromPort": 0,
+                        "ToPort": 0
+                    },
+                    "SourcePortRange": {
+                        "FromPort": 0,
+                        "ToPort": 0
+                    },
+                    "DestinationCidrBlock": "DestinationCidrBlock",
+                    "SourceCidrBlock": "SourceCidrBlock",
+                    "Description": "Description"
+                }
+            ],
+            "NetworkServices": [
+                "TrafficMirrorNetworkService"
+            ],
+            "Description": "Description",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

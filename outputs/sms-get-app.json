@@ -1,0 +1,54 @@
+{
+    "appSummary": {
+        "appId": "appId",
+        "name": "name",
+        "description": "description",
+        "status": "status",
+        "statusMessage": "statusMessage",
+        "replicationStatus": "replicationStatus",
+        "replicationStatusMessage": "replicationStatusMessage",
+        "latestReplicationTime": "1970-01-01T00:00:00",
+        "launchStatus": "launchStatus",
+        "launchStatusMessage": "launchStatusMessage",
+        "launchDetails": {
+            "latestLaunchTime": "1970-01-01T00:00:00",
+            "stackName": "stackName",
+            "stackId": "stackId"
+        },
+        "creationTime": "1970-01-01T00:00:00",
+        "lastModified": "1970-01-01T00:00:00",
+        "roleName": "roleName",
+        "totalServerGroups": 0,
+        "totalServers": 0
+    },
+    "serverGroups": [
+        {
+            "serverGroupId": "serverGroupId",
+            "name": "name",
+            "serverList": [
+                {
+                    "serverId": "serverId",
+                    "serverType": "serverType",
+                    "vmServer": {
+                        "vmServerAddress": {
+                            "vmManagerId": "vmManagerId",
+                            "vmId": "vmId"
+                        },
+                        "vmName": "vmName",
+                        "vmManagerName": "vmManagerName",
+                        "vmManagerType": "vmManagerType",
+                        "vmPath": "vmPath"
+                    },
+                    "replicationJobId": "replicationJobId",
+                    "replicationJobTerminated": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "key": "key",
+            "value": "value"
+        }
+    ]
+}

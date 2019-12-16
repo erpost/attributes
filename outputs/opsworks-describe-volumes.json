@@ -1,0 +1,20 @@
+{
+    "Volumes": [
+        {
+            "VolumeId": "VolumeId",
+            "Ec2VolumeId": "Ec2VolumeId",
+            "Name": "Name",
+            "RaidArrayId": "RaidArrayId",
+            "InstanceId": "InstanceId",
+            "Status": "Status",
+            "Size": 0,
+            "Device": "Device",
+            "MountPoint": "MountPoint",
+            "Region": "Region",
+            "AvailabilityZone": "AvailabilityZone",
+            "VolumeType": "VolumeType",
+            "Iops": 0,
+            "Encrypted": true
+        }
+    ]
+}

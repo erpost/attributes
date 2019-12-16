@@ -1,0 +1,12 @@
+{
+    "Gateways": [
+        {
+            "Arn": "Arn",
+            "Name": "Name",
+            "Description": "Description",
+            "GatewayGroupArn": "GatewayGroupArn",
+            "SoftwareVersion": "SoftwareVersion"
+        }
+    ],
+    "NextToken": "NextToken"
+}

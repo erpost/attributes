@@ -1,0 +1,24 @@
+{
+    "HostedZones": [
+        {
+            "Id": "Id",
+            "Name": "Name",
+            "CallerReference": "CallerReference",
+            "Config": {
+                "Comment": "Comment",
+                "PrivateZone": true
+            },
+            "ResourceRecordSetCount": 0,
+            "LinkedService": {
+                "ServicePrincipal": "ServicePrincipal",
+                "Description": "Description"
+            }
+        }
+    ],
+    "DNSName": "DNSName",
+    "HostedZoneId": "HostedZoneId",
+    "IsTruncated": true,
+    "NextDNSName": "NextDNSName",
+    "NextHostedZoneId": "NextHostedZoneId",
+    "MaxItems": "MaxItems"
+}

@@ -1,0 +1,42 @@
+{
+    "NetworkAcls": [
+        {
+            "Associations": [
+                {
+                    "NetworkAclAssociationId": "NetworkAclAssociationId",
+                    "NetworkAclId": "NetworkAclId",
+                    "SubnetId": "SubnetId"
+                }
+            ],
+            "Entries": [
+                {
+                    "CidrBlock": "CidrBlock",
+                    "Egress": true,
+                    "IcmpTypeCode": {
+                        "Code": 0,
+                        "Type": 0
+                    },
+                    "Ipv6CidrBlock": "Ipv6CidrBlock",
+                    "PortRange": {
+                        "From": 0,
+                        "To": 0
+                    },
+                    "Protocol": "Protocol",
+                    "RuleAction": "RuleAction",
+                    "RuleNumber": 0
+                }
+            ],
+            "IsDefault": true,
+            "NetworkAclId": "NetworkAclId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VpcId": "VpcId",
+            "OwnerId": "OwnerId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

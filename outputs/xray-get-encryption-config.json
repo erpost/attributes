@@ -1,0 +1,7 @@
+{
+    "EncryptionConfig": {
+        "KeyId": "KeyId",
+        "Status": "Status",
+        "Type": "Type"
+    }
+}

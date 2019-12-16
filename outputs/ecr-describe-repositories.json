@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "repositoryArn": "repositoryArn",
+            "registryId": "registryId",
+            "repositoryName": "repositoryName",
+            "repositoryUri": "repositoryUri",
+            "createdAt": "1970-01-01T00:00:00",
+            "imageTagMutability": "imageTagMutability"
+        }
+    ],
+    "nextToken": "nextToken"
+}

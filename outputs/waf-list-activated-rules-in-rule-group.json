@@ -1,0 +1,21 @@
+{
+    "NextMarker": "NextMarker",
+    "ActivatedRules": [
+        {
+            "Priority": 0,
+            "RuleId": "RuleId",
+            "Action": {
+                "Type": "Type"
+            },
+            "OverrideAction": {
+                "Type": "Type"
+            },
+            "Type": "Type",
+            "ExcludedRules": [
+                {
+                    "RuleId": "RuleId"
+                }
+            ]
+        }
+    ]
+}

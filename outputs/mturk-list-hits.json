@@ -1,0 +1,45 @@
+{
+    "NextToken": "NextToken",
+    "NumResults": 0,
+    "HITs": [
+        {
+            "HITId": "HITId",
+            "HITTypeId": "HITTypeId",
+            "HITGroupId": "HITGroupId",
+            "HITLayoutId": "HITLayoutId",
+            "CreationTime": "1970-01-01T00:00:00",
+            "Title": "Title",
+            "Description": "Description",
+            "Question": "Question",
+            "Keywords": "Keywords",
+            "HITStatus": "HITStatus",
+            "MaxAssignments": 0,
+            "Reward": "Reward",
+            "AutoApprovalDelayInSeconds": 0,
+            "Expiration": "1970-01-01T00:00:00",
+            "AssignmentDurationInSeconds": 0,
+            "RequesterAnnotation": "RequesterAnnotation",
+            "QualificationRequirements": [
+                {
+                    "QualificationTypeId": "QualificationTypeId",
+                    "Comparator": "Comparator",
+                    "IntegerValues": [
+                        0
+                    ],
+                    "LocaleValues": [
+                        {
+                            "Country": "Country",
+                            "Subdivision": "Subdivision"
+                        }
+                    ],
+                    "RequiredToPreview": true,
+                    "ActionsGuarded": "ActionsGuarded"
+                }
+            ],
+            "HITReviewStatus": "HITReviewStatus",
+            "NumberOfAssignmentsPending": 0,
+            "NumberOfAssignmentsAvailable": 0,
+            "NumberOfAssignmentsCompleted": 0
+        }
+    ]
+}

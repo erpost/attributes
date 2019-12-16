@@ -1,0 +1,21 @@
+{
+    "platforms": [
+        {
+            "platform": "platform",
+            "languages": [
+                {
+                    "language": "language",
+                    "images": [
+                        {
+                            "name": "name",
+                            "description": "description",
+                            "versions": [
+                                "String"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

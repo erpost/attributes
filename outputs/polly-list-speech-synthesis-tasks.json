@@ -1,0 +1,26 @@
+{
+    "NextToken": "NextToken",
+    "SynthesisTasks": [
+        {
+            "Engine": "Engine",
+            "TaskId": "TaskId",
+            "TaskStatus": "TaskStatus",
+            "TaskStatusReason": "TaskStatusReason",
+            "OutputUri": "OutputUri",
+            "CreationTime": "1970-01-01T00:00:00",
+            "RequestCharacters": 0,
+            "SnsTopicArn": "SnsTopicArn",
+            "LexiconNames": [
+                "LexiconName"
+            ],
+            "OutputFormat": "OutputFormat",
+            "SampleRate": "SampleRate",
+            "SpeechMarkTypes": [
+                "SpeechMarkType"
+            ],
+            "TextType": "TextType",
+            "VoiceId": "VoiceId",
+            "LanguageCode": "LanguageCode"
+        }
+    ]
+}

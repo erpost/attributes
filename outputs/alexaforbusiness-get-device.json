@@ -1,0 +1,26 @@
+{
+    "Device": {
+        "DeviceArn": "DeviceArn",
+        "DeviceSerialNumber": "DeviceSerialNumber",
+        "DeviceType": "DeviceType",
+        "DeviceName": "DeviceName",
+        "SoftwareVersion": "SoftwareVersion",
+        "MacAddress": "MacAddress",
+        "RoomArn": "RoomArn",
+        "DeviceStatus": "DeviceStatus",
+        "DeviceStatusInfo": {
+            "DeviceStatusDetails": [
+                {
+                    "Feature": "Feature",
+                    "Code": "Code"
+                }
+            ],
+            "ConnectionStatus": "ConnectionStatus"
+        },
+        "NetworkProfileInfo": {
+            "NetworkProfileArn": "NetworkProfileArn",
+            "CertificateArn": "CertificateArn",
+            "CertificateExpirationTime": "1970-01-01T00:00:00"
+        }
+    }
+}

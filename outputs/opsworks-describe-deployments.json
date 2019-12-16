@@ -1,0 +1,27 @@
+{
+    "Deployments": [
+        {
+            "DeploymentId": "DeploymentId",
+            "StackId": "StackId",
+            "AppId": "AppId",
+            "CreatedAt": "CreatedAt",
+            "CompletedAt": "CompletedAt",
+            "Duration": 0,
+            "IamUserArn": "IamUserArn",
+            "Comment": "Comment",
+            "Command": {
+                "Name": "Name",
+                "Args": {
+                    "KeyName": [
+                        "String"
+                    ]
+                }
+            },
+            "Status": "Status",
+            "CustomJson": "CustomJson",
+            "InstanceIds": [
+                "String"
+            ]
+        }
+    ]
+}

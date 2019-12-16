@@ -1,0 +1,56 @@
+{
+    "apps": [
+        {
+            "appId": "appId",
+            "appArn": "appArn",
+            "name": "name",
+            "tags": {
+                "KeyName": ""
+            },
+            "description": "description",
+            "repository": "repository",
+            "platform": "platform",
+            "createTime": "1970-01-01T00:00:00",
+            "updateTime": "1970-01-01T00:00:00",
+            "iamServiceRoleArn": "iamServiceRoleArn",
+            "environmentVariables": {
+                "KeyName": ""
+            },
+            "defaultDomain": "defaultDomain",
+            "enableBranchAutoBuild": true,
+            "enableBasicAuth": true,
+            "basicAuthCredentials": "basicAuthCredentials",
+            "customRules": [
+                {
+                    "source": "source",
+                    "target": "target",
+                    "status": "status",
+                    "condition": "condition"
+                }
+            ],
+            "productionBranch": {
+                "lastDeployTime": "1970-01-01T00:00:00",
+                "status": "status",
+                "thumbnailUrl": "thumbnailUrl",
+                "branchName": "branchName"
+            },
+            "buildSpec": "buildSpec",
+            "enableAutoBranchCreation": true,
+            "autoBranchCreationPatterns": [
+                "AutoBranchCreationPattern"
+            ],
+            "autoBranchCreationConfig": {
+                "stage": "stage",
+                "framework": "framework",
+                "enableAutoBuild": true,
+                "environmentVariables": {
+                    "KeyName": ""
+                },
+                "basicAuthCredentials": "basicAuthCredentials",
+                "enableBasicAuth": true,
+                "buildSpec": "buildSpec"
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

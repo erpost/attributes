@@ -1,0 +1,14 @@
+{
+    "BrokerSummaries": [
+        {
+            "BrokerArn": "BrokerArn",
+            "BrokerId": "BrokerId",
+            "BrokerName": "BrokerName",
+            "BrokerState": "BrokerState",
+            "Created": "1970-01-01T00:00:00",
+            "DeploymentMode": "DeploymentMode",
+            "HostInstanceType": "HostInstanceType"
+        }
+    ],
+    "NextToken": "NextToken"
+}

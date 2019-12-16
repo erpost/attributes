@@ -1,0 +1,20 @@
+{
+    "MaintenanceTracks": [
+        {
+            "MaintenanceTrackName": "MaintenanceTrackName",
+            "DatabaseVersion": "DatabaseVersion",
+            "UpdateTargets": [
+                {
+                    "MaintenanceTrackName": "MaintenanceTrackName",
+                    "DatabaseVersion": "DatabaseVersion",
+                    "SupportedOperations": [
+                        {
+                            "OperationName": "OperationName"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Marker": "Marker"
+}

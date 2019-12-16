@@ -1,0 +1,146 @@
+{
+    "jobDefinitions": [
+        {
+            "jobDefinitionName": "jobDefinitionName",
+            "jobDefinitionArn": "jobDefinitionArn",
+            "revision": 0,
+            "status": "status",
+            "type": "type",
+            "parameters": {
+                "KeyName": ""
+            },
+            "retryStrategy": {
+                "attempts": 0
+            },
+            "containerProperties": {
+                "image": "image",
+                "vcpus": 0,
+                "memory": 0,
+                "command": [
+                    "String"
+                ],
+                "jobRoleArn": "jobRoleArn",
+                "volumes": [
+                    {
+                        "host": {
+                            "sourcePath": "sourcePath"
+                        },
+                        "name": "name"
+                    }
+                ],
+                "environment": [
+                    {
+                        "name": "name",
+                        "value": "value"
+                    }
+                ],
+                "mountPoints": [
+                    {
+                        "containerPath": "containerPath",
+                        "readOnly": true,
+                        "sourceVolume": "sourceVolume"
+                    }
+                ],
+                "readonlyRootFilesystem": true,
+                "privileged": true,
+                "ulimits": [
+                    {
+                        "hardLimit": 0,
+                        "name": "name",
+                        "softLimit": 0
+                    }
+                ],
+                "user": "user",
+                "instanceType": "instanceType",
+                "resourceRequirements": [
+                    {
+                        "value": "value",
+                        "type": "type"
+                    }
+                ],
+                "linuxParameters": {
+                    "devices": [
+                        {
+                            "hostPath": "hostPath",
+                            "containerPath": "containerPath",
+                            "permissions": [
+                                "DeviceCgroupPermission"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "timeout": {
+                "attemptDurationSeconds": 0
+            },
+            "nodeProperties": {
+                "numNodes": 0,
+                "mainNode": 0,
+                "nodeRangeProperties": [
+                    {
+                        "targetNodes": "targetNodes",
+                        "container": {
+                            "image": "image",
+                            "vcpus": 0,
+                            "memory": 0,
+                            "command": [
+                                "String"
+                            ],
+                            "jobRoleArn": "jobRoleArn",
+                            "volumes": [
+                                {
+                                    "host": {
+                                        "sourcePath": "sourcePath"
+                                    },
+                                    "name": "name"
+                                }
+                            ],
+                            "environment": [
+                                {
+                                    "name": "name",
+                                    "value": "value"
+                                }
+                            ],
+                            "mountPoints": [
+                                {
+                                    "containerPath": "containerPath",
+                                    "readOnly": true,
+                                    "sourceVolume": "sourceVolume"
+                                }
+                            ],
+                            "readonlyRootFilesystem": true,
+                            "privileged": true,
+                            "ulimits": [
+                                {
+                                    "hardLimit": 0,
+                                    "name": "name",
+                                    "softLimit": 0
+                                }
+                            ],
+                            "user": "user",
+                            "instanceType": "instanceType",
+                            "resourceRequirements": [
+                                {
+                                    "value": "value",
+                                    "type": "type"
+                                }
+                            ],
+                            "linuxParameters": {
+                                "devices": [
+                                    {
+                                        "hostPath": "hostPath",
+                                        "containerPath": "containerPath",
+                                        "permissions": [
+                                            "DeviceCgroupPermission"
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,9 @@
+{
+    "policies": [
+        {
+            "policyName": "policyName",
+            "policyArn": "policyArn"
+        }
+    ],
+    "nextMarker": "nextMarker"
+}

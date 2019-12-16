@@ -1,0 +1,10 @@
+{
+    "settings": [
+        {
+            "name": "name",
+            "value": "value",
+            "principalArn": "principalArn"
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,29 @@
+{
+    "BackupJobs": [
+        {
+            "BackupJobId": "BackupJobId",
+            "BackupVaultName": "BackupVaultName",
+            "BackupVaultArn": "BackupVaultArn",
+            "RecoveryPointArn": "RecoveryPointArn",
+            "ResourceArn": "ResourceArn",
+            "CreationDate": "1970-01-01T00:00:00",
+            "CompletionDate": "1970-01-01T00:00:00",
+            "State": "State",
+            "StatusMessage": "StatusMessage",
+            "PercentDone": "PercentDone",
+            "BackupSizeInBytes": 0,
+            "IamRoleArn": "IamRoleArn",
+            "CreatedBy": {
+                "BackupPlanId": "BackupPlanId",
+                "BackupPlanArn": "BackupPlanArn",
+                "BackupPlanVersion": "BackupPlanVersion",
+                "BackupRuleId": "BackupRuleId"
+            },
+            "ExpectedCompletionDate": "1970-01-01T00:00:00",
+            "StartBy": "1970-01-01T00:00:00",
+            "ResourceType": "ResourceType",
+            "BytesTransferred": 0
+        }
+    ],
+    "NextToken": "NextToken"
+}

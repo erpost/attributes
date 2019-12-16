@@ -1,0 +1,12 @@
+{
+    "Subscriptions": [
+        {
+            "SubscriptionArn": "SubscriptionArn",
+            "Owner": "Owner",
+            "Protocol": "Protocol",
+            "Endpoint": "Endpoint",
+            "TopicArn": "TopicArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

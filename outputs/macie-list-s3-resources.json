@@ -1,0 +1,13 @@
+{
+    "s3Resources": [
+        {
+            "bucketName": "bucketName",
+            "prefix": "prefix",
+            "classificationType": {
+                "oneTime": "oneTime",
+                "continuous": "continuous"
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

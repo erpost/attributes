@@ -1,0 +1,31 @@
+{
+    "Marker": "Marker",
+    "ReplicationTasks": [
+        {
+            "ReplicationTaskIdentifier": "ReplicationTaskIdentifier",
+            "SourceEndpointArn": "SourceEndpointArn",
+            "TargetEndpointArn": "TargetEndpointArn",
+            "ReplicationInstanceArn": "ReplicationInstanceArn",
+            "MigrationType": "MigrationType",
+            "TableMappings": "TableMappings",
+            "ReplicationTaskSettings": "ReplicationTaskSettings",
+            "Status": "Status",
+            "LastFailureMessage": "LastFailureMessage",
+            "StopReason": "StopReason",
+            "ReplicationTaskCreationDate": "1970-01-01T00:00:00",
+            "ReplicationTaskStartDate": "1970-01-01T00:00:00",
+            "CdcStartPosition": "CdcStartPosition",
+            "CdcStopPosition": "CdcStopPosition",
+            "RecoveryCheckpoint": "RecoveryCheckpoint",
+            "ReplicationTaskArn": "ReplicationTaskArn",
+            "ReplicationTaskStats": {
+                "FullLoadProgressPercent": 0,
+                "ElapsedTimeMillis": 0,
+                "TablesLoaded": 0,
+                "TablesLoading": 0,
+                "TablesQueued": 0,
+                "TablesErrored": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "ResourceInventoryList": [
+        {
+            "ResourceId": "ResourceId",
+            "ResourceType": "ResourceType",
+            "ResourceArn": "ResourceArn",
+            "Platform": "Platform",
+            "PlatformVersion": "PlatformVersion",
+            "ResourceOwningAccountId": "ResourceOwningAccountId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

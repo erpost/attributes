@@ -1,0 +1,15 @@
+{
+    "VpcPeeringConnections": [
+        {
+            "FleetId": "FleetId",
+            "IpV4CidrBlock": "IpV4CidrBlock",
+            "VpcPeeringConnectionId": "VpcPeeringConnectionId",
+            "Status": {
+                "Code": "Code",
+                "Message": "Message"
+            },
+            "PeerVpcId": "PeerVpcId",
+            "GameLiftVpcId": "GameLiftVpcId"
+        }
+    ]
+}

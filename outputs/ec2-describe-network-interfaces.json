@@ -1,0 +1,68 @@
+{
+    "NetworkInterfaces": [
+        {
+            "Association": {
+                "AllocationId": "AllocationId",
+                "AssociationId": "AssociationId",
+                "IpOwnerId": "IpOwnerId",
+                "PublicDnsName": "PublicDnsName",
+                "PublicIp": "PublicIp"
+            },
+            "Attachment": {
+                "AttachTime": "1970-01-01T00:00:00",
+                "AttachmentId": "AttachmentId",
+                "DeleteOnTermination": true,
+                "DeviceIndex": 0,
+                "InstanceId": "InstanceId",
+                "InstanceOwnerId": "InstanceOwnerId",
+                "Status": "Status"
+            },
+            "AvailabilityZone": "AvailabilityZone",
+            "Description": "Description",
+            "Groups": [
+                {
+                    "GroupName": "GroupName",
+                    "GroupId": "GroupId"
+                }
+            ],
+            "InterfaceType": "InterfaceType",
+            "Ipv6Addresses": [
+                {
+                    "Ipv6Address": "Ipv6Address"
+                }
+            ],
+            "MacAddress": "MacAddress",
+            "NetworkInterfaceId": "NetworkInterfaceId",
+            "OwnerId": "OwnerId",
+            "PrivateDnsName": "PrivateDnsName",
+            "PrivateIpAddress": "PrivateIpAddress",
+            "PrivateIpAddresses": [
+                {
+                    "Association": {
+                        "AllocationId": "AllocationId",
+                        "AssociationId": "AssociationId",
+                        "IpOwnerId": "IpOwnerId",
+                        "PublicDnsName": "PublicDnsName",
+                        "PublicIp": "PublicIp"
+                    },
+                    "Primary": true,
+                    "PrivateDnsName": "PrivateDnsName",
+                    "PrivateIpAddress": "PrivateIpAddress"
+                }
+            ],
+            "RequesterId": "RequesterId",
+            "RequesterManaged": true,
+            "SourceDestCheck": true,
+            "Status": "Status",
+            "SubnetId": "SubnetId",
+            "TagSet": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VpcId": "VpcId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

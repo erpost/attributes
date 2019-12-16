@@ -1,0 +1,11 @@
+{
+    "EcsClusters": [
+        {
+            "EcsClusterArn": "EcsClusterArn",
+            "EcsClusterName": "EcsClusterName",
+            "StackId": "StackId",
+            "RegisteredAt": "RegisteredAt"
+        }
+    ],
+    "NextToken": "NextToken"
+}

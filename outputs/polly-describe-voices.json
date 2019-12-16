@@ -1,0 +1,18 @@
+{
+    "Voices": [
+        {
+            "Gender": "Gender",
+            "Id": "Id",
+            "LanguageCode": "LanguageCode",
+            "LanguageName": "LanguageName",
+            "Name": "Name",
+            "AdditionalLanguageCodes": [
+                "LanguageCode"
+            ],
+            "SupportedEngines": [
+                "Engine"
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

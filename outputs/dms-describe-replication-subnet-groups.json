@@ -1,0 +1,20 @@
+{
+    "Marker": "Marker",
+    "ReplicationSubnetGroups": [
+        {
+            "ReplicationSubnetGroupIdentifier": "ReplicationSubnetGroupIdentifier",
+            "ReplicationSubnetGroupDescription": "ReplicationSubnetGroupDescription",
+            "VpcId": "VpcId",
+            "SubnetGroupStatus": "SubnetGroupStatus",
+            "Subnets": [
+                {
+                    "SubnetIdentifier": "SubnetIdentifier",
+                    "SubnetAvailabilityZone": {
+                        "Name": "Name"
+                    },
+                    "SubnetStatus": "SubnetStatus"
+                }
+            ]
+        }
+    ]
+}

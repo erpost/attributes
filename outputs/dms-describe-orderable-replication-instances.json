@@ -1,0 +1,18 @@
+{
+    "OrderableReplicationInstances": [
+        {
+            "EngineVersion": "EngineVersion",
+            "ReplicationInstanceClass": "ReplicationInstanceClass",
+            "StorageType": "StorageType",
+            "MinAllocatedStorage": 0,
+            "MaxAllocatedStorage": 0,
+            "DefaultAllocatedStorage": 0,
+            "IncludedAllocatedStorage": 0,
+            "AvailabilityZones": [
+                "String"
+            ],
+            "ReleaseStatus": "ReleaseStatus"
+        }
+    ],
+    "Marker": "Marker"
+}

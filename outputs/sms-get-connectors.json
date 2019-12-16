@@ -1,0 +1,19 @@
+{
+    "connectorList": [
+        {
+            "connectorId": "connectorId",
+            "version": "version",
+            "status": "status",
+            "capabilityList": [
+                "ConnectorCapability"
+            ],
+            "vmManagerName": "vmManagerName",
+            "vmManagerType": "vmManagerType",
+            "vmManagerId": "vmManagerId",
+            "ipAddress": "ipAddress",
+            "macAddress": "macAddress",
+            "associatedOn": "1970-01-01T00:00:00"
+        }
+    ],
+    "nextToken": "nextToken"
+}

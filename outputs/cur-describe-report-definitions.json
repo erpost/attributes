@@ -1,0 +1,22 @@
+{
+    "ReportDefinitions": [
+        {
+            "ReportName": "ReportName",
+            "TimeUnit": "TimeUnit",
+            "Format": "Format",
+            "Compression": "Compression",
+            "AdditionalSchemaElements": [
+                "SchemaElement"
+            ],
+            "S3Bucket": "S3Bucket",
+            "S3Prefix": "S3Prefix",
+            "S3Region": "S3Region",
+            "AdditionalArtifacts": [
+                "AdditionalArtifact"
+            ],
+            "RefreshClosedReports": true,
+            "ReportVersioning": "ReportVersioning"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,12 @@
+{
+    "slotTypes": [
+        {
+            "name": "name",
+            "description": "description",
+            "lastUpdatedDate": "1970-01-01T00:00:00",
+            "createdDate": "1970-01-01T00:00:00",
+            "version": "version"
+        }
+    ],
+    "nextToken": "nextToken"
+}

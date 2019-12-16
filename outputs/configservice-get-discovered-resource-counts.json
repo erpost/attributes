@@ -1,0 +1,10 @@
+{
+    "totalDiscoveredResources": 0,
+    "resourceCounts": [
+        {
+            "resourceType": "resourceType",
+            "count": 0
+        }
+    ],
+    "nextToken": "nextToken"
+}

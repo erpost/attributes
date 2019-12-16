@@ -1,0 +1,24 @@
+{
+    "warnings": [
+        "String"
+    ],
+    "position": "position",
+    "items": [
+        {
+            "id": "id",
+            "value": "value",
+            "name": "name",
+            "customerId": "customerId",
+            "description": "description",
+            "enabled": true,
+            "createdDate": "1970-01-01T00:00:00",
+            "lastUpdatedDate": "1970-01-01T00:00:00",
+            "stageKeys": [
+                "String"
+            ],
+            "tags": {
+                "KeyName": ""
+            }
+        }
+    ]
+}

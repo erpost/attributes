@@ -1,0 +1,87 @@
+{
+    "Marker": "Marker",
+    "DBInstances": [
+        {
+            "DBInstanceIdentifier": "DBInstanceIdentifier",
+            "DBInstanceClass": "DBInstanceClass",
+            "Engine": "Engine",
+            "DBInstanceStatus": "DBInstanceStatus",
+            "Endpoint": {
+                "Address": "Address",
+                "Port": 0,
+                "HostedZoneId": "HostedZoneId"
+            },
+            "InstanceCreateTime": "1970-01-01T00:00:00",
+            "PreferredBackupWindow": "PreferredBackupWindow",
+            "BackupRetentionPeriod": 0,
+            "VpcSecurityGroups": [
+                {
+                    "VpcSecurityGroupId": "VpcSecurityGroupId",
+                    "Status": "Status"
+                }
+            ],
+            "AvailabilityZone": "AvailabilityZone",
+            "DBSubnetGroup": {
+                "DBSubnetGroupName": "DBSubnetGroupName",
+                "DBSubnetGroupDescription": "DBSubnetGroupDescription",
+                "VpcId": "VpcId",
+                "SubnetGroupStatus": "SubnetGroupStatus",
+                "Subnets": [
+                    {
+                        "SubnetIdentifier": "SubnetIdentifier",
+                        "SubnetAvailabilityZone": {
+                            "Name": "Name"
+                        },
+                        "SubnetStatus": "SubnetStatus"
+                    }
+                ],
+                "DBSubnetGroupArn": "DBSubnetGroupArn"
+            },
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "PendingModifiedValues": {
+                "DBInstanceClass": "DBInstanceClass",
+                "AllocatedStorage": 0,
+                "MasterUserPassword": "MasterUserPassword",
+                "Port": 0,
+                "BackupRetentionPeriod": 0,
+                "MultiAZ": true,
+                "EngineVersion": "EngineVersion",
+                "LicenseModel": "LicenseModel",
+                "Iops": 0,
+                "DBInstanceIdentifier": "DBInstanceIdentifier",
+                "StorageType": "StorageType",
+                "CACertificateIdentifier": "CACertificateIdentifier",
+                "DBSubnetGroupName": "DBSubnetGroupName",
+                "PendingCloudwatchLogsExports": {
+                    "LogTypesToEnable": [
+                        "String"
+                    ],
+                    "LogTypesToDisable": [
+                        "String"
+                    ]
+                }
+            },
+            "LatestRestorableTime": "1970-01-01T00:00:00",
+            "EngineVersion": "EngineVersion",
+            "AutoMinorVersionUpgrade": true,
+            "PubliclyAccessible": true,
+            "StatusInfos": [
+                {
+                    "StatusType": "StatusType",
+                    "Normal": true,
+                    "Status": "Status",
+                    "Message": "Message"
+                }
+            ],
+            "DBClusterIdentifier": "DBClusterIdentifier",
+            "StorageEncrypted": true,
+            "KmsKeyId": "KmsKeyId",
+            "DbiResourceId": "DbiResourceId",
+            "PromotionTier": 0,
+            "DBInstanceArn": "DBInstanceArn",
+            "EnabledCloudwatchLogsExports": [
+                "String"
+            ]
+        }
+    ]
+}

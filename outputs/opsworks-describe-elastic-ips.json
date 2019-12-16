@@ -1,0 +1,11 @@
+{
+    "ElasticIps": [
+        {
+            "Ip": "Ip",
+            "Name": "Name",
+            "Domain": "Domain",
+            "Region": "Region",
+            "InstanceId": "InstanceId"
+        }
+    ]
+}

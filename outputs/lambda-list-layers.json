@@ -1,0 +1,19 @@
+{
+    "NextMarker": "NextMarker",
+    "Layers": [
+        {
+            "LayerName": "LayerName",
+            "LayerArn": "LayerArn",
+            "LatestMatchingVersion": {
+                "LayerVersionArn": "LayerVersionArn",
+                "Version": 0,
+                "Description": "Description",
+                "CreatedDate": "CreatedDate",
+                "CompatibleRuntimes": [
+                    "Runtime"
+                ],
+                "LicenseInfo": "LicenseInfo"
+            }
+        }
+    ]
+}

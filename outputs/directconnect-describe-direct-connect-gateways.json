@@ -1,0 +1,13 @@
+{
+    "directConnectGateways": [
+        {
+            "directConnectGatewayId": "directConnectGatewayId",
+            "directConnectGatewayName": "directConnectGatewayName",
+            "amazonSideAsn": 0,
+            "ownerAccount": "ownerAccount",
+            "directConnectGatewayState": "directConnectGatewayState",
+            "stateChangeError": "stateChangeError"
+        }
+    ],
+    "nextToken": "nextToken"
+}

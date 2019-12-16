@@ -1,0 +1,17 @@
+{
+    "Applications": [
+        {
+            "ApplicationId": "ApplicationId",
+            "Author": "Author",
+            "CreationTime": "CreationTime",
+            "Description": "Description",
+            "HomePageUrl": "HomePageUrl",
+            "Labels": [
+                "__string"
+            ],
+            "Name": "Name",
+            "SpdxLicenseId": "SpdxLicenseId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

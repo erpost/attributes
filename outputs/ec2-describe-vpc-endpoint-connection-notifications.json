@@ -1,0 +1,16 @@
+{
+    "ConnectionNotificationSet": [
+        {
+            "ConnectionNotificationId": "ConnectionNotificationId",
+            "ServiceId": "ServiceId",
+            "VpcEndpointId": "VpcEndpointId",
+            "ConnectionNotificationType": "ConnectionNotificationType",
+            "ConnectionNotificationArn": "ConnectionNotificationArn",
+            "ConnectionEvents": [
+                "String"
+            ],
+            "ConnectionNotificationState": "ConnectionNotificationState"
+        }
+    ],
+    "NextToken": "NextToken"
+}

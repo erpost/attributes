@@ -1,0 +1,22 @@
+{
+    "agentsInfo": [
+        {
+            "agentId": "agentId",
+            "hostName": "hostName",
+            "agentNetworkInfoList": [
+                {
+                    "ipAddress": "ipAddress",
+                    "macAddress": "macAddress"
+                }
+            ],
+            "connectorId": "connectorId",
+            "version": "version",
+            "health": "health",
+            "lastHealthPingTime": "lastHealthPingTime",
+            "collectionStatus": "collectionStatus",
+            "agentType": "agentType",
+            "registeredTime": "registeredTime"
+        }
+    ],
+    "nextToken": "nextToken"
+}

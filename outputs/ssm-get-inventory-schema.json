@@ -1,0 +1,16 @@
+{
+    "Schemas": [
+        {
+            "TypeName": "TypeName",
+            "Version": "Version",
+            "Attributes": [
+                {
+                    "Name": "Name",
+                    "DataType": "DataType"
+                }
+            ],
+            "DisplayName": "DisplayName"
+        }
+    ],
+    "NextToken": "NextToken"
+}

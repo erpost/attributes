@@ -1,0 +1,15 @@
+{
+    "NextToken": "NextToken",
+    "BackupPlansList": [
+        {
+            "BackupPlanArn": "BackupPlanArn",
+            "BackupPlanId": "BackupPlanId",
+            "CreationDate": "1970-01-01T00:00:00",
+            "DeletionDate": "1970-01-01T00:00:00",
+            "VersionId": "VersionId",
+            "BackupPlanName": "BackupPlanName",
+            "CreatorRequestId": "CreatorRequestId",
+            "LastExecutionDate": "1970-01-01T00:00:00"
+        }
+    ]
+}

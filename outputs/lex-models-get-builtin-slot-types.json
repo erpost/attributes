@@ -1,0 +1,11 @@
+{
+    "slotTypes": [
+        {
+            "signature": "signature",
+            "supportedLocales": [
+                "Locale"
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,7 @@
+{
+    "Group": {
+        "GroupName": "GroupName",
+        "GroupARN": "GroupARN",
+        "FilterExpression": "FilterExpression"
+    }
+}

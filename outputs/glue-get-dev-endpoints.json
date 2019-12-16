@@ -1,0 +1,37 @@
+{
+    "DevEndpoints": [
+        {
+            "EndpointName": "EndpointName",
+            "RoleArn": "RoleArn",
+            "SecurityGroupIds": [
+                "GenericString"
+            ],
+            "SubnetId": "SubnetId",
+            "YarnEndpointAddress": "YarnEndpointAddress",
+            "PrivateAddress": "PrivateAddress",
+            "ZeppelinRemoteSparkInterpreterPort": 0,
+            "PublicAddress": "PublicAddress",
+            "Status": "Status",
+            "WorkerType": "WorkerType",
+            "NumberOfWorkers": 0,
+            "NumberOfNodes": 0,
+            "AvailabilityZone": "AvailabilityZone",
+            "VpcId": "VpcId",
+            "ExtraPythonLibsS3Path": "ExtraPythonLibsS3Path",
+            "ExtraJarsS3Path": "ExtraJarsS3Path",
+            "FailureReason": "FailureReason",
+            "LastUpdateStatus": "LastUpdateStatus",
+            "CreatedTimestamp": "1970-01-01T00:00:00",
+            "LastModifiedTimestamp": "1970-01-01T00:00:00",
+            "PublicKey": "PublicKey",
+            "PublicKeys": [
+                "GenericString"
+            ],
+            "SecurityConfiguration": "SecurityConfiguration",
+            "Arguments": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

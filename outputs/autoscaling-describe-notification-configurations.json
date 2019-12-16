@@ -1,0 +1,10 @@
+{
+    "NotificationConfigurations": [
+        {
+            "AutoScalingGroupName": "AutoScalingGroupName",
+            "TopicARN": "TopicARN",
+            "NotificationType": "NotificationType"
+        }
+    ],
+    "NextToken": "NextToken"
+}

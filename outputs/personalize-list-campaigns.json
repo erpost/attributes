@@ -1,0 +1,13 @@
+{
+    "campaigns": [
+        {
+            "name": "name",
+            "campaignArn": "campaignArn",
+            "status": "status",
+            "creationDateTime": "1970-01-01T00:00:00",
+            "lastUpdatedDateTime": "1970-01-01T00:00:00",
+            "failureReason": "failureReason"
+        }
+    ],
+    "nextToken": "nextToken"
+}

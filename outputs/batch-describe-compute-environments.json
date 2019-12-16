@@ -1,0 +1,44 @@
+{
+    "computeEnvironments": [
+        {
+            "computeEnvironmentName": "computeEnvironmentName",
+            "computeEnvironmentArn": "computeEnvironmentArn",
+            "ecsClusterArn": "ecsClusterArn",
+            "type": "type",
+            "state": "state",
+            "status": "status",
+            "statusReason": "statusReason",
+            "computeResources": {
+                "type": "type",
+                "minvCpus": 0,
+                "maxvCpus": 0,
+                "desiredvCpus": 0,
+                "instanceTypes": [
+                    "String"
+                ],
+                "imageId": "imageId",
+                "subnets": [
+                    "String"
+                ],
+                "securityGroupIds": [
+                    "String"
+                ],
+                "ec2KeyPair": "ec2KeyPair",
+                "instanceRole": "instanceRole",
+                "tags": {
+                    "KeyName": ""
+                },
+                "placementGroup": "placementGroup",
+                "bidPercentage": 0,
+                "spotIamFleetRole": "spotIamFleetRole",
+                "launchTemplate": {
+                    "launchTemplateId": "launchTemplateId",
+                    "launchTemplateName": "launchTemplateName",
+                    "version": "version"
+                }
+            },
+            "serviceRole": "serviceRole"
+        }
+    ],
+    "nextToken": "nextToken"
+}

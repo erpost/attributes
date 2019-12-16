@@ -1,0 +1,11 @@
+{
+    "ManagedActions": [
+        {
+            "ActionId": "ActionId",
+            "ActionDescription": "ActionDescription",
+            "ActionType": "ActionType",
+            "Status": "Status",
+            "WindowStartTime": "1970-01-01T00:00:00"
+        }
+    ]
+}

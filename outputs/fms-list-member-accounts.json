@@ -1,0 +1,6 @@
+{
+    "MemberAccounts": [
+        "AWSAccountId"
+    ],
+    "NextToken": "NextToken"
+}

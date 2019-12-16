@@ -1,0 +1,45 @@
+{
+    "Fleets": [
+        {
+            "Arn": "Arn",
+            "Name": "Name",
+            "DisplayName": "DisplayName",
+            "Description": "Description",
+            "ImageName": "ImageName",
+            "ImageArn": "ImageArn",
+            "InstanceType": "InstanceType",
+            "FleetType": "FleetType",
+            "ComputeCapacityStatus": {
+                "Desired": 0,
+                "Running": 0,
+                "InUse": 0,
+                "Available": 0
+            },
+            "MaxUserDurationInSeconds": 0,
+            "DisconnectTimeoutInSeconds": 0,
+            "State": "State",
+            "VpcConfig": {
+                "SubnetIds": [
+                    "String"
+                ],
+                "SecurityGroupIds": [
+                    "String"
+                ]
+            },
+            "CreatedTime": "1970-01-01T00:00:00",
+            "FleetErrors": [
+                {
+                    "ErrorCode": "ErrorCode",
+                    "ErrorMessage": "ErrorMessage"
+                }
+            ],
+            "EnableDefaultInternetAccess": true,
+            "DomainJoinInfo": {
+                "DirectoryName": "DirectoryName",
+                "OrganizationalUnitDistinguishedName": "OrganizationalUnitDistinguishedName"
+            },
+            "IdleDisconnectTimeoutInSeconds": 0
+        }
+    ],
+    "NextToken": "NextToken"
+}

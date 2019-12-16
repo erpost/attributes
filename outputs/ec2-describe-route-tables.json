@@ -1,0 +1,46 @@
+{
+    "RouteTables": [
+        {
+            "Associations": [
+                {
+                    "Main": true,
+                    "RouteTableAssociationId": "RouteTableAssociationId",
+                    "RouteTableId": "RouteTableId",
+                    "SubnetId": "SubnetId"
+                }
+            ],
+            "PropagatingVgws": [
+                {
+                    "GatewayId": "GatewayId"
+                }
+            ],
+            "RouteTableId": "RouteTableId",
+            "Routes": [
+                {
+                    "DestinationCidrBlock": "DestinationCidrBlock",
+                    "DestinationIpv6CidrBlock": "DestinationIpv6CidrBlock",
+                    "DestinationPrefixListId": "DestinationPrefixListId",
+                    "EgressOnlyInternetGatewayId": "EgressOnlyInternetGatewayId",
+                    "GatewayId": "GatewayId",
+                    "InstanceId": "InstanceId",
+                    "InstanceOwnerId": "InstanceOwnerId",
+                    "NatGatewayId": "NatGatewayId",
+                    "TransitGatewayId": "TransitGatewayId",
+                    "NetworkInterfaceId": "NetworkInterfaceId",
+                    "Origin": "Origin",
+                    "State": "State",
+                    "VpcPeeringConnectionId": "VpcPeeringConnectionId"
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VpcId": "VpcId",
+            "OwnerId": "OwnerId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

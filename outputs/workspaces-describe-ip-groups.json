@@ -1,0 +1,16 @@
+{
+    "Result": [
+        {
+            "groupId": "groupId",
+            "groupName": "groupName",
+            "groupDesc": "groupDesc",
+            "userRules": [
+                {
+                    "ipRule": "ipRule",
+                    "ruleDesc": "ruleDesc"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

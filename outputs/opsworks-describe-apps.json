@@ -1,0 +1,47 @@
+{
+    "Apps": [
+        {
+            "AppId": "AppId",
+            "StackId": "StackId",
+            "Shortname": "Shortname",
+            "Name": "Name",
+            "Description": "Description",
+            "DataSources": [
+                {
+                    "Type": "Type",
+                    "Arn": "Arn",
+                    "DatabaseName": "DatabaseName"
+                }
+            ],
+            "Type": "Type",
+            "AppSource": {
+                "Type": "Type",
+                "Url": "Url",
+                "Username": "Username",
+                "Password": "Password",
+                "SshKey": "SshKey",
+                "Revision": "Revision"
+            },
+            "Domains": [
+                "String"
+            ],
+            "EnableSsl": true,
+            "SslConfiguration": {
+                "Certificate": "Certificate",
+                "PrivateKey": "PrivateKey",
+                "Chain": "Chain"
+            },
+            "Attributes": {
+                "KeyName": ""
+            },
+            "CreatedAt": "CreatedAt",
+            "Environment": [
+                {
+                    "Key": "Key",
+                    "Value": "Value",
+                    "Secure": true
+                }
+            ]
+        }
+    ]
+}

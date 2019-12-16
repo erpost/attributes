@@ -1,0 +1,17 @@
+{
+    "EventCategoriesMapList": [
+        {
+            "SourceType": "SourceType",
+            "Events": [
+                {
+                    "EventId": "EventId",
+                    "EventCategories": [
+                        "String"
+                    ],
+                    "EventDescription": "EventDescription",
+                    "Severity": "Severity"
+                }
+            ]
+        }
+    ]
+}

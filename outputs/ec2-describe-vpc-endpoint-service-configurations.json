@@ -1,0 +1,33 @@
+{
+    "ServiceConfigurations": [
+        {
+            "ServiceType": [
+                {
+                    "ServiceType": "ServiceType"
+                }
+            ],
+            "ServiceId": "ServiceId",
+            "ServiceName": "ServiceName",
+            "ServiceState": "ServiceState",
+            "AvailabilityZones": [
+                "String"
+            ],
+            "AcceptanceRequired": true,
+            "ManagesVpcEndpoints": true,
+            "NetworkLoadBalancerArns": [
+                "String"
+            ],
+            "BaseEndpointDnsNames": [
+                "String"
+            ],
+            "PrivateDnsName": "PrivateDnsName",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

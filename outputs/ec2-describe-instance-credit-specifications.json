@@ -1,0 +1,9 @@
+{
+    "InstanceCreditSpecifications": [
+        {
+            "InstanceId": "InstanceId",
+            "CpuCredits": "CpuCredits"
+        }
+    ],
+    "NextToken": "NextToken"
+}

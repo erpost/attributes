@@ -1,0 +1,12 @@
+{
+    "Status": "Status",
+    "NextToken": "NextToken",
+    "Vocabularies": [
+        {
+            "VocabularyName": "VocabularyName",
+            "LanguageCode": "LanguageCode",
+            "LastModifiedTime": "1970-01-01T00:00:00",
+            "VocabularyState": "VocabularyState"
+        }
+    ]
+}

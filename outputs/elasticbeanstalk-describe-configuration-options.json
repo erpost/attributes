@@ -1,0 +1,24 @@
+{
+    "SolutionStackName": "SolutionStackName",
+    "PlatformArn": "PlatformArn",
+    "Options": [
+        {
+            "Namespace": "Namespace",
+            "Name": "Name",
+            "DefaultValue": "DefaultValue",
+            "ChangeSeverity": "ChangeSeverity",
+            "UserDefined": true,
+            "ValueType": "ValueType",
+            "ValueOptions": [
+                "ConfigurationOptionPossibleValue"
+            ],
+            "MinValue": 0,
+            "MaxValue": 0,
+            "MaxLength": 0,
+            "Regex": {
+                "Pattern": "Pattern",
+                "Label": "Label"
+            }
+        }
+    ]
+}

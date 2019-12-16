@@ -1,0 +1,12 @@
+{
+    "Services": [
+        {
+            "ServiceCode": "ServiceCode",
+            "AttributeNames": [
+                "String"
+            ]
+        }
+    ],
+    "FormatVersion": "FormatVersion",
+    "NextToken": "NextToken"
+}

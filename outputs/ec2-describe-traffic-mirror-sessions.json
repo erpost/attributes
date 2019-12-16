@@ -1,0 +1,22 @@
+{
+    "TrafficMirrorSessions": [
+        {
+            "TrafficMirrorSessionId": "TrafficMirrorSessionId",
+            "TrafficMirrorTargetId": "TrafficMirrorTargetId",
+            "TrafficMirrorFilterId": "TrafficMirrorFilterId",
+            "NetworkInterfaceId": "NetworkInterfaceId",
+            "OwnerId": "OwnerId",
+            "PacketLength": 0,
+            "SessionNumber": 0,
+            "VirtualNetworkId": 0,
+            "Description": "Description",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

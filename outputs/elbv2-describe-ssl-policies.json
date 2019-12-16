@@ -1,0 +1,17 @@
+{
+    "SslPolicies": [
+        {
+            "SslProtocols": [
+                "SslProtocol"
+            ],
+            "Ciphers": [
+                {
+                    "Name": "Name",
+                    "Priority": 0
+                }
+            ],
+            "Name": "Name"
+        }
+    ],
+    "NextMarker": "NextMarker"
+}

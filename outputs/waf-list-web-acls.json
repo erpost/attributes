@@ -1,0 +1,9 @@
+{
+    "NextMarker": "NextMarker",
+    "WebACLs": [
+        {
+            "WebACLId": "WebACLId",
+            "Name": "Name"
+        }
+    ]
+}

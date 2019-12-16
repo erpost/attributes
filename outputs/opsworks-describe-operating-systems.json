@@ -1,0 +1,18 @@
+{
+    "OperatingSystems": [
+        {
+            "Name": "Name",
+            "Id": "Id",
+            "Type": "Type",
+            "ConfigurationManagers": [
+                {
+                    "Name": "Name",
+                    "Version": "Version"
+                }
+            ],
+            "ReportedName": "ReportedName",
+            "ReportedVersion": "ReportedVersion",
+            "Supported": true
+        }
+    ]
+}

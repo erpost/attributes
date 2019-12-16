@@ -1,0 +1,17 @@
+{
+    "Activities": [
+        {
+            "ActivityId": "ActivityId",
+            "AutoScalingGroupName": "AutoScalingGroupName",
+            "Description": "Description",
+            "Cause": "Cause",
+            "StartTime": "1970-01-01T00:00:00",
+            "EndTime": "1970-01-01T00:00:00",
+            "StatusCode": "StatusCode",
+            "StatusMessage": "StatusMessage",
+            "Progress": 0,
+            "Details": "Details"
+        }
+    ],
+    "NextToken": "NextToken"
+}

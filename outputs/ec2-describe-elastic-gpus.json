@@ -1,0 +1,16 @@
+{
+    "ElasticGpuSet": [
+        {
+            "ElasticGpuId": "ElasticGpuId",
+            "AvailabilityZone": "AvailabilityZone",
+            "ElasticGpuType": "ElasticGpuType",
+            "ElasticGpuHealth": {
+                "Status": "Status"
+            },
+            "ElasticGpuState": "ElasticGpuState",
+            "InstanceId": "InstanceId"
+        }
+    ],
+    "MaxResults": 0,
+    "NextToken": "NextToken"
+}

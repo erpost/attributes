@@ -1,0 +1,38 @@
+{
+    "actionTypes": [
+        {
+            "id": {
+                "category": "category",
+                "owner": "owner",
+                "provider": "provider",
+                "version": "version"
+            },
+            "settings": {
+                "thirdPartyConfigurationUrl": "thirdPartyConfigurationUrl",
+                "entityUrlTemplate": "entityUrlTemplate",
+                "executionUrlTemplate": "executionUrlTemplate",
+                "revisionUrlTemplate": "revisionUrlTemplate"
+            },
+            "actionConfigurationProperties": [
+                {
+                    "name": "name",
+                    "required": true,
+                    "key": true,
+                    "secret": true,
+                    "queryable": true,
+                    "description": "description",
+                    "type": "type"
+                }
+            ],
+            "inputArtifactDetails": {
+                "minimumCount": 0,
+                "maximumCount": 0
+            },
+            "outputArtifactDetails": {
+                "minimumCount": 0,
+                "maximumCount": 0
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

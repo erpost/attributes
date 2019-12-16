@@ -1,0 +1,10 @@
+{
+    "EventCategoriesMapList": [
+        {
+            "SourceType": "SourceType",
+            "EventCategories": [
+                "String"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "NextToken": "NextToken",
+    "CapacityReservations": [
+        {
+            "CapacityReservationId": "CapacityReservationId",
+            "OwnerId": "OwnerId",
+            "CapacityReservationArn": "CapacityReservationArn",
+            "AvailabilityZoneId": "AvailabilityZoneId",
+            "InstanceType": "InstanceType",
+            "InstancePlatform": "InstancePlatform",
+            "AvailabilityZone": "AvailabilityZone",
+            "Tenancy": "Tenancy",
+            "TotalInstanceCount": 0,
+            "AvailableInstanceCount": 0,
+            "EbsOptimized": true,
+            "EphemeralStorage": true,
+            "State": "State",
+            "EndDate": "1970-01-01T00:00:00",
+            "EndDateType": "EndDateType",
+            "InstanceMatchCriteria": "InstanceMatchCriteria",
+            "CreateDate": "1970-01-01T00:00:00",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

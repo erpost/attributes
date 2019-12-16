@@ -1,0 +1,13 @@
+{
+    "NumResults": 0,
+    "NextToken": "NextToken",
+    "BonusPayments": [
+        {
+            "WorkerId": "WorkerId",
+            "BonusAmount": "BonusAmount",
+            "AssignmentId": "AssignmentId",
+            "Reason": "Reason",
+            "GrantTime": "1970-01-01T00:00:00"
+        }
+    ]
+}

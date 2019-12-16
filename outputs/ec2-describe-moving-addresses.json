@@ -1,0 +1,9 @@
+{
+    "MovingAddressStatuses": [
+        {
+            "MoveStatus": "MoveStatus",
+            "PublicIp": "PublicIp"
+        }
+    ],
+    "NextToken": "NextToken"
+}

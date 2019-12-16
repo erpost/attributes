@@ -1,0 +1,9 @@
+{
+    "Room": {
+        "RoomArn": "RoomArn",
+        "RoomName": "RoomName",
+        "Description": "Description",
+        "ProviderCalendarId": "ProviderCalendarId",
+        "ProfileArn": "ProfileArn"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Configurations": [
+        {
+            "Arn": "Arn",
+            "CreationTime": "1970-01-01T00:00:00",
+            "Description": "Description",
+            "KafkaVersions": [
+                "__string"
+            ],
+            "LatestRevision": {
+                "CreationTime": "1970-01-01T00:00:00",
+                "Description": "Description",
+                "Revision": 0
+            },
+            "Name": "Name"
+        }
+    ],
+    "NextToken": "NextToken"
+}

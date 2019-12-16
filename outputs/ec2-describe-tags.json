@@ -1,0 +1,11 @@
+{
+    "NextToken": "NextToken",
+    "Tags": [
+        {
+            "Key": "Key",
+            "ResourceId": "ResourceId",
+            "ResourceType": "ResourceType",
+            "Value": "Value"
+        }
+    ]
+}

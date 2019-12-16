@@ -1,0 +1,11 @@
+{
+    "DedicatedIps": [
+        {
+            "Ip": "Ip",
+            "WarmupStatus": "WarmupStatus",
+            "WarmupPercentage": 0,
+            "PoolName": "PoolName"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,17 @@
+{
+    "pipelineSummaries": [
+        {
+            "pipelineName": "pipelineName",
+            "reprocessingSummaries": [
+                {
+                    "id": "id",
+                    "status": "status",
+                    "creationTime": "1970-01-01T00:00:00"
+                }
+            ],
+            "creationTime": "1970-01-01T00:00:00",
+            "lastUpdateTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "nextToken": "nextToken"
+}

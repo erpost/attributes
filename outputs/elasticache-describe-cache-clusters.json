@@ -1,0 +1,74 @@
+{
+    "Marker": "Marker",
+    "CacheClusters": [
+        {
+            "CacheClusterId": "CacheClusterId",
+            "ConfigurationEndpoint": {
+                "Address": "Address",
+                "Port": 0
+            },
+            "ClientDownloadLandingPage": "ClientDownloadLandingPage",
+            "CacheNodeType": "CacheNodeType",
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "CacheClusterStatus": "CacheClusterStatus",
+            "NumCacheNodes": 0,
+            "PreferredAvailabilityZone": "PreferredAvailabilityZone",
+            "CacheClusterCreateTime": "1970-01-01T00:00:00",
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "PendingModifiedValues": {
+                "NumCacheNodes": 0,
+                "CacheNodeIdsToRemove": [
+                    "String"
+                ],
+                "EngineVersion": "EngineVersion",
+                "CacheNodeType": "CacheNodeType"
+            },
+            "NotificationConfiguration": {
+                "TopicArn": "TopicArn",
+                "TopicStatus": "TopicStatus"
+            },
+            "CacheSecurityGroups": [
+                {
+                    "CacheSecurityGroupName": "CacheSecurityGroupName",
+                    "Status": "Status"
+                }
+            ],
+            "CacheParameterGroup": {
+                "CacheParameterGroupName": "CacheParameterGroupName",
+                "ParameterApplyStatus": "ParameterApplyStatus",
+                "CacheNodeIdsToReboot": [
+                    "String"
+                ]
+            },
+            "CacheSubnetGroupName": "CacheSubnetGroupName",
+            "CacheNodes": [
+                {
+                    "CacheNodeId": "CacheNodeId",
+                    "CacheNodeStatus": "CacheNodeStatus",
+                    "CacheNodeCreateTime": "1970-01-01T00:00:00",
+                    "Endpoint": {
+                        "Address": "Address",
+                        "Port": 0
+                    },
+                    "ParameterGroupStatus": "ParameterGroupStatus",
+                    "SourceCacheNodeId": "SourceCacheNodeId",
+                    "CustomerAvailabilityZone": "CustomerAvailabilityZone"
+                }
+            ],
+            "AutoMinorVersionUpgrade": true,
+            "SecurityGroups": [
+                {
+                    "SecurityGroupId": "SecurityGroupId",
+                    "Status": "Status"
+                }
+            ],
+            "ReplicationGroupId": "ReplicationGroupId",
+            "SnapshotRetentionLimit": 0,
+            "SnapshotWindow": "SnapshotWindow",
+            "AuthTokenEnabled": true,
+            "TransitEncryptionEnabled": true,
+            "AtRestEncryptionEnabled": true
+        }
+    ]
+}

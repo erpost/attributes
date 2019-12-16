@@ -1,0 +1,15 @@
+{
+    "ConfigurationRecorders": [
+        {
+            "name": "name",
+            "roleARN": "roleARN",
+            "recordingGroup": {
+                "allSupported": true,
+                "includeGlobalResourceTypes": true,
+                "resourceTypes": [
+                    "ResourceType"
+                ]
+            }
+        }
+    ]
+}

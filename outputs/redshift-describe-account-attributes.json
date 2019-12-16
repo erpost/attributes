@@ -1,0 +1,12 @@
+{
+    "AccountAttributes": [
+        {
+            "AttributeName": "AttributeName",
+            "AttributeValues": [
+                {
+                    "AttributeValue": "AttributeValue"
+                }
+            ]
+        }
+    ]
+}

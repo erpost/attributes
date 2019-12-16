@@ -1,0 +1,7 @@
+{
+    "Protection": {
+        "Id": "Id",
+        "Name": "Name",
+        "ResourceArn": "ResourceArn"
+    }
+}

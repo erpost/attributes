@@ -1,0 +1,12 @@
+{
+    "SamplingStatisticSummaries": [
+        {
+            "RuleName": "RuleName",
+            "Timestamp": "1970-01-01T00:00:00",
+            "RequestCount": 0,
+            "BorrowCount": 0,
+            "SampledCount": 0
+        }
+    ],
+    "NextToken": "NextToken"
+}

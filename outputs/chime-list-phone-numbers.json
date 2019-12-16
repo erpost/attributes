@@ -1,0 +1,30 @@
+{
+    "PhoneNumbers": [
+        {
+            "PhoneNumberId": "PhoneNumberId",
+            "E164PhoneNumber": "E164PhoneNumber",
+            "Type": "Type",
+            "ProductType": "ProductType",
+            "Status": "Status",
+            "Capabilities": {
+                "InboundCall": true,
+                "OutboundCall": true,
+                "InboundSMS": true,
+                "OutboundSMS": true,
+                "InboundMMS": true,
+                "OutboundMMS": true
+            },
+            "Associations": [
+                {
+                    "Value": "Value",
+                    "Name": "Name",
+                    "AssociatedTimestamp": "1970-01-01T00:00:00"
+                }
+            ],
+            "CreatedTimestamp": "1970-01-01T00:00:00",
+            "UpdatedTimestamp": "1970-01-01T00:00:00",
+            "DeletionTimestamp": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

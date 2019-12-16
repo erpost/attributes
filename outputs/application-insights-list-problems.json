@@ -1,0 +1,19 @@
+{
+    "ProblemList": [
+        {
+            "Id": "Id",
+            "Title": "Title",
+            "Insights": "Insights",
+            "Status": "Status",
+            "AffectedResource": "AffectedResource",
+            "StartTime": "1970-01-01T00:00:00",
+            "EndTime": "1970-01-01T00:00:00",
+            "SeverityLevel": "SeverityLevel",
+            "ResourceGroupName": "ResourceGroupName",
+            "Feedback": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

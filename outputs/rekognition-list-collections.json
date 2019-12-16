@@ -1,0 +1,9 @@
+{
+    "CollectionIds": [
+        "CollectionId"
+    ],
+    "NextToken": "NextToken",
+    "FaceModelVersions": [
+        "String"
+    ]
+}

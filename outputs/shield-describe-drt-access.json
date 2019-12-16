@@ -1,0 +1,6 @@
+{
+    "RoleArn": "RoleArn",
+    "LogBucketList": [
+        "LogBucket"
+    ]
+}

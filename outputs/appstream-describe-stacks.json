@@ -1,0 +1,40 @@
+{
+    "Stacks": [
+        {
+            "Arn": "Arn",
+            "Name": "Name",
+            "Description": "Description",
+            "DisplayName": "DisplayName",
+            "CreatedTime": "1970-01-01T00:00:00",
+            "StorageConnectors": [
+                {
+                    "ConnectorType": "ConnectorType",
+                    "ResourceIdentifier": "ResourceIdentifier",
+                    "Domains": [
+                        "Domain"
+                    ]
+                }
+            ],
+            "RedirectURL": "RedirectURL",
+            "FeedbackURL": "FeedbackURL",
+            "StackErrors": [
+                {
+                    "ErrorCode": "ErrorCode",
+                    "ErrorMessage": "ErrorMessage"
+                }
+            ],
+            "UserSettings": [
+                {
+                    "Action": "Action",
+                    "Permission": "Permission"
+                }
+            ],
+            "ApplicationSettings": {
+                "Enabled": true,
+                "SettingsGroup": "SettingsGroup",
+                "S3BucketName": "S3BucketName"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

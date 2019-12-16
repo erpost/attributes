@@ -1,0 +1,23 @@
+{
+    "Items": [
+        {
+            "ApiEndpoint": "ApiEndpoint",
+            "ApiId": "ApiId",
+            "ApiKeySelectionExpression": "ApiKeySelectionExpression",
+            "CreatedDate": "1970-01-01T00:00:00",
+            "Description": "Description",
+            "DisableSchemaValidation": true,
+            "Name": "Name",
+            "ProtocolType": "ProtocolType",
+            "RouteSelectionExpression": "RouteSelectionExpression",
+            "Version": "Version",
+            "Warnings": [
+                "__string"
+            ],
+            "Tags": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

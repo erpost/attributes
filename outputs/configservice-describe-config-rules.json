@@ -1,0 +1,34 @@
+{
+    "ConfigRules": [
+        {
+            "ConfigRuleName": "ConfigRuleName",
+            "ConfigRuleArn": "ConfigRuleArn",
+            "ConfigRuleId": "ConfigRuleId",
+            "Description": "Description",
+            "Scope": {
+                "ComplianceResourceTypes": [
+                    "StringWithCharLimit256"
+                ],
+                "TagKey": "TagKey",
+                "TagValue": "TagValue",
+                "ComplianceResourceId": "ComplianceResourceId"
+            },
+            "Source": {
+                "Owner": "Owner",
+                "SourceIdentifier": "SourceIdentifier",
+                "SourceDetails": [
+                    {
+                        "EventSource": "EventSource",
+                        "MessageType": "MessageType",
+                        "MaximumExecutionFrequency": "MaximumExecutionFrequency"
+                    }
+                ]
+            },
+            "InputParameters": "InputParameters",
+            "MaximumExecutionFrequency": "MaximumExecutionFrequency",
+            "ConfigRuleState": "ConfigRuleState",
+            "CreatedBy": "CreatedBy"
+        }
+    ],
+    "NextToken": "NextToken"
+}

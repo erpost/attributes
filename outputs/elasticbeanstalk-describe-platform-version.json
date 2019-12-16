@@ -1,0 +1,41 @@
+{
+    "PlatformDescription": {
+        "PlatformArn": "PlatformArn",
+        "PlatformOwner": "PlatformOwner",
+        "PlatformName": "PlatformName",
+        "PlatformVersion": "PlatformVersion",
+        "SolutionStackName": "SolutionStackName",
+        "PlatformStatus": "PlatformStatus",
+        "DateCreated": "1970-01-01T00:00:00",
+        "DateUpdated": "1970-01-01T00:00:00",
+        "PlatformCategory": "PlatformCategory",
+        "Description": "Description",
+        "Maintainer": "Maintainer",
+        "OperatingSystemName": "OperatingSystemName",
+        "OperatingSystemVersion": "OperatingSystemVersion",
+        "ProgrammingLanguages": [
+            {
+                "Name": "Name",
+                "Version": "Version"
+            }
+        ],
+        "Frameworks": [
+            {
+                "Name": "Name",
+                "Version": "Version"
+            }
+        ],
+        "CustomAmiList": [
+            {
+                "VirtualizationType": "VirtualizationType",
+                "ImageId": "ImageId"
+            }
+        ],
+        "SupportedTierList": [
+            "SupportedTier"
+        ],
+        "SupportedAddonList": [
+            "SupportedAddon"
+        ]
+    }
+}

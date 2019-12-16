@@ -1,0 +1,23 @@
+{
+    "VpnGateways": [
+        {
+            "AvailabilityZone": "AvailabilityZone",
+            "State": "State",
+            "Type": "Type",
+            "VpcAttachments": [
+                {
+                    "State": "State",
+                    "VpcId": "VpcId"
+                }
+            ],
+            "VpnGatewayId": "VpnGatewayId",
+            "AmazonSideAsn": 0,
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

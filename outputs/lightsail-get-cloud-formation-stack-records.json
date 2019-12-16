@@ -1,0 +1,27 @@
+{
+    "cloudFormationStackRecords": [
+        {
+            "name": "name",
+            "arn": "arn",
+            "createdAt": "1970-01-01T00:00:00",
+            "location": {
+                "availabilityZone": "availabilityZone",
+                "regionName": "regionName"
+            },
+            "resourceType": "resourceType",
+            "state": "state",
+            "sourceInfo": [
+                {
+                    "resourceType": "resourceType",
+                    "name": "name",
+                    "arn": "arn"
+                }
+            ],
+            "destinationInfo": {
+                "id": "id",
+                "service": "service"
+            }
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

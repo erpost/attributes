@@ -1,0 +1,17 @@
+{
+    "GeoLocationDetailsList": [
+        {
+            "ContinentCode": "ContinentCode",
+            "ContinentName": "ContinentName",
+            "CountryCode": "CountryCode",
+            "CountryName": "CountryName",
+            "SubdivisionCode": "SubdivisionCode",
+            "SubdivisionName": "SubdivisionName"
+        }
+    ],
+    "IsTruncated": true,
+    "NextContinentCode": "NextContinentCode",
+    "NextCountryCode": "NextCountryCode",
+    "NextSubdivisionCode": "NextSubdivisionCode",
+    "MaxItems": "MaxItems"
+}

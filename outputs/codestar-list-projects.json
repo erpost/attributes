@@ -1,0 +1,9 @@
+{
+    "projects": [
+        {
+            "projectId": "projectId",
+            "projectArn": "projectArn"
+        }
+    ],
+    "nextToken": "nextToken"
+}

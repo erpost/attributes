@@ -1,0 +1,9 @@
+{
+    "Locations": [
+        {
+            "LocationArn": "LocationArn",
+            "LocationUri": "LocationUri"
+        }
+    ],
+    "NextToken": "NextToken"
+}

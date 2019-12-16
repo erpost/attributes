@@ -1,0 +1,18 @@
+{
+    "Marker": "Marker",
+    "CacheSubnetGroups": [
+        {
+            "CacheSubnetGroupName": "CacheSubnetGroupName",
+            "CacheSubnetGroupDescription": "CacheSubnetGroupDescription",
+            "VpcId": "VpcId",
+            "Subnets": [
+                {
+                    "SubnetIdentifier": "SubnetIdentifier",
+                    "SubnetAvailabilityZone": {
+                        "Name": "Name"
+                    }
+                }
+            ]
+        }
+    ]
+}

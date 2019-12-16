@@ -1,0 +1,9 @@
+{
+    "PendingAggregationRequests": [
+        {
+            "RequesterAccountId": "RequesterAccountId",
+            "RequesterAwsRegion": "RequesterAwsRegion"
+        }
+    ],
+    "NextToken": "NextToken"
+}

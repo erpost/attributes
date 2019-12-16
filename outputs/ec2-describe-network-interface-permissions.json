@@ -1,0 +1,16 @@
+{
+    "NetworkInterfacePermissions": [
+        {
+            "NetworkInterfacePermissionId": "NetworkInterfacePermissionId",
+            "NetworkInterfaceId": "NetworkInterfaceId",
+            "AwsAccountId": "AwsAccountId",
+            "AwsService": "AwsService",
+            "Permission": "Permission",
+            "PermissionState": {
+                "State": "State",
+                "StatusMessage": "StatusMessage"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

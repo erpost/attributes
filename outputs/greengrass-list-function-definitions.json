@@ -1,0 +1,17 @@
+{
+    "Definitions": [
+        {
+            "Arn": "Arn",
+            "CreationTimestamp": "CreationTimestamp",
+            "Id": "Id",
+            "LastUpdatedTimestamp": "LastUpdatedTimestamp",
+            "LatestVersion": "LatestVersion",
+            "LatestVersionArn": "LatestVersionArn",
+            "Name": "Name",
+            "Tags": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

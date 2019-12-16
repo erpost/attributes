@@ -1,0 +1,15 @@
+{
+    "CreateAccountStatuses": [
+        {
+            "Id": "Id",
+            "AccountName": "AccountName",
+            "State": "State",
+            "RequestedTimestamp": "1970-01-01T00:00:00",
+            "CompletedTimestamp": "1970-01-01T00:00:00",
+            "AccountId": "AccountId",
+            "GovCloudAccountId": "GovCloudAccountId",
+            "FailureReason": "FailureReason"
+        }
+    ],
+    "NextToken": "NextToken"
+}

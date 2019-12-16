@@ -1,0 +1,12 @@
+{
+    "FleetUtilization": [
+        {
+            "FleetId": "FleetId",
+            "ActiveServerProcessCount": 0,
+            "ActiveGameSessionCount": 0,
+            "CurrentPlayerSessionCount": 0,
+            "MaximumPlayerSessionCount": 0
+        }
+    ],
+    "NextToken": "NextToken"
+}

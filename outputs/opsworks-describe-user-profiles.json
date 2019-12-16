@@ -1,0 +1,11 @@
+{
+    "UserProfiles": [
+        {
+            "IamUserArn": "IamUserArn",
+            "Name": "Name",
+            "SshUsername": "SshUsername",
+            "SshPublicKey": "SshPublicKey",
+            "AllowSelfManagement": true
+        }
+    ]
+}

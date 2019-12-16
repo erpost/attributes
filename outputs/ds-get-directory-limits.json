@@ -1,0 +1,13 @@
+{
+    "DirectoryLimits": {
+        "CloudOnlyDirectoriesLimit": 0,
+        "CloudOnlyDirectoriesCurrentCount": 0,
+        "CloudOnlyDirectoriesLimitReached": true,
+        "CloudOnlyMicrosoftADLimit": 0,
+        "CloudOnlyMicrosoftADCurrentCount": 0,
+        "CloudOnlyMicrosoftADLimitReached": true,
+        "ConnectedDirectoriesLimit": 0,
+        "ConnectedDirectoriesCurrentCount": 0,
+        "ConnectedDirectoriesLimitReached": true
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "InstanceInformationList": [
+        {
+            "InstanceId": "InstanceId",
+            "PingStatus": "PingStatus",
+            "LastPingDateTime": "1970-01-01T00:00:00",
+            "AgentVersion": "AgentVersion",
+            "IsLatestVersion": true,
+            "PlatformType": "PlatformType",
+            "PlatformName": "PlatformName",
+            "PlatformVersion": "PlatformVersion",
+            "ActivationId": "ActivationId",
+            "IamRole": "IamRole",
+            "RegistrationDate": "1970-01-01T00:00:00",
+            "ResourceType": "ResourceType",
+            "Name": "Name",
+            "IPAddress": "IPAddress",
+            "ComputerName": "ComputerName",
+            "AssociationStatus": "AssociationStatus",
+            "LastAssociationExecutionDate": "1970-01-01T00:00:00",
+            "LastSuccessfulAssociationExecutionDate": "1970-01-01T00:00:00",
+            "AssociationOverview": {
+                "DetailedStatus": "DetailedStatus",
+                "InstanceAssociationStatusAggregatedCount": {
+                    "KeyName": 0
+                }
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

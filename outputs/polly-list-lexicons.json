@@ -1,0 +1,16 @@
+{
+    "Lexicons": [
+        {
+            "Name": "Name",
+            "Attributes": {
+                "Alphabet": "Alphabet",
+                "LanguageCode": "LanguageCode",
+                "LastModified": "1970-01-01T00:00:00",
+                "LexiconArn": "LexiconArn",
+                "LexemesCount": 0,
+                "Size": 0
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

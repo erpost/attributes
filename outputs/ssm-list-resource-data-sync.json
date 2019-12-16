@@ -1,0 +1,20 @@
+{
+    "ResourceDataSyncItems": [
+        {
+            "SyncName": "SyncName",
+            "S3Destination": {
+                "BucketName": "BucketName",
+                "Prefix": "Prefix",
+                "SyncFormat": "SyncFormat",
+                "Region": "Region",
+                "AWSKMSKeyARN": "AWSKMSKeyARN"
+            },
+            "LastSyncTime": "1970-01-01T00:00:00",
+            "LastSuccessfulSyncTime": "1970-01-01T00:00:00",
+            "LastStatus": "LastStatus",
+            "SyncCreatedTime": "1970-01-01T00:00:00",
+            "LastSyncStatusMessage": "LastSyncStatusMessage"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,19 @@
+{
+    "PublicIpv4Pools": [
+        {
+            "PoolId": "PoolId",
+            "Description": "Description",
+            "PoolAddressRanges": [
+                {
+                    "FirstAddress": "FirstAddress",
+                    "LastAddress": "LastAddress",
+                    "AddressCount": 0,
+                    "AvailableAddressCount": 0
+                }
+            ],
+            "TotalAddressCount": 0,
+            "TotalAvailableAddressCount": 0
+        }
+    ],
+    "NextToken": "NextToken"
+}

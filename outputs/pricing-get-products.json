@@ -1,0 +1,7 @@
+{
+    "FormatVersion": "FormatVersion",
+    "PriceList": [
+        "PriceListItemJSON"
+    ],
+    "NextToken": "NextToken"
+}

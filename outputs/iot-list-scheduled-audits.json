@@ -1,0 +1,12 @@
+{
+    "scheduledAudits": [
+        {
+            "scheduledAuditName": "scheduledAuditName",
+            "scheduledAuditArn": "scheduledAuditArn",
+            "frequency": "frequency",
+            "dayOfMonth": "dayOfMonth",
+            "dayOfWeek": "dayOfWeek"
+        }
+    ],
+    "nextToken": "nextToken"
+}

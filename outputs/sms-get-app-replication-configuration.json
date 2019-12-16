@@ -1,0 +1,36 @@
+{
+    "serverGroupReplicationConfigurations": [
+        {
+            "serverGroupId": "serverGroupId",
+            "serverReplicationConfigurations": [
+                {
+                    "server": {
+                        "serverId": "serverId",
+                        "serverType": "serverType",
+                        "vmServer": {
+                            "vmServerAddress": {
+                                "vmManagerId": "vmManagerId",
+                                "vmId": "vmId"
+                            },
+                            "vmName": "vmName",
+                            "vmManagerName": "vmManagerName",
+                            "vmManagerType": "vmManagerType",
+                            "vmPath": "vmPath"
+                        },
+                        "replicationJobId": "replicationJobId",
+                        "replicationJobTerminated": true
+                    },
+                    "serverReplicationParameters": {
+                        "seedTime": "1970-01-01T00:00:00",
+                        "frequency": 0,
+                        "runOnce": true,
+                        "licenseType": "licenseType",
+                        "numberOfRecentAmisToKeep": 0,
+                        "encrypted": true,
+                        "kmsKeyId": "kmsKeyId"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Marker": "Marker",
+    "DBEngineVersions": [
+        {
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "DBParameterGroupFamily": "DBParameterGroupFamily",
+            "DBEngineDescription": "DBEngineDescription",
+            "DBEngineVersionDescription": "DBEngineVersionDescription",
+            "DefaultCharacterSet": {
+                "CharacterSetName": "CharacterSetName",
+                "CharacterSetDescription": "CharacterSetDescription"
+            },
+            "SupportedCharacterSets": [
+                {
+                    "CharacterSetName": "CharacterSetName",
+                    "CharacterSetDescription": "CharacterSetDescription"
+                }
+            ],
+            "ValidUpgradeTarget": [
+                {
+                    "Engine": "Engine",
+                    "EngineVersion": "EngineVersion",
+                    "Description": "Description",
+                    "AutoUpgrade": true,
+                    "IsMajorVersionUpgrade": true
+                }
+            ],
+            "SupportedTimezones": [
+                {
+                    "TimezoneName": "TimezoneName"
+                }
+            ],
+            "ExportableLogTypes": [
+                "String"
+            ],
+            "SupportsLogExportsToCloudwatchLogs": true,
+            "SupportsReadReplica": true
+        }
+    ]
+}

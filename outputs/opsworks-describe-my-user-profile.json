@@ -1,0 +1,8 @@
+{
+    "UserProfile": {
+        "IamUserArn": "IamUserArn",
+        "Name": "Name",
+        "SshUsername": "SshUsername",
+        "SshPublicKey": "SshPublicKey"
+    }
+}

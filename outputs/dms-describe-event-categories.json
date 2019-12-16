@@ -1,0 +1,10 @@
+{
+    "EventCategoryGroupList": [
+        {
+            "SourceType": "SourceType",
+            "EventCategories": [
+                "String"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "NextToken": "NextToken",
+    "Parameters": [
+        {
+            "ParameterName": "ParameterName",
+            "ParameterType": "ParameterType",
+            "ParameterValue": "ParameterValue",
+            "NodeTypeSpecificValues": [
+                {
+                    "NodeType": "NodeType",
+                    "Value": "Value"
+                }
+            ],
+            "Description": "Description",
+            "Source": "Source",
+            "DataType": "DataType",
+            "AllowedValues": "AllowedValues",
+            "IsModifiable": "IsModifiable",
+            "ChangeType": "ChangeType"
+        }
+    ]
+}

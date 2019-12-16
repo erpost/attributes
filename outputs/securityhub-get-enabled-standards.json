@@ -1,0 +1,13 @@
+{
+    "StandardsSubscriptions": [
+        {
+            "StandardsSubscriptionArn": "StandardsSubscriptionArn",
+            "StandardsArn": "StandardsArn",
+            "StandardsInput": {
+                "KeyName": ""
+            },
+            "StandardsStatus": "StandardsStatus"
+        }
+    ],
+    "NextToken": "NextToken"
+}

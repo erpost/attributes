@@ -1,0 +1,11 @@
+{
+    "Marker": "Marker",
+    "SupportedEndpointTypes": [
+        {
+            "EngineName": "EngineName",
+            "SupportsCDC": true,
+            "EndpointType": "EndpointType",
+            "EngineDisplayName": "EngineDisplayName"
+        }
+    ]
+}

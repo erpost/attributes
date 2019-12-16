@@ -1,0 +1,16 @@
+{
+    "robots": [
+        {
+            "arn": "arn",
+            "name": "name",
+            "fleetArn": "fleetArn",
+            "status": "status",
+            "greenGrassGroupId": "greenGrassGroupId",
+            "createdAt": "1970-01-01T00:00:00",
+            "architecture": "architecture",
+            "lastDeploymentJob": "lastDeploymentJob",
+            "lastDeploymentTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "nextToken": "nextToken"
+}

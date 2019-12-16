@@ -1,0 +1,31 @@
+{
+    "Marker": "Marker",
+    "ClusterSubnetGroups": [
+        {
+            "ClusterSubnetGroupName": "ClusterSubnetGroupName",
+            "Description": "Description",
+            "VpcId": "VpcId",
+            "SubnetGroupStatus": "SubnetGroupStatus",
+            "Subnets": [
+                {
+                    "SubnetIdentifier": "SubnetIdentifier",
+                    "SubnetAvailabilityZone": {
+                        "Name": "Name",
+                        "SupportedPlatforms": [
+                            {
+                                "Name": "Name"
+                            }
+                        ]
+                    },
+                    "SubnetStatus": "SubnetStatus"
+                }
+            ],
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "jobQueues": [
+        {
+            "jobQueueName": "jobQueueName",
+            "jobQueueArn": "jobQueueArn",
+            "state": "state",
+            "status": "status",
+            "statusReason": "statusReason",
+            "priority": 0,
+            "computeEnvironmentOrder": [
+                {
+                    "order": 0,
+                    "computeEnvironment": "computeEnvironment"
+                }
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

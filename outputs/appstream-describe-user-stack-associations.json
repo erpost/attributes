@@ -1,0 +1,11 @@
+{
+    "UserStackAssociations": [
+        {
+            "StackName": "StackName",
+            "UserName": "UserName",
+            "AuthenticationType": "AuthenticationType",
+            "SendEmailNotification": true
+        }
+    ],
+    "NextToken": "NextToken"
+}

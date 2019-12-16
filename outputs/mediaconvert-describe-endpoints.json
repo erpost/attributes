@@ -1,0 +1,8 @@
+{
+    "Endpoints": [
+        {
+            "Url": "Url"
+        }
+    ],
+    "NextToken": "NextToken"
+}

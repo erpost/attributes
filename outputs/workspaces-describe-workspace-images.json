@@ -1,0 +1,17 @@
+{
+    "Images": [
+        {
+            "ImageId": "ImageId",
+            "Name": "Name",
+            "Description": "Description",
+            "OperatingSystem": {
+                "Type": "Type"
+            },
+            "State": "State",
+            "RequiredTenancy": "RequiredTenancy",
+            "ErrorCode": "ErrorCode",
+            "ErrorMessage": "ErrorMessage"
+        }
+    ],
+    "NextToken": "NextToken"
+}

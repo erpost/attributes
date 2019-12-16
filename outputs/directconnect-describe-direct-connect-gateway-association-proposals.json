@@ -1,0 +1,27 @@
+{
+    "directConnectGatewayAssociationProposals": [
+        {
+            "proposalId": "proposalId",
+            "directConnectGatewayId": "directConnectGatewayId",
+            "directConnectGatewayOwnerAccount": "directConnectGatewayOwnerAccount",
+            "proposalState": "proposalState",
+            "associatedGateway": {
+                "id": "id",
+                "type": "type",
+                "ownerAccount": "ownerAccount",
+                "region": "region"
+            },
+            "existingAllowedPrefixesToDirectConnectGateway": [
+                {
+                    "cidr": "cidr"
+                }
+            ],
+            "requestedAllowedPrefixesToDirectConnectGateway": [
+                {
+                    "cidr": "cidr"
+                }
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,12 @@
+{
+    "queries": [
+        {
+            "queryId": "queryId",
+            "queryString": "queryString",
+            "status": "status",
+            "createTime": 0,
+            "logGroupName": "logGroupName"
+        }
+    ],
+    "nextToken": "nextToken"
+}

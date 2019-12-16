@@ -1,0 +1,17 @@
+{
+    "Marker": "Marker",
+    "CacheSecurityGroups": [
+        {
+            "OwnerId": "OwnerId",
+            "CacheSecurityGroupName": "CacheSecurityGroupName",
+            "Description": "Description",
+            "EC2SecurityGroups": [
+                {
+                    "Status": "Status",
+                    "EC2SecurityGroupName": "EC2SecurityGroupName",
+                    "EC2SecurityGroupOwnerId": "EC2SecurityGroupOwnerId"
+                }
+            ]
+        }
+    ]
+}

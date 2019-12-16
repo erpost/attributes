@@ -1,0 +1,19 @@
+{
+    "PlatformSummaryList": [
+        {
+            "PlatformArn": "PlatformArn",
+            "PlatformOwner": "PlatformOwner",
+            "PlatformStatus": "PlatformStatus",
+            "PlatformCategory": "PlatformCategory",
+            "OperatingSystemName": "OperatingSystemName",
+            "OperatingSystemVersion": "OperatingSystemVersion",
+            "SupportedTierList": [
+                "SupportedTier"
+            ],
+            "SupportedAddonList": [
+                "SupportedAddon"
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

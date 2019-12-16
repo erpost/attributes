@@ -1,0 +1,13 @@
+{
+    "TrainingJobSummaries": [
+        {
+            "TrainingJobName": "TrainingJobName",
+            "TrainingJobArn": "TrainingJobArn",
+            "CreationTime": "1970-01-01T00:00:00",
+            "TrainingEndTime": "1970-01-01T00:00:00",
+            "LastModifiedTime": "1970-01-01T00:00:00",
+            "TrainingJobStatus": "TrainingJobStatus"
+        }
+    ],
+    "NextToken": "NextToken"
+}

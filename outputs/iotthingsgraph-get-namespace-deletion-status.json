@@ -1,0 +1,7 @@
+{
+    "namespaceArn": "namespaceArn",
+    "namespaceName": "namespaceName",
+    "status": "status",
+    "errorCode": "errorCode",
+    "errorMessage": "errorMessage"
+}

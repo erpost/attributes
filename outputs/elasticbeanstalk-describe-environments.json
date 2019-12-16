@@ -1,0 +1,47 @@
+{
+    "Environments": [
+        {
+            "EnvironmentName": "EnvironmentName",
+            "EnvironmentId": "EnvironmentId",
+            "ApplicationName": "ApplicationName",
+            "VersionLabel": "VersionLabel",
+            "SolutionStackName": "SolutionStackName",
+            "PlatformArn": "PlatformArn",
+            "TemplateName": "TemplateName",
+            "Description": "Description",
+            "EndpointURL": "EndpointURL",
+            "CNAME": "CNAME",
+            "DateCreated": "1970-01-01T00:00:00",
+            "DateUpdated": "1970-01-01T00:00:00",
+            "Status": "Status",
+            "AbortableOperationInProgress": true,
+            "Health": "Health",
+            "HealthStatus": "HealthStatus",
+            "Resources": {
+                "LoadBalancer": {
+                    "LoadBalancerName": "LoadBalancerName",
+                    "Domain": "Domain",
+                    "Listeners": [
+                        {
+                            "Protocol": "Protocol",
+                            "Port": 0
+                        }
+                    ]
+                }
+            },
+            "Tier": {
+                "Name": "Name",
+                "Type": "Type",
+                "Version": "Version"
+            },
+            "EnvironmentLinks": [
+                {
+                    "LinkName": "LinkName",
+                    "EnvironmentName": "EnvironmentName"
+                }
+            ],
+            "EnvironmentArn": "EnvironmentArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

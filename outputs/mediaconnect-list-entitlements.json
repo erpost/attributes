@@ -1,0 +1,9 @@
+{
+    "Entitlements": [
+        {
+            "EntitlementArn": "EntitlementArn",
+            "EntitlementName": "EntitlementName"
+        }
+    ],
+    "NextToken": "NextToken"
+}

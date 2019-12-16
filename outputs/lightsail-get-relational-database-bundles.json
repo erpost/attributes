@@ -1,0 +1,16 @@
+{
+    "bundles": [
+        {
+            "bundleId": "bundleId",
+            "name": "name",
+            "price": 0.0,
+            "ramSizeInGb": 0.0,
+            "diskSizeInGb": 0,
+            "transferPerMonthInGb": 0,
+            "cpuCount": 0,
+            "isEncrypted": true,
+            "isActive": true
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

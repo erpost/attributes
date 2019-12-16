@@ -1,0 +1,33 @@
+{
+    "platforms": [
+        {
+            "platformId": "platformId",
+            "displayName": "displayName",
+            "partner": "partner",
+            "target": "target",
+            "category": "category",
+            "signingConfiguration": {
+                "encryptionAlgorithmOptions": {
+                    "allowedValues": [
+                        "EncryptionAlgorithm"
+                    ],
+                    "defaultValue": "defaultValue"
+                },
+                "hashAlgorithmOptions": {
+                    "allowedValues": [
+                        "HashAlgorithm"
+                    ],
+                    "defaultValue": "defaultValue"
+                }
+            },
+            "signingImageFormat": {
+                "supportedFormats": [
+                    "ImageFormat"
+                ],
+                "defaultFormat": "defaultFormat"
+            },
+            "maxSizeInMB": 0
+        }
+    ],
+    "nextToken": "nextToken"
+}

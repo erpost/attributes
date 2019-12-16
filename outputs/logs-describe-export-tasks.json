@@ -1,0 +1,22 @@
+{
+    "exportTasks": [
+        {
+            "taskId": "taskId",
+            "taskName": "taskName",
+            "logGroupName": "logGroupName",
+            "from": 0,
+            "to": 0,
+            "destination": "destination",
+            "destinationPrefix": "destinationPrefix",
+            "status": {
+                "code": "code",
+                "message": "message"
+            },
+            "executionInfo": {
+                "creationTime": 0,
+                "completionTime": 0
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

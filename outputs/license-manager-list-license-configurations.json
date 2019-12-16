@@ -1,0 +1,32 @@
+{
+    "LicenseConfigurations": [
+        {
+            "LicenseConfigurationId": "LicenseConfigurationId",
+            "LicenseConfigurationArn": "LicenseConfigurationArn",
+            "Name": "Name",
+            "Description": "Description",
+            "LicenseCountingType": "LicenseCountingType",
+            "LicenseRules": [
+                "String"
+            ],
+            "LicenseCount": 0,
+            "LicenseCountHardLimit": true,
+            "ConsumedLicenses": 0,
+            "Status": "Status",
+            "OwnerAccountId": "OwnerAccountId",
+            "ConsumedLicenseSummaryList": [
+                {
+                    "ResourceType": "ResourceType",
+                    "ConsumedLicenses": 0
+                }
+            ],
+            "ManagedResourceSummaryList": [
+                {
+                    "ResourceType": "ResourceType",
+                    "AssociationCount": 0
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,20 @@
+{
+    "Marker": "Marker",
+    "EventSubscriptionsList": [
+        {
+            "CustomerAwsId": "CustomerAwsId",
+            "CustSubscriptionId": "CustSubscriptionId",
+            "SnsTopicArn": "SnsTopicArn",
+            "Status": "Status",
+            "SubscriptionCreationTime": "SubscriptionCreationTime",
+            "SourceType": "SourceType",
+            "SourceIdsList": [
+                "String"
+            ],
+            "EventCategoriesList": [
+                "String"
+            ],
+            "Enabled": true
+        }
+    ]
+}

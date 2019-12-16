@@ -1,0 +1,15 @@
+{
+    "Marker": "Marker",
+    "MountTargets": [
+        {
+            "OwnerId": "OwnerId",
+            "MountTargetId": "MountTargetId",
+            "FileSystemId": "FileSystemId",
+            "SubnetId": "SubnetId",
+            "LifeCycleState": "LifeCycleState",
+            "IpAddress": "IpAddress",
+            "NetworkInterfaceId": "NetworkInterfaceId"
+        }
+    ],
+    "NextMarker": "NextMarker"
+}

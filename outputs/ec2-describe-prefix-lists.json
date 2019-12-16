@@ -1,0 +1,12 @@
+{
+    "NextToken": "NextToken",
+    "PrefixLists": [
+        {
+            "Cidrs": [
+                "String"
+            ],
+            "PrefixListId": "PrefixListId",
+            "PrefixListName": "PrefixListName"
+        }
+    ]
+}

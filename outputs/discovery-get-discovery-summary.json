@@ -1,0 +1,24 @@
+{
+    "servers": 0,
+    "applications": 0,
+    "serversMappedToApplications": 0,
+    "serversMappedtoTags": 0,
+    "agentSummary": {
+        "activeAgents": 0,
+        "healthyAgents": 0,
+        "blackListedAgents": 0,
+        "shutdownAgents": 0,
+        "unhealthyAgents": 0,
+        "totalAgents": 0,
+        "unknownAgents": 0
+    },
+    "connectorSummary": {
+        "activeConnectors": 0,
+        "healthyConnectors": 0,
+        "blackListedConnectors": 0,
+        "shutdownConnectors": 0,
+        "unhealthyConnectors": 0,
+        "totalConnectors": 0,
+        "unknownConnectors": 0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Commands": [
+        {
+            "CommandId": "CommandId",
+            "InstanceId": "InstanceId",
+            "DeploymentId": "DeploymentId",
+            "CreatedAt": "CreatedAt",
+            "AcknowledgedAt": "AcknowledgedAt",
+            "CompletedAt": "CompletedAt",
+            "Status": "Status",
+            "ExitCode": 0,
+            "LogUrl": "LogUrl",
+            "Type": "Type"
+        }
+    ]
+}

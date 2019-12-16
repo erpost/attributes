@@ -1,0 +1,25 @@
+{
+    "Marker": "Marker",
+    "GlobalClusters": [
+        {
+            "GlobalClusterIdentifier": "GlobalClusterIdentifier",
+            "GlobalClusterResourceId": "GlobalClusterResourceId",
+            "GlobalClusterArn": "GlobalClusterArn",
+            "Status": "Status",
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "DatabaseName": "DatabaseName",
+            "StorageEncrypted": true,
+            "DeletionProtection": true,
+            "GlobalClusterMembers": [
+                {
+                    "DBClusterArn": "DBClusterArn",
+                    "Readers": [
+                        "String"
+                    ],
+                    "IsWriter": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Directories": [
+        {
+            "DirectoryId": "DirectoryId",
+            "Alias": "Alias",
+            "DirectoryName": "DirectoryName",
+            "RegistrationCode": "RegistrationCode",
+            "SubnetIds": [
+                "SubnetId"
+            ],
+            "DnsIpAddresses": [
+                "IpAddress"
+            ],
+            "CustomerUserName": "CustomerUserName",
+            "IamRoleId": "IamRoleId",
+            "DirectoryType": "DirectoryType",
+            "WorkspaceSecurityGroupId": "WorkspaceSecurityGroupId",
+            "State": "State",
+            "WorkspaceCreationProperties": {
+                "EnableWorkDocs": true,
+                "EnableInternetAccess": true,
+                "DefaultOu": "DefaultOu",
+                "CustomSecurityGroupId": "CustomSecurityGroupId",
+                "UserEnabledAsLocalAdministrator": true
+            },
+            "ipGroupIds": [
+                "IpGroupId"
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

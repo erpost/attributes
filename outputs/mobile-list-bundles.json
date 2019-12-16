@@ -1,0 +1,15 @@
+{
+    "bundleList": [
+        {
+            "bundleId": "bundleId",
+            "title": "title",
+            "version": "version",
+            "description": "description",
+            "iconUrl": "iconUrl",
+            "availablePlatforms": [
+                "Platform"
+            ]
+        }
+    ],
+    "nextToken": "nextToken"
+}

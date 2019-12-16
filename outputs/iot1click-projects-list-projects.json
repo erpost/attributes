@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "arn": "arn",
+            "projectName": "projectName",
+            "createdDate": "1970-01-01T00:00:00",
+            "updatedDate": "1970-01-01T00:00:00",
+            "tags": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "nextToken": "nextToken"
+}

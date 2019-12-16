@@ -1,0 +1,16 @@
+{
+    "CloudFrontOriginAccessIdentityList": {
+        "Marker": "Marker",
+        "NextMarker": "NextMarker",
+        "MaxItems": 0,
+        "IsTruncated": true,
+        "Quantity": 0,
+        "Items": [
+            {
+                "Id": "Id",
+                "S3CanonicalUserId": "S3CanonicalUserId",
+                "Comment": "Comment"
+            }
+        ]
+    }
+}

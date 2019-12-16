@@ -1,0 +1,13 @@
+{
+    "AccountLimit": {
+        "TotalCodeSize": 0,
+        "CodeSizeUnzipped": 0,
+        "CodeSizeZipped": 0,
+        "ConcurrentExecutions": 0,
+        "UnreservedConcurrentExecutions": 0
+    },
+    "AccountUsage": {
+        "TotalCodeSize": 0,
+        "FunctionCount": 0
+    }
+}

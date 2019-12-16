@@ -1,0 +1,41 @@
+{
+    "EnvironmentResources": {
+        "EnvironmentName": "EnvironmentName",
+        "AutoScalingGroups": [
+            {
+                "Name": "Name"
+            }
+        ],
+        "Instances": [
+            {
+                "Id": "Id"
+            }
+        ],
+        "LaunchConfigurations": [
+            {
+                "Name": "Name"
+            }
+        ],
+        "LaunchTemplates": [
+            {
+                "Id": "Id"
+            }
+        ],
+        "LoadBalancers": [
+            {
+                "Name": "Name"
+            }
+        ],
+        "Triggers": [
+            {
+                "Name": "Name"
+            }
+        ],
+        "Queues": [
+            {
+                "Name": "Name",
+                "URL": "URL"
+            }
+        ]
+    }
+}

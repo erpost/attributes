@@ -1,0 +1,15 @@
+{
+    "ApplicationsResponse": {
+        "Item": [
+            {
+                "Arn": "Arn",
+                "Id": "Id",
+                "Name": "Name",
+                "tags": {
+                    "KeyName": ""
+                }
+            }
+        ],
+        "NextToken": "NextToken"
+    }
+}

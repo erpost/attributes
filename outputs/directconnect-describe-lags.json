@@ -1,0 +1,51 @@
+{
+    "lags": [
+        {
+            "connectionsBandwidth": "connectionsBandwidth",
+            "numberOfConnections": 0,
+            "lagId": "lagId",
+            "ownerAccount": "ownerAccount",
+            "lagName": "lagName",
+            "lagState": "lagState",
+            "location": "location",
+            "region": "region",
+            "minimumLinks": 0,
+            "awsDevice": "awsDevice",
+            "awsDeviceV2": "awsDeviceV2",
+            "connections": [
+                {
+                    "ownerAccount": "ownerAccount",
+                    "connectionId": "connectionId",
+                    "connectionName": "connectionName",
+                    "connectionState": "connectionState",
+                    "region": "region",
+                    "location": "location",
+                    "bandwidth": "bandwidth",
+                    "vlan": 0,
+                    "partnerName": "partnerName",
+                    "loaIssueTime": "1970-01-01T00:00:00",
+                    "lagId": "lagId",
+                    "awsDevice": "awsDevice",
+                    "jumboFrameCapable": true,
+                    "awsDeviceV2": "awsDeviceV2",
+                    "hasLogicalRedundancy": "hasLogicalRedundancy",
+                    "tags": [
+                        {
+                            "key": "key",
+                            "value": "value"
+                        }
+                    ]
+                }
+            ],
+            "allowsHostedConnections": true,
+            "jumboFrameCapable": true,
+            "hasLogicalRedundancy": "hasLogicalRedundancy",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ]
+        }
+    ]
+}

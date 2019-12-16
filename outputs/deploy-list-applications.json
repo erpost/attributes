@@ -1,0 +1,6 @@
+{
+    "applications": [
+        "ApplicationName"
+    ],
+    "nextToken": "nextToken"
+}

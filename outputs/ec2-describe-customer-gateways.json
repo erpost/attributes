@@ -1,0 +1,17 @@
+{
+    "CustomerGateways": [
+        {
+            "BgpAsn": "BgpAsn",
+            "CustomerGatewayId": "CustomerGatewayId",
+            "IpAddress": "IpAddress",
+            "State": "State",
+            "Type": "Type",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

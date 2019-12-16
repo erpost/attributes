@@ -1,0 +1,10 @@
+{
+    "EventBuses": [
+        {
+            "Name": "Name",
+            "Arn": "Arn",
+            "Policy": "Policy"
+        }
+    ],
+    "NextToken": "NextToken"
+}

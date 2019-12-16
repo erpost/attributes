@@ -1,0 +1,16 @@
+{
+    "Backups": [
+        {
+            "BackupId": "BackupId",
+            "BackupState": "BackupState",
+            "ClusterId": "ClusterId",
+            "CreateTimestamp": "1970-01-01T00:00:00",
+            "CopyTimestamp": "1970-01-01T00:00:00",
+            "SourceRegion": "SourceRegion",
+            "SourceBackup": "SourceBackup",
+            "SourceCluster": "SourceCluster",
+            "DeleteTimestamp": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,10 @@
+{
+    "eventTypes": [
+        {
+            "service": "service",
+            "code": "code",
+            "category": "category"
+        }
+    ],
+    "nextToken": "nextToken"
+}

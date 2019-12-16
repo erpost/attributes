@@ -1,0 +1,30 @@
+{
+    "ComplianceSummaryItems": [
+        {
+            "ComplianceType": "ComplianceType",
+            "CompliantSummary": {
+                "CompliantCount": 0,
+                "SeveritySummary": {
+                    "CriticalCount": 0,
+                    "HighCount": 0,
+                    "MediumCount": 0,
+                    "LowCount": 0,
+                    "InformationalCount": 0,
+                    "UnspecifiedCount": 0
+                }
+            },
+            "NonCompliantSummary": {
+                "NonCompliantCount": 0,
+                "SeveritySummary": {
+                    "CriticalCount": 0,
+                    "HighCount": 0,
+                    "MediumCount": 0,
+                    "LowCount": 0,
+                    "InformationalCount": 0,
+                    "UnspecifiedCount": 0
+                }
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

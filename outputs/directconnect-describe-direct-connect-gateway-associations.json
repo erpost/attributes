@@ -1,0 +1,26 @@
+{
+    "directConnectGatewayAssociations": [
+        {
+            "directConnectGatewayId": "directConnectGatewayId",
+            "directConnectGatewayOwnerAccount": "directConnectGatewayOwnerAccount",
+            "associationState": "associationState",
+            "stateChangeError": "stateChangeError",
+            "associatedGateway": {
+                "id": "id",
+                "type": "type",
+                "ownerAccount": "ownerAccount",
+                "region": "region"
+            },
+            "associationId": "associationId",
+            "allowedPrefixesToDirectConnectGateway": [
+                {
+                    "cidr": "cidr"
+                }
+            ],
+            "virtualGatewayId": "virtualGatewayId",
+            "virtualGatewayRegion": "virtualGatewayRegion",
+            "virtualGatewayOwnerAccount": "virtualGatewayOwnerAccount"
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,13 @@
+{
+    "Items": [
+        {
+            "Name": "Name",
+            "Type": "Type",
+            "ETag": "ETag",
+            "LastModified": "1970-01-01T00:00:00",
+            "ContentType": "ContentType",
+            "ContentLength": 0
+        }
+    ],
+    "NextToken": "NextToken"
+}

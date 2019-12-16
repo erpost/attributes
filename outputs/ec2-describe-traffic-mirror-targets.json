@@ -1,0 +1,19 @@
+{
+    "TrafficMirrorTargets": [
+        {
+            "TrafficMirrorTargetId": "TrafficMirrorTargetId",
+            "NetworkInterfaceId": "NetworkInterfaceId",
+            "NetworkLoadBalancerArn": "NetworkLoadBalancerArn",
+            "Type": "Type",
+            "Description": "Description",
+            "OwnerId": "OwnerId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

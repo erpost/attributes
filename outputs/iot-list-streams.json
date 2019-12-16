@@ -1,0 +1,11 @@
+{
+    "streams": [
+        {
+            "streamId": "streamId",
+            "streamArn": "streamArn",
+            "streamVersion": 0,
+            "description": "description"
+        }
+    ],
+    "nextToken": "nextToken"
+}

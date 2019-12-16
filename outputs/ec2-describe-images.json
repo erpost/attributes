@@ -1,0 +1,58 @@
+{
+    "Images": [
+        {
+            "Architecture": "Architecture",
+            "CreationDate": "CreationDate",
+            "ImageId": "ImageId",
+            "ImageLocation": "ImageLocation",
+            "ImageType": "ImageType",
+            "Public": true,
+            "KernelId": "KernelId",
+            "OwnerId": "OwnerId",
+            "Platform": "Platform",
+            "ProductCodes": [
+                {
+                    "ProductCodeId": "ProductCodeId",
+                    "ProductCodeType": "ProductCodeType"
+                }
+            ],
+            "RamdiskId": "RamdiskId",
+            "State": "State",
+            "BlockDeviceMappings": [
+                {
+                    "DeviceName": "DeviceName",
+                    "VirtualName": "VirtualName",
+                    "Ebs": {
+                        "DeleteOnTermination": true,
+                        "Iops": 0,
+                        "SnapshotId": "SnapshotId",
+                        "VolumeSize": 0,
+                        "VolumeType": "VolumeType",
+                        "Encrypted": true,
+                        "KmsKeyId": "KmsKeyId"
+                    },
+                    "NoDevice": "NoDevice"
+                }
+            ],
+            "Description": "Description",
+            "EnaSupport": true,
+            "Hypervisor": "Hypervisor",
+            "ImageOwnerAlias": "ImageOwnerAlias",
+            "Name": "Name",
+            "RootDeviceName": "RootDeviceName",
+            "RootDeviceType": "RootDeviceType",
+            "SriovNetSupport": "SriovNetSupport",
+            "StateReason": {
+                "Code": "Code",
+                "Message": "Message"
+            },
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VirtualizationType": "VirtualizationType"
+        }
+    ]
+}

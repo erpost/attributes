@@ -1,0 +1,40 @@
+{
+    "Vpcs": [
+        {
+            "CidrBlock": "CidrBlock",
+            "DhcpOptionsId": "DhcpOptionsId",
+            "State": "State",
+            "VpcId": "VpcId",
+            "OwnerId": "OwnerId",
+            "InstanceTenancy": "InstanceTenancy",
+            "Ipv6CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "AssociationId",
+                    "Ipv6CidrBlock": "Ipv6CidrBlock",
+                    "Ipv6CidrBlockState": {
+                        "State": "State",
+                        "StatusMessage": "StatusMessage"
+                    }
+                }
+            ],
+            "CidrBlockAssociationSet": [
+                {
+                    "AssociationId": "AssociationId",
+                    "CidrBlock": "CidrBlock",
+                    "CidrBlockState": {
+                        "State": "State",
+                        "StatusMessage": "StatusMessage"
+                    }
+                }
+            ],
+            "IsDefault": true,
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

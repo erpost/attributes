@@ -1,0 +1,9 @@
+{
+    "thingGroups": [
+        {
+            "groupName": "groupName",
+            "groupArn": "groupArn"
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,16 @@
+{
+    "ComplianceByResources": [
+        {
+            "ResourceType": "ResourceType",
+            "ResourceId": "ResourceId",
+            "Compliance": {
+                "ComplianceType": "ComplianceType",
+                "ComplianceContributorCount": {
+                    "CappedCount": 0,
+                    "CapExceeded": true
+                }
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

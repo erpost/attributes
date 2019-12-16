@@ -1,0 +1,6 @@
+{
+    "deploymentConfigsList": [
+        "DeploymentConfigName"
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,21 @@
+{
+    "ElasticLoadBalancers": [
+        {
+            "ElasticLoadBalancerName": "ElasticLoadBalancerName",
+            "Region": "Region",
+            "DnsName": "DnsName",
+            "StackId": "StackId",
+            "LayerId": "LayerId",
+            "VpcId": "VpcId",
+            "AvailabilityZones": [
+                "String"
+            ],
+            "SubnetIds": [
+                "String"
+            ],
+            "Ec2InstanceIds": [
+                "String"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "CompatibleImages": [
+        {
+            "AmiId": "AmiId",
+            "Name": "Name"
+        }
+    ],
+    "NextToken": "NextToken"
+}

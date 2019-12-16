@@ -1,0 +1,16 @@
+{
+    "Rules": [
+        {
+            "Name": "Name",
+            "Arn": "Arn",
+            "EventPattern": "EventPattern",
+            "State": "State",
+            "Description": "Description",
+            "ScheduleExpression": "ScheduleExpression",
+            "RoleArn": "RoleArn",
+            "ManagedBy": "ManagedBy",
+            "EventBusName": "EventBusName"
+        }
+    ],
+    "NextToken": "NextToken"
+}

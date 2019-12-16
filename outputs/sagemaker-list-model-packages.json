@@ -1,0 +1,12 @@
+{
+    "ModelPackageSummaryList": [
+        {
+            "ModelPackageName": "ModelPackageName",
+            "ModelPackageArn": "ModelPackageArn",
+            "ModelPackageDescription": "ModelPackageDescription",
+            "CreationTime": "1970-01-01T00:00:00",
+            "ModelPackageStatus": "ModelPackageStatus"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,10 @@
+{
+    "CompatibleElasticsearchVersions": [
+        {
+            "SourceVersion": "SourceVersion",
+            "TargetVersions": [
+                "ElasticsearchVersionString"
+            ]
+        }
+    ]
+}

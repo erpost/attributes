@@ -1,0 +1,19 @@
+{
+    "RaidArrays": [
+        {
+            "RaidArrayId": "RaidArrayId",
+            "InstanceId": "InstanceId",
+            "Name": "Name",
+            "RaidLevel": 0,
+            "NumberOfDisks": 0,
+            "Size": 0,
+            "Device": "Device",
+            "MountPoint": "MountPoint",
+            "AvailabilityZone": "AvailabilityZone",
+            "CreatedAt": "CreatedAt",
+            "StackId": "StackId",
+            "VolumeType": "VolumeType",
+            "Iops": 0
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "Flows": [
+        {
+            "AvailabilityZone": "AvailabilityZone",
+            "Description": "Description",
+            "FlowArn": "FlowArn",
+            "Name": "Name",
+            "SourceType": "SourceType",
+            "Status": "Status"
+        }
+    ],
+    "NextToken": "NextToken"
+}

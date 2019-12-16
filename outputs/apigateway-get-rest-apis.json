@@ -1,0 +1,29 @@
+{
+    "position": "position",
+    "items": [
+        {
+            "id": "id",
+            "name": "name",
+            "description": "description",
+            "createdDate": "1970-01-01T00:00:00",
+            "version": "version",
+            "warnings": [
+                "String"
+            ],
+            "binaryMediaTypes": [
+                "String"
+            ],
+            "minimumCompressionSize": 0,
+            "apiKeySource": "apiKeySource",
+            "endpointConfiguration": {
+                "types": [
+                    "EndpointType"
+                ]
+            },
+            "policy": "policy",
+            "tags": {
+                "KeyName": ""
+            }
+        }
+    ]
+}

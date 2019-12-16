@@ -1,0 +1,10 @@
+{
+    "resourcePolicies": [
+        {
+            "policyName": "policyName",
+            "policyDocument": "policyDocument",
+            "lastUpdatedTime": 0
+        }
+    ],
+    "nextToken": "nextToken"
+}

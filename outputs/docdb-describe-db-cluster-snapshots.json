@@ -1,0 +1,26 @@
+{
+    "Marker": "Marker",
+    "DBClusterSnapshots": [
+        {
+            "AvailabilityZones": [
+                "String"
+            ],
+            "DBClusterSnapshotIdentifier": "DBClusterSnapshotIdentifier",
+            "DBClusterIdentifier": "DBClusterIdentifier",
+            "SnapshotCreateTime": "1970-01-01T00:00:00",
+            "Engine": "Engine",
+            "Status": "Status",
+            "Port": 0,
+            "VpcId": "VpcId",
+            "ClusterCreateTime": "1970-01-01T00:00:00",
+            "MasterUsername": "MasterUsername",
+            "EngineVersion": "EngineVersion",
+            "SnapshotType": "SnapshotType",
+            "PercentProgress": 0,
+            "StorageEncrypted": true,
+            "KmsKeyId": "KmsKeyId",
+            "DBClusterSnapshotArn": "DBClusterSnapshotArn",
+            "SourceDBClusterSnapshotArn": "SourceDBClusterSnapshotArn"
+        }
+    ]
+}

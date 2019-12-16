@@ -1,0 +1,20 @@
+{
+    "Bundles": [
+        {
+            "BundleId": "BundleId",
+            "Name": "Name",
+            "Owner": "Owner",
+            "Description": "Description",
+            "RootStorage": {
+                "Capacity": "Capacity"
+            },
+            "UserStorage": {
+                "Capacity": "Capacity"
+            },
+            "ComputeType": {
+                "Name": "Name"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

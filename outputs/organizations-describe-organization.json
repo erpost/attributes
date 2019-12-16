@@ -1,0 +1,16 @@
+{
+    "Organization": {
+        "Id": "Id",
+        "Arn": "Arn",
+        "FeatureSet": "FeatureSet",
+        "MasterAccountArn": "MasterAccountArn",
+        "MasterAccountId": "MasterAccountId",
+        "MasterAccountEmail": "MasterAccountEmail",
+        "AvailablePolicyTypes": [
+            {
+                "Type": "Type",
+                "Status": "Status"
+            }
+        ]
+    }
+}

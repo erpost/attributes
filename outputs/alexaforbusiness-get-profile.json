@@ -1,0 +1,16 @@
+{
+    "Profile": {
+        "ProfileArn": "ProfileArn",
+        "ProfileName": "ProfileName",
+        "IsDefault": true,
+        "Address": "Address",
+        "Timezone": "Timezone",
+        "DistanceUnit": "DistanceUnit",
+        "TemperatureUnit": "TemperatureUnit",
+        "WakeWord": "WakeWord",
+        "SetupModeDisabled": true,
+        "MaxVolumeLimit": 0,
+        "PSTNEnabled": true,
+        "AddressBookArn": "AddressBookArn"
+    }
+}

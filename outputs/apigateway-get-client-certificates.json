@@ -1,0 +1,15 @@
+{
+    "position": "position",
+    "items": [
+        {
+            "clientCertificateId": "clientCertificateId",
+            "description": "description",
+            "pemEncodedCertificate": "pemEncodedCertificate",
+            "createdDate": "1970-01-01T00:00:00",
+            "expirationDate": "1970-01-01T00:00:00",
+            "tags": {
+                "KeyName": ""
+            }
+        }
+    ]
+}

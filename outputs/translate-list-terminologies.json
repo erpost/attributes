@@ -1,0 +1,22 @@
+{
+    "TerminologyPropertiesList": [
+        {
+            "Name": "Name",
+            "Description": "Description",
+            "Arn": "Arn",
+            "SourceLanguageCode": "SourceLanguageCode",
+            "TargetLanguageCodes": [
+                "LanguageCodeString"
+            ],
+            "EncryptionKey": {
+                "Type": "Type",
+                "Id": "Id"
+            },
+            "SizeBytes": 0,
+            "TermCount": 0,
+            "CreatedAt": "1970-01-01T00:00:00",
+            "LastUpdatedAt": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

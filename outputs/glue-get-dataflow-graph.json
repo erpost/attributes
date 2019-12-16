@@ -1,0 +1,23 @@
+{
+    "DagNodes": [
+        {
+            "Id": "Id",
+            "NodeType": "NodeType",
+            "Args": [
+                {
+                    "Name": "Name",
+                    "Value": "Value",
+                    "Param": true
+                }
+            ],
+            "LineNumber": 0
+        }
+    ],
+    "DagEdges": [
+        {
+            "Source": "Source",
+            "Target": "Target",
+            "TargetParameter": "TargetParameter"
+        }
+    ]
+}

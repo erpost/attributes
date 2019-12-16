@@ -1,0 +1,10 @@
+{
+    "ApplicationInfoList": [
+        {
+            "ResourceGroupName": "ResourceGroupName",
+            "LifeCycle": "LifeCycle",
+            "Remarks": "Remarks"
+        }
+    ],
+    "NextToken": "NextToken"
+}

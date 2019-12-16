@@ -1,0 +1,21 @@
+{
+    "Instances": [
+        {
+            "Groups": [
+                {
+                    "GroupName": "GroupName",
+                    "GroupId": "GroupId"
+                }
+            ],
+            "InstanceId": "InstanceId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ],
+            "VpcId": "VpcId"
+        }
+    ],
+    "NextToken": "NextToken"
+}

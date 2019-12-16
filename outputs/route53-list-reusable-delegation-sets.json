@@ -1,0 +1,15 @@
+{
+    "DelegationSets": [
+        {
+            "Id": "Id",
+            "CallerReference": "CallerReference",
+            "NameServers": [
+                "DNSName"
+            ]
+        }
+    ],
+    "Marker": "Marker",
+    "IsTruncated": true,
+    "NextMarker": "NextMarker",
+    "MaxItems": "MaxItems"
+}

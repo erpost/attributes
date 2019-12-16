@@ -1,0 +1,22 @@
+{
+    "ComplianceItems": [
+        {
+            "ComplianceType": "ComplianceType",
+            "ResourceType": "ResourceType",
+            "ResourceId": "ResourceId",
+            "Id": "Id",
+            "Title": "Title",
+            "Status": "Status",
+            "Severity": "Severity",
+            "ExecutionSummary": {
+                "ExecutionTime": "1970-01-01T00:00:00",
+                "ExecutionId": "ExecutionId",
+                "ExecutionType": "ExecutionType"
+            },
+            "Details": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

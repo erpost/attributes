@@ -1,0 +1,14 @@
+{
+    "directConnectGatewayAttachments": [
+        {
+            "directConnectGatewayId": "directConnectGatewayId",
+            "virtualInterfaceId": "virtualInterfaceId",
+            "virtualInterfaceRegion": "virtualInterfaceRegion",
+            "virtualInterfaceOwnerAccount": "virtualInterfaceOwnerAccount",
+            "attachmentState": "attachmentState",
+            "attachmentType": "attachmentType",
+            "stateChangeError": "stateChangeError"
+        }
+    ],
+    "nextToken": "nextToken"
+}

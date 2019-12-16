@@ -1,0 +1,22 @@
+{
+    "HostedZones": [
+        {
+            "Id": "Id",
+            "Name": "Name",
+            "CallerReference": "CallerReference",
+            "Config": {
+                "Comment": "Comment",
+                "PrivateZone": true
+            },
+            "ResourceRecordSetCount": 0,
+            "LinkedService": {
+                "ServicePrincipal": "ServicePrincipal",
+                "Description": "Description"
+            }
+        }
+    ],
+    "Marker": "Marker",
+    "IsTruncated": true,
+    "NextMarker": "NextMarker",
+    "MaxItems": "MaxItems"
+}

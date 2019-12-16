@@ -1,0 +1,11 @@
+{
+    "SendDataPoints": [
+        {
+            "Timestamp": "1970-01-01T00:00:00",
+            "DeliveryAttempts": 0,
+            "Bounces": 0,
+            "Complaints": 0,
+            "Rejects": 0
+        }
+    ]
+}

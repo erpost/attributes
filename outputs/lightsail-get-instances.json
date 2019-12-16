@@ -1,0 +1,83 @@
+{
+    "instances": [
+        {
+            "name": "name",
+            "arn": "arn",
+            "supportCode": "supportCode",
+            "createdAt": "1970-01-01T00:00:00",
+            "location": {
+                "availabilityZone": "availabilityZone",
+                "regionName": "regionName"
+            },
+            "resourceType": "resourceType",
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ],
+            "blueprintId": "blueprintId",
+            "blueprintName": "blueprintName",
+            "bundleId": "bundleId",
+            "isStaticIp": true,
+            "privateIpAddress": "privateIpAddress",
+            "publicIpAddress": "publicIpAddress",
+            "ipv6Address": "ipv6Address",
+            "hardware": {
+                "cpuCount": 0,
+                "disks": [
+                    {
+                        "name": "name",
+                        "arn": "arn",
+                        "supportCode": "supportCode",
+                        "createdAt": "1970-01-01T00:00:00",
+                        "location": {
+                            "availabilityZone": "availabilityZone",
+                            "regionName": "regionName"
+                        },
+                        "resourceType": "resourceType",
+                        "tags": [
+                            {
+                                "key": "key",
+                                "value": "value"
+                            }
+                        ],
+                        "sizeInGb": 0,
+                        "isSystemDisk": true,
+                        "iops": 0,
+                        "path": "path",
+                        "state": "state",
+                        "attachedTo": "attachedTo",
+                        "isAttached": true,
+                        "attachmentState": "attachmentState",
+                        "gbInUse": 0
+                    }
+                ],
+                "ramSizeInGb": 0.0
+            },
+            "networking": {
+                "monthlyTransfer": {
+                    "gbPerMonthAllocated": 0
+                },
+                "ports": [
+                    {
+                        "fromPort": 0,
+                        "toPort": 0,
+                        "protocol": "protocol",
+                        "accessFrom": "accessFrom",
+                        "accessType": "accessType",
+                        "commonName": "commonName",
+                        "accessDirection": "accessDirection"
+                    }
+                ]
+            },
+            "state": {
+                "code": 0,
+                "name": "name"
+            },
+            "username": "username",
+            "sshKeyName": "sshKeyName"
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

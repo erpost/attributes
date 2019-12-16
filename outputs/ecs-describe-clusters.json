@@ -1,0 +1,37 @@
+{
+    "clusters": [
+        {
+            "clusterArn": "clusterArn",
+            "clusterName": "clusterName",
+            "status": "status",
+            "registeredContainerInstancesCount": 0,
+            "runningTasksCount": 0,
+            "pendingTasksCount": 0,
+            "activeServicesCount": 0,
+            "statistics": [
+                {
+                    "name": "name",
+                    "value": "value"
+                }
+            ],
+            "tags": [
+                {
+                    "key": "key",
+                    "value": "value"
+                }
+            ],
+            "settings": [
+                {
+                    "name": "name",
+                    "value": "value"
+                }
+            ]
+        }
+    ],
+    "failures": [
+        {
+            "arn": "arn",
+            "reason": "reason"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "Exports": [
+        {
+            "ExportingStackId": "ExportingStackId",
+            "Name": "Name",
+            "Value": "Value"
+        }
+    ],
+    "NextToken": "NextToken"
+}

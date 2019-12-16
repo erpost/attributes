@@ -1,0 +1,10 @@
+{
+    "GeoLocationDetails": {
+        "ContinentCode": "ContinentCode",
+        "ContinentName": "ContinentName",
+        "CountryCode": "CountryCode",
+        "CountryName": "CountryName",
+        "SubdivisionCode": "SubdivisionCode",
+        "SubdivisionName": "SubdivisionName"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Patches": [
+        {
+            "Id": "Id",
+            "ReleaseDate": "1970-01-01T00:00:00",
+            "Title": "Title",
+            "Description": "Description",
+            "ContentUrl": "ContentUrl",
+            "Vendor": "Vendor",
+            "ProductFamily": "ProductFamily",
+            "Product": "Product",
+            "Classification": "Classification",
+            "MsrcSeverity": "MsrcSeverity",
+            "KbNumber": "KbNumber",
+            "MsrcNumber": "MsrcNumber",
+            "Language": "Language"
+        }
+    ],
+    "NextToken": "NextToken"
+}

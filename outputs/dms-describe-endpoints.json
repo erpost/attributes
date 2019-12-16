@@ -1,0 +1,104 @@
+{
+    "Marker": "Marker",
+    "Endpoints": [
+        {
+            "EndpointIdentifier": "EndpointIdentifier",
+            "EndpointType": "EndpointType",
+            "EngineName": "EngineName",
+            "EngineDisplayName": "EngineDisplayName",
+            "Username": "Username",
+            "ServerName": "ServerName",
+            "Port": 0,
+            "DatabaseName": "DatabaseName",
+            "ExtraConnectionAttributes": "ExtraConnectionAttributes",
+            "Status": "Status",
+            "KmsKeyId": "KmsKeyId",
+            "EndpointArn": "EndpointArn",
+            "CertificateArn": "CertificateArn",
+            "SslMode": "SslMode",
+            "ServiceAccessRoleArn": "ServiceAccessRoleArn",
+            "ExternalTableDefinition": "ExternalTableDefinition",
+            "ExternalId": "ExternalId",
+            "DynamoDbSettings": {
+                "ServiceAccessRoleArn": "ServiceAccessRoleArn"
+            },
+            "S3Settings": {
+                "ServiceAccessRoleArn": "ServiceAccessRoleArn",
+                "ExternalTableDefinition": "ExternalTableDefinition",
+                "CsvRowDelimiter": "CsvRowDelimiter",
+                "CsvDelimiter": "CsvDelimiter",
+                "BucketFolder": "BucketFolder",
+                "BucketName": "BucketName",
+                "CompressionType": "CompressionType",
+                "EncryptionMode": "EncryptionMode",
+                "ServerSideEncryptionKmsKeyId": "ServerSideEncryptionKmsKeyId",
+                "DataFormat": "DataFormat",
+                "EncodingType": "EncodingType",
+                "DictPageSizeLimit": 0,
+                "RowGroupLength": 0,
+                "DataPageSize": 0,
+                "ParquetVersion": "ParquetVersion",
+                "EnableStatistics": true,
+                "IncludeOpForFullLoad": true,
+                "CdcInsertsOnly": true,
+                "TimestampColumnName": "TimestampColumnName"
+            },
+            "DmsTransferSettings": {
+                "ServiceAccessRoleArn": "ServiceAccessRoleArn",
+                "BucketName": "BucketName"
+            },
+            "MongoDbSettings": {
+                "Username": "Username",
+                "Password": "Password",
+                "ServerName": "ServerName",
+                "Port": 0,
+                "DatabaseName": "DatabaseName",
+                "AuthType": "AuthType",
+                "AuthMechanism": "AuthMechanism",
+                "NestingLevel": "NestingLevel",
+                "ExtractDocId": "ExtractDocId",
+                "DocsToInvestigate": "DocsToInvestigate",
+                "AuthSource": "AuthSource",
+                "KmsKeyId": "KmsKeyId"
+            },
+            "KinesisSettings": {
+                "StreamArn": "StreamArn",
+                "MessageFormat": "MessageFormat",
+                "ServiceAccessRoleArn": "ServiceAccessRoleArn"
+            },
+            "ElasticsearchSettings": {
+                "ServiceAccessRoleArn": "ServiceAccessRoleArn",
+                "EndpointUri": "EndpointUri",
+                "FullLoadErrorPercentage": 0,
+                "ErrorRetryDuration": 0
+            },
+            "RedshiftSettings": {
+                "AcceptAnyDate": true,
+                "AfterConnectScript": "AfterConnectScript",
+                "BucketFolder": "BucketFolder",
+                "BucketName": "BucketName",
+                "ConnectionTimeout": 0,
+                "DatabaseName": "DatabaseName",
+                "DateFormat": "DateFormat",
+                "EmptyAsNull": true,
+                "EncryptionMode": "EncryptionMode",
+                "FileTransferUploadStreams": 0,
+                "LoadTimeout": 0,
+                "MaxFileSize": 0,
+                "Password": "Password",
+                "Port": 0,
+                "RemoveQuotes": true,
+                "ReplaceInvalidChars": "ReplaceInvalidChars",
+                "ReplaceChars": "ReplaceChars",
+                "ServerName": "ServerName",
+                "ServiceAccessRoleArn": "ServiceAccessRoleArn",
+                "ServerSideEncryptionKmsKeyId": "ServerSideEncryptionKmsKeyId",
+                "TimeFormat": "TimeFormat",
+                "TrimBlanks": true,
+                "TruncateColumns": true,
+                "Username": "Username",
+                "WriteBufferSize": 0
+            }
+        }
+    ]
+}

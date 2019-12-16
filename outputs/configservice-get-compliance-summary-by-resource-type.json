@@ -1,0 +1,18 @@
+{
+    "ComplianceSummariesByResourceType": [
+        {
+            "ResourceType": "ResourceType",
+            "ComplianceSummary": {
+                "CompliantResourceCount": {
+                    "CappedCount": 0,
+                    "CapExceeded": true
+                },
+                "NonCompliantResourceCount": {
+                    "CappedCount": 0,
+                    "CapExceeded": true
+                },
+                "ComplianceSummaryTimestamp": "1970-01-01T00:00:00"
+            }
+        }
+    ]
+}

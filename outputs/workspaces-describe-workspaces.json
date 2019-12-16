@@ -1,0 +1,33 @@
+{
+    "Workspaces": [
+        {
+            "WorkspaceId": "WorkspaceId",
+            "DirectoryId": "DirectoryId",
+            "UserName": "UserName",
+            "IpAddress": "IpAddress",
+            "State": "State",
+            "BundleId": "BundleId",
+            "SubnetId": "SubnetId",
+            "ErrorMessage": "ErrorMessage",
+            "ErrorCode": "ErrorCode",
+            "ComputerName": "ComputerName",
+            "VolumeEncryptionKey": "VolumeEncryptionKey",
+            "UserVolumeEncryptionEnabled": true,
+            "RootVolumeEncryptionEnabled": true,
+            "WorkspaceProperties": {
+                "RunningMode": "RunningMode",
+                "RunningModeAutoStopTimeoutInMinutes": 0,
+                "RootVolumeSizeGib": 0,
+                "UserVolumeSizeGib": 0,
+                "ComputeTypeName": "ComputeTypeName"
+            },
+            "ModificationStates": [
+                {
+                    "Resource": "Resource",
+                    "State": "State"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

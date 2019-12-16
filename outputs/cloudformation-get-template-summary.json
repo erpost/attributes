@@ -1,0 +1,29 @@
+{
+    "Parameters": [
+        {
+            "ParameterKey": "ParameterKey",
+            "DefaultValue": "DefaultValue",
+            "ParameterType": "ParameterType",
+            "NoEcho": true,
+            "Description": "Description",
+            "ParameterConstraints": {
+                "AllowedValues": [
+                    "AllowedValue"
+                ]
+            }
+        }
+    ],
+    "Description": "Description",
+    "Capabilities": [
+        "Capability"
+    ],
+    "CapabilitiesReason": "CapabilitiesReason",
+    "ResourceTypes": [
+        "ResourceType"
+    ],
+    "Version": "Version",
+    "Metadata": "Metadata",
+    "DeclaredTransforms": [
+        "TransformName"
+    ]
+}

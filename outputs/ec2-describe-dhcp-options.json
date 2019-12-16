@@ -1,0 +1,25 @@
+{
+    "DhcpOptions": [
+        {
+            "DhcpConfigurations": [
+                {
+                    "Key": "Key",
+                    "Values": [
+                        {
+                            "Value": "Value"
+                        }
+                    ]
+                }
+            ],
+            "DhcpOptionsId": "DhcpOptionsId",
+            "OwnerId": "OwnerId",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

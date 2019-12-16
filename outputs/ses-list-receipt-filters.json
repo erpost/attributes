@@ -1,0 +1,11 @@
+{
+    "Filters": [
+        {
+            "Name": "Name",
+            "IpFilter": {
+                "Policy": "Policy",
+                "Cidr": "Cidr"
+            }
+        }
+    ]
+}

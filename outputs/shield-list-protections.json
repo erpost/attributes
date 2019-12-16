@@ -1,0 +1,10 @@
+{
+    "Protections": [
+        {
+            "Id": "Id",
+            "Name": "Name",
+            "ResourceArn": "ResourceArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

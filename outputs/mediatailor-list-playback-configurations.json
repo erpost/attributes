@@ -1,0 +1,30 @@
+{
+    "Items": [
+        {
+            "AdDecisionServerUrl": "AdDecisionServerUrl",
+            "CdnConfiguration": {
+                "AdSegmentUrlPrefix": "AdSegmentUrlPrefix",
+                "ContentSegmentUrlPrefix": "ContentSegmentUrlPrefix"
+            },
+            "DashConfiguration": {
+                "ManifestEndpointPrefix": "ManifestEndpointPrefix",
+                "MpdLocation": "MpdLocation",
+                "OriginManifestType": "OriginManifestType"
+            },
+            "HlsConfiguration": {
+                "ManifestEndpointPrefix": "ManifestEndpointPrefix"
+            },
+            "Name": "Name",
+            "PlaybackConfigurationArn": "PlaybackConfigurationArn",
+            "PlaybackEndpointPrefix": "PlaybackEndpointPrefix",
+            "SessionInitializationEndpointPrefix": "SessionInitializationEndpointPrefix",
+            "SlateAdUrl": "SlateAdUrl",
+            "Tags": {
+                "KeyName": ""
+            },
+            "TranscodeProfileName": "TranscodeProfileName",
+            "VideoContentSourceUrl": "VideoContentSourceUrl"
+        }
+    ],
+    "NextToken": "NextToken"
+}

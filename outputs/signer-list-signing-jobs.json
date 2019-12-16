@@ -1,0 +1,26 @@
+{
+    "jobs": [
+        {
+            "jobId": "jobId",
+            "source": {
+                "s3": {
+                    "bucketName": "bucketName",
+                    "key": "key",
+                    "version": "version"
+                }
+            },
+            "signedObject": {
+                "s3": {
+                    "bucketName": "bucketName",
+                    "key": "key"
+                }
+            },
+            "signingMaterial": {
+                "certificateArn": "certificateArn"
+            },
+            "createdAt": "1970-01-01T00:00:00",
+            "status": "status"
+        }
+    ],
+    "nextToken": "nextToken"
+}

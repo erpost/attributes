@@ -1,0 +1,35 @@
+{
+    "Backups": [
+        {
+            "BackupArn": "BackupArn",
+            "BackupId": "BackupId",
+            "BackupType": "BackupType",
+            "CreatedAt": "1970-01-01T00:00:00",
+            "Description": "Description",
+            "Engine": "Engine",
+            "EngineModel": "EngineModel",
+            "EngineVersion": "EngineVersion",
+            "InstanceProfileArn": "InstanceProfileArn",
+            "InstanceType": "InstanceType",
+            "KeyPair": "KeyPair",
+            "PreferredBackupWindow": "PreferredBackupWindow",
+            "PreferredMaintenanceWindow": "PreferredMaintenanceWindow",
+            "S3DataSize": 0,
+            "S3DataUrl": "S3DataUrl",
+            "S3LogUrl": "S3LogUrl",
+            "SecurityGroupIds": [
+                "String"
+            ],
+            "ServerName": "ServerName",
+            "ServiceRoleArn": "ServiceRoleArn",
+            "Status": "Status",
+            "StatusDescription": "StatusDescription",
+            "SubnetIds": [
+                "String"
+            ],
+            "ToolsVersion": "ToolsVersion",
+            "UserArn": "UserArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

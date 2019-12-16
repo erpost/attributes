@@ -1,0 +1,11 @@
+{
+    "Permissions": [
+        {
+            "StackId": "StackId",
+            "IamUserArn": "IamUserArn",
+            "AllowSsh": true,
+            "AllowSudo": true,
+            "Level": "Level"
+        }
+    ]
+}

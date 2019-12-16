@@ -1,0 +1,16 @@
+{
+    "Marker": "Marker",
+    "Events": [
+        {
+            "SourceIdentifier": "SourceIdentifier",
+            "SourceType": "SourceType",
+            "Message": "Message",
+            "EventCategories": [
+                "String"
+            ],
+            "Severity": "Severity",
+            "Date": "1970-01-01T00:00:00",
+            "EventId": "EventId"
+        }
+    ]
+}

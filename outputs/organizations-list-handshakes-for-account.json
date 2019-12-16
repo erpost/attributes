@@ -1,0 +1,28 @@
+{
+    "Handshakes": [
+        {
+            "Id": "Id",
+            "Arn": "Arn",
+            "Parties": [
+                {
+                    "Id": "Id",
+                    "Type": "Type"
+                }
+            ],
+            "State": "State",
+            "RequestedTimestamp": "1970-01-01T00:00:00",
+            "ExpirationTimestamp": "1970-01-01T00:00:00",
+            "Action": "Action",
+            "Resources": [
+                {
+                    "Value": "Value",
+                    "Type": "Type",
+                    "Resources": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

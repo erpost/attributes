@@ -1,0 +1,30 @@
+{
+    "Associations": [
+        {
+            "Name": "Name",
+            "InstanceId": "InstanceId",
+            "AssociationId": "AssociationId",
+            "AssociationVersion": "AssociationVersion",
+            "DocumentVersion": "DocumentVersion",
+            "Targets": [
+                {
+                    "Key": "Key",
+                    "Values": [
+                        "TargetValue"
+                    ]
+                }
+            ],
+            "LastExecutionDate": "1970-01-01T00:00:00",
+            "Overview": {
+                "Status": "Status",
+                "DetailedStatus": "DetailedStatus",
+                "AssociationStatusAggregatedCount": {
+                    "KeyName": 0
+                }
+            },
+            "ScheduleExpression": "ScheduleExpression",
+            "AssociationName": "AssociationName"
+        }
+    ],
+    "NextToken": "NextToken"
+}

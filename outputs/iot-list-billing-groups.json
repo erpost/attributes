@@ -1,0 +1,9 @@
+{
+    "billingGroups": [
+        {
+            "groupName": "groupName",
+            "groupArn": "groupArn"
+        }
+    ],
+    "nextToken": "nextToken"
+}

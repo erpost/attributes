@@ -1,0 +1,13 @@
+{
+    "TaggedResources": [
+        {
+            "Tag": {
+                "Key": "Key",
+                "Value": "Value"
+            },
+            "ResourceName": "ResourceName",
+            "ResourceType": "ResourceType"
+        }
+    ],
+    "Marker": "Marker"
+}

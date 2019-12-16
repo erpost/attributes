@@ -1,0 +1,20 @@
+{
+    "ExportTasks": [
+        {
+            "Description": "Description",
+            "ExportTaskId": "ExportTaskId",
+            "ExportToS3Task": {
+                "ContainerFormat": "ContainerFormat",
+                "DiskImageFormat": "DiskImageFormat",
+                "S3Bucket": "S3Bucket",
+                "S3Key": "S3Key"
+            },
+            "InstanceExportDetails": {
+                "InstanceId": "InstanceId",
+                "TargetEnvironment": "TargetEnvironment"
+            },
+            "State": "State",
+            "StatusMessage": "StatusMessage"
+        }
+    ]
+}

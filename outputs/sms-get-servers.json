@@ -1,0 +1,23 @@
+{
+    "lastModifiedOn": "1970-01-01T00:00:00",
+    "serverCatalogStatus": "serverCatalogStatus",
+    "serverList": [
+        {
+            "serverId": "serverId",
+            "serverType": "serverType",
+            "vmServer": {
+                "vmServerAddress": {
+                    "vmManagerId": "vmManagerId",
+                    "vmId": "vmId"
+                },
+                "vmName": "vmName",
+                "vmManagerName": "vmManagerName",
+                "vmManagerType": "vmManagerType",
+                "vmPath": "vmPath"
+            },
+            "replicationJobId": "replicationJobId",
+            "replicationJobTerminated": true
+        }
+    ],
+    "nextToken": "nextToken"
+}

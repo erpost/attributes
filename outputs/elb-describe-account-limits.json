@@ -1,0 +1,9 @@
+{
+    "Limits": [
+        {
+            "Name": "Name",
+            "Max": "Max"
+        }
+    ],
+    "NextMarker": "NextMarker"
+}

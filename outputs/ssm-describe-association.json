@@ -1,0 +1,52 @@
+{
+    "AssociationDescription": {
+        "Name": "Name",
+        "InstanceId": "InstanceId",
+        "AssociationVersion": "AssociationVersion",
+        "Date": "1970-01-01T00:00:00",
+        "LastUpdateAssociationDate": "1970-01-01T00:00:00",
+        "Status": {
+            "Date": "1970-01-01T00:00:00",
+            "Name": "Name",
+            "Message": "Message",
+            "AdditionalInfo": "AdditionalInfo"
+        },
+        "Overview": {
+            "Status": "Status",
+            "DetailedStatus": "DetailedStatus",
+            "AssociationStatusAggregatedCount": {
+                "KeyName": 0
+            }
+        },
+        "DocumentVersion": "DocumentVersion",
+        "AutomationTargetParameterName": "AutomationTargetParameterName",
+        "Parameters": {
+            "KeyName": [
+                "ParameterValue"
+            ]
+        },
+        "AssociationId": "AssociationId",
+        "Targets": [
+            {
+                "Key": "Key",
+                "Values": [
+                    "TargetValue"
+                ]
+            }
+        ],
+        "ScheduleExpression": "ScheduleExpression",
+        "OutputLocation": {
+            "S3Location": {
+                "OutputS3Region": "OutputS3Region",
+                "OutputS3BucketName": "OutputS3BucketName",
+                "OutputS3KeyPrefix": "OutputS3KeyPrefix"
+            }
+        },
+        "LastExecutionDate": "1970-01-01T00:00:00",
+        "LastSuccessfulExecutionDate": "1970-01-01T00:00:00",
+        "AssociationName": "AssociationName",
+        "MaxErrors": "MaxErrors",
+        "MaxConcurrency": "MaxConcurrency",
+        "ComplianceSeverity": "ComplianceSeverity"
+    }
+}

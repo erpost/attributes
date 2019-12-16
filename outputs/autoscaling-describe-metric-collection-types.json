@@ -1,0 +1,12 @@
+{
+    "Metrics": [
+        {
+            "Metric": "Metric"
+        }
+    ],
+    "Granularities": [
+        {
+            "Granularity": "Granularity"
+        }
+    ]
+}

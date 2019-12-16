@@ -1,0 +1,10 @@
+{
+    "PlacementGroups": [
+        {
+            "GroupName": "GroupName",
+            "State": "State",
+            "Strategy": "Strategy",
+            "PartitionCount": 0
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Marker": "Marker",
+    "HsmConfigurations": [
+        {
+            "HsmConfigurationIdentifier": "HsmConfigurationIdentifier",
+            "Description": "Description",
+            "HsmIpAddress": "HsmIpAddress",
+            "HsmPartitionName": "HsmPartitionName",
+            "Tags": [
+                {
+                    "Key": "Key",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ]
+}

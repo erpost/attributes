@@ -1,0 +1,18 @@
+{
+    "Aliases": [
+        {
+            "AliasId": "AliasId",
+            "Name": "Name",
+            "AliasArn": "AliasArn",
+            "Description": "Description",
+            "RoutingStrategy": {
+                "Type": "Type",
+                "FleetId": "FleetId",
+                "Message": "Message"
+            },
+            "CreationTime": "1970-01-01T00:00:00",
+            "LastUpdatedTime": "1970-01-01T00:00:00"
+        }
+    ],
+    "NextToken": "NextToken"
+}

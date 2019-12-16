@@ -1,0 +1,20 @@
+{
+    "Invitations": [
+        {
+            "InvitationId": "InvitationId",
+            "CreationDate": "1970-01-01T00:00:00",
+            "ExpirationDate": "1970-01-01T00:00:00",
+            "Status": "Status",
+            "NetworkSummary": {
+                "Id": "Id",
+                "Name": "Name",
+                "Description": "Description",
+                "Framework": "Framework",
+                "FrameworkVersion": "FrameworkVersion",
+                "Status": "Status",
+                "CreationDate": "1970-01-01T00:00:00"
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

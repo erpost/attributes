@@ -1,0 +1,49 @@
+{
+    "OptionGroupsList": [
+        {
+            "OptionGroupName": "OptionGroupName",
+            "OptionGroupDescription": "OptionGroupDescription",
+            "EngineName": "EngineName",
+            "MajorEngineVersion": "MajorEngineVersion",
+            "Options": [
+                {
+                    "OptionName": "OptionName",
+                    "OptionDescription": "OptionDescription",
+                    "Persistent": true,
+                    "Permanent": true,
+                    "Port": 0,
+                    "OptionVersion": "OptionVersion",
+                    "OptionSettings": [
+                        {
+                            "Name": "Name",
+                            "Value": "Value",
+                            "DefaultValue": "DefaultValue",
+                            "Description": "Description",
+                            "ApplyType": "ApplyType",
+                            "DataType": "DataType",
+                            "AllowedValues": "AllowedValues",
+                            "IsModifiable": true,
+                            "IsCollection": true
+                        }
+                    ],
+                    "DBSecurityGroupMemberships": [
+                        {
+                            "DBSecurityGroupName": "DBSecurityGroupName",
+                            "Status": "Status"
+                        }
+                    ],
+                    "VpcSecurityGroupMemberships": [
+                        {
+                            "VpcSecurityGroupId": "VpcSecurityGroupId",
+                            "Status": "Status"
+                        }
+                    ]
+                }
+            ],
+            "AllowsVpcAndNonVpcInstanceMemberships": true,
+            "VpcId": "VpcId",
+            "OptionGroupArn": "OptionGroupArn"
+        }
+    ],
+    "Marker": "Marker"
+}

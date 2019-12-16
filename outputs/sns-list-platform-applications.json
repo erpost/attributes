@@ -1,0 +1,11 @@
+{
+    "PlatformApplications": [
+        {
+            "PlatformApplicationArn": "PlatformApplicationArn",
+            "Attributes": {
+                "KeyName": ""
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

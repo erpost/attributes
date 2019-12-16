@@ -1,0 +1,12 @@
+{
+    "SkillSummaries": [
+        {
+            "SkillId": "SkillId",
+            "SkillName": "SkillName",
+            "SupportsLinking": true,
+            "EnablementType": "EnablementType",
+            "SkillType": "SkillType"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,16 @@
+{
+    "NextToken": "NextToken",
+    "SubnetGroups": [
+        {
+            "SubnetGroupName": "SubnetGroupName",
+            "Description": "Description",
+            "VpcId": "VpcId",
+            "Subnets": [
+                {
+                    "SubnetIdentifier": "SubnetIdentifier",
+                    "SubnetAvailabilityZone": "SubnetAvailabilityZone"
+                }
+            ]
+        }
+    ]
+}

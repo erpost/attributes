@@ -1,0 +1,12 @@
+{
+    "CustomVerificationEmailTemplates": [
+        {
+            "TemplateName": "TemplateName",
+            "FromEmailAddress": "FromEmailAddress",
+            "TemplateSubject": "TemplateSubject",
+            "SuccessRedirectionURL": "SuccessRedirectionURL",
+            "FailureRedirectionURL": "FailureRedirectionURL"
+        }
+    ],
+    "NextToken": "NextToken"
+}

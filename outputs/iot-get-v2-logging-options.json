@@ -1,0 +1,5 @@
+{
+    "roleArn": "roleArn",
+    "defaultLogLevel": "defaultLogLevel",
+    "disableAllLogs": true
+}

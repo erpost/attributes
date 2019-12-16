@@ -1,0 +1,17 @@
+{
+    "Products": [
+        {
+            "ProductArn": "ProductArn",
+            "ProductName": "ProductName",
+            "CompanyName": "CompanyName",
+            "Description": "Description",
+            "Categories": [
+                "NonEmptyString"
+            ],
+            "MarketplaceUrl": "MarketplaceUrl",
+            "ActivationUrl": "ActivationUrl",
+            "ProductSubscriptionResourcePolicy": "ProductSubscriptionResourcePolicy"
+        }
+    ],
+    "NextToken": "NextToken"
+}

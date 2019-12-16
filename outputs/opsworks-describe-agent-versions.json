@@ -1,0 +1,11 @@
+{
+    "AgentVersions": [
+        {
+            "Version": "Version",
+            "ConfigurationManager": {
+                "Name": "Name",
+                "Version": "Version"
+            }
+        }
+    ]
+}

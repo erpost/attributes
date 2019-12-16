@@ -1,0 +1,15 @@
+{
+    "ComplianceByConfigRules": [
+        {
+            "ConfigRuleName": "ConfigRuleName",
+            "Compliance": {
+                "ComplianceType": "ComplianceType",
+                "ComplianceContributorCount": {
+                    "CappedCount": 0,
+                    "CapExceeded": true
+                }
+            }
+        }
+    ],
+    "NextToken": "NextToken"
+}

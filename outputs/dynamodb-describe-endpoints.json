@@ -1,0 +1,8 @@
+{
+    "Endpoints": [
+        {
+            "Address": "Address",
+            "CachePeriodInMinutes": 0
+        }
+    ]
+}

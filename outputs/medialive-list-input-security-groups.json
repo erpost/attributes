@@ -1,0 +1,21 @@
+{
+    "InputSecurityGroups": [
+        {
+            "Arn": "Arn",
+            "Id": "Id",
+            "Inputs": [
+                "__string"
+            ],
+            "State": "State",
+            "Tags": {
+                "KeyName": ""
+            },
+            "WhitelistRules": [
+                {
+                    "Cidr": "Cidr"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

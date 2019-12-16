@@ -1,0 +1,18 @@
+{
+    "Trusts": [
+        {
+            "DirectoryId": "DirectoryId",
+            "TrustId": "TrustId",
+            "RemoteDomainName": "RemoteDomainName",
+            "TrustType": "TrustType",
+            "TrustDirection": "TrustDirection",
+            "TrustState": "TrustState",
+            "CreatedDateTime": "1970-01-01T00:00:00",
+            "LastUpdatedDateTime": "1970-01-01T00:00:00",
+            "StateLastUpdatedDateTime": "1970-01-01T00:00:00",
+            "TrustStateReason": "TrustStateReason",
+            "SelectiveAuth": "SelectiveAuth"
+        }
+    ],
+    "NextToken": "NextToken"
+}

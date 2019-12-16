@@ -1,0 +1,33 @@
+{
+    "Marker": "Marker",
+    "DBInstanceAutomatedBackups": [
+        {
+            "DBInstanceArn": "DBInstanceArn",
+            "DbiResourceId": "DbiResourceId",
+            "Region": "Region",
+            "DBInstanceIdentifier": "DBInstanceIdentifier",
+            "RestoreWindow": {
+                "EarliestTime": "1970-01-01T00:00:00",
+                "LatestTime": "1970-01-01T00:00:00"
+            },
+            "AllocatedStorage": 0,
+            "Status": "Status",
+            "Port": 0,
+            "AvailabilityZone": "AvailabilityZone",
+            "VpcId": "VpcId",
+            "InstanceCreateTime": "1970-01-01T00:00:00",
+            "MasterUsername": "MasterUsername",
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "LicenseModel": "LicenseModel",
+            "Iops": 0,
+            "OptionGroupName": "OptionGroupName",
+            "TdeCredentialArn": "TdeCredentialArn",
+            "Encrypted": true,
+            "StorageType": "StorageType",
+            "KmsKeyId": "KmsKeyId",
+            "Timezone": "Timezone",
+            "IAMDatabaseAuthenticationEnabled": true
+        }
+    ]
+}

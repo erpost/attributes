@@ -1,0 +1,55 @@
+{
+    "Metadata": {
+        "Name": "Name",
+        "CreatedTimestamp": "1970-01-01T00:00:00"
+    },
+    "Rules": [
+        {
+            "Name": "Name",
+            "Enabled": true,
+            "TlsPolicy": "TlsPolicy",
+            "Recipients": [
+                "Recipient"
+            ],
+            "Actions": [
+                {
+                    "S3Action": {
+                        "TopicArn": "TopicArn",
+                        "BucketName": "BucketName",
+                        "ObjectKeyPrefix": "ObjectKeyPrefix",
+                        "KmsKeyArn": "KmsKeyArn"
+                    },
+                    "BounceAction": {
+                        "TopicArn": "TopicArn",
+                        "SmtpReplyCode": "SmtpReplyCode",
+                        "StatusCode": "StatusCode",
+                        "Message": "Message",
+                        "Sender": "Sender"
+                    },
+                    "WorkmailAction": {
+                        "TopicArn": "TopicArn",
+                        "OrganizationArn": "OrganizationArn"
+                    },
+                    "LambdaAction": {
+                        "TopicArn": "TopicArn",
+                        "FunctionArn": "FunctionArn",
+                        "InvocationType": "InvocationType"
+                    },
+                    "StopAction": {
+                        "Scope": "Scope",
+                        "TopicArn": "TopicArn"
+                    },
+                    "AddHeaderAction": {
+                        "HeaderName": "HeaderName",
+                        "HeaderValue": "HeaderValue"
+                    },
+                    "SNSAction": {
+                        "TopicArn": "TopicArn",
+                        "Encoding": "Encoding"
+                    }
+                }
+            ],
+            "ScanEnabled": true
+        }
+    ]
+}

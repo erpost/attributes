@@ -1,0 +1,10 @@
+{
+    "EmailIdentities": [
+        {
+            "IdentityType": "IdentityType",
+            "IdentityName": "IdentityName",
+            "SendingEnabled": true
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,7 @@
+{
+    "AcceleratorAttributes": {
+        "FlowLogsEnabled": true,
+        "FlowLogsS3Bucket": "FlowLogsS3Bucket",
+        "FlowLogsS3Prefix": "FlowLogsS3Prefix"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Accounts": [
+        {
+            "AwsAccountId": "AwsAccountId",
+            "AccountId": "AccountId",
+            "Name": "Name",
+            "AccountType": "AccountType",
+            "CreatedTimestamp": "1970-01-01T00:00:00",
+            "DefaultLicense": "DefaultLicense",
+            "SupportedLicenses": [
+                "License"
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

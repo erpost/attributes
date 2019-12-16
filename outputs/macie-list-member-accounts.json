@@ -1,0 +1,8 @@
+{
+    "memberAccounts": [
+        {
+            "accountId": "accountId"
+        }
+    ],
+    "nextToken": "nextToken"
+}

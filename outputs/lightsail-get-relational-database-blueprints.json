@@ -1,0 +1,13 @@
+{
+    "blueprints": [
+        {
+            "blueprintId": "blueprintId",
+            "engine": "engine",
+            "engineVersion": "engineVersion",
+            "engineDescription": "engineDescription",
+            "engineVersionDescription": "engineVersionDescription",
+            "isEngineDefault": true
+        }
+    ],
+    "nextPageToken": "nextPageToken"
+}

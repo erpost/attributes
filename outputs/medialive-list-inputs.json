@@ -1,0 +1,47 @@
+{
+    "Inputs": [
+        {
+            "Arn": "Arn",
+            "AttachedChannels": [
+                "__string"
+            ],
+            "Destinations": [
+                {
+                    "Ip": "Ip",
+                    "Port": "Port",
+                    "Url": "Url",
+                    "Vpc": {
+                        "AvailabilityZone": "AvailabilityZone",
+                        "NetworkInterfaceId": "NetworkInterfaceId"
+                    }
+                }
+            ],
+            "Id": "Id",
+            "InputClass": "InputClass",
+            "InputSourceType": "InputSourceType",
+            "MediaConnectFlows": [
+                {
+                    "FlowArn": "FlowArn"
+                }
+            ],
+            "Name": "Name",
+            "RoleArn": "RoleArn",
+            "SecurityGroups": [
+                "__string"
+            ],
+            "Sources": [
+                {
+                    "PasswordParam": "PasswordParam",
+                    "Url": "Url",
+                    "Username": "Username"
+                }
+            ],
+            "State": "State",
+            "Tags": {
+                "KeyName": ""
+            },
+            "Type": "Type"
+        }
+    ],
+    "NextToken": "NextToken"
+}

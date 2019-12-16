@@ -1,0 +1,12 @@
+{
+    "Tags": [
+        {
+            "ResourceId": "ResourceId",
+            "ResourceType": "ResourceType",
+            "Key": "Key",
+            "Value": "Value",
+            "PropagateAtLaunch": true
+        }
+    ],
+    "NextToken": "NextToken"
+}

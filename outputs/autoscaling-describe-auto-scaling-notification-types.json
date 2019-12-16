@@ -1,0 +1,5 @@
+{
+    "AutoScalingNotificationTypes": [
+        "XmlStringMaxLen255"
+    ]
+}

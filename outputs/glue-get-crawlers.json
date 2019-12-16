@@ -1,0 +1,70 @@
+{
+    "Crawlers": [
+        {
+            "Name": "Name",
+            "Role": "Role",
+            "Targets": {
+                "S3Targets": [
+                    {
+                        "Path": "Path",
+                        "Exclusions": [
+                            "Path"
+                        ]
+                    }
+                ],
+                "JdbcTargets": [
+                    {
+                        "ConnectionName": "ConnectionName",
+                        "Path": "Path",
+                        "Exclusions": [
+                            "Path"
+                        ]
+                    }
+                ],
+                "DynamoDBTargets": [
+                    {
+                        "Path": "Path"
+                    }
+                ],
+                "CatalogTargets": [
+                    {
+                        "DatabaseName": "DatabaseName",
+                        "Tables": [
+                            "NameString"
+                        ]
+                    }
+                ]
+            },
+            "DatabaseName": "DatabaseName",
+            "Description": "Description",
+            "Classifiers": [
+                "NameString"
+            ],
+            "SchemaChangePolicy": {
+                "UpdateBehavior": "UpdateBehavior",
+                "DeleteBehavior": "DeleteBehavior"
+            },
+            "State": "State",
+            "TablePrefix": "TablePrefix",
+            "Schedule": {
+                "ScheduleExpression": "ScheduleExpression",
+                "State": "State"
+            },
+            "CrawlElapsedTime": 0,
+            "CreationTime": "1970-01-01T00:00:00",
+            "LastUpdated": "1970-01-01T00:00:00",
+            "LastCrawl": {
+                "Status": "Status",
+                "ErrorMessage": "ErrorMessage",
+                "LogGroup": "LogGroup",
+                "LogStream": "LogStream",
+                "MessagePrefix": "MessagePrefix",
+                "StartTime": "1970-01-01T00:00:00"
+            },
+            "Version": 0,
+            "Configuration": "Configuration",
+            "CrawlerSecurityConfiguration": "CrawlerSecurityConfiguration"
+        }
+    ],
+    "NextToken": "NextToken"
+}

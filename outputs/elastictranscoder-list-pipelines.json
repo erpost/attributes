@@ -1,0 +1,47 @@
+{
+    "Pipelines": [
+        {
+            "Id": "Id",
+            "Arn": "Arn",
+            "Name": "Name",
+            "Status": "Status",
+            "InputBucket": "InputBucket",
+            "OutputBucket": "OutputBucket",
+            "Role": "Role",
+            "AwsKmsKeyArn": "AwsKmsKeyArn",
+            "Notifications": {
+                "Progressing": "Progressing",
+                "Completed": "Completed",
+                "Warning": "Warning",
+                "Error": "Error"
+            },
+            "ContentConfig": {
+                "Bucket": "Bucket",
+                "StorageClass": "StorageClass",
+                "Permissions": [
+                    {
+                        "GranteeType": "GranteeType",
+                        "Grantee": "Grantee",
+                        "Access": [
+                            "AccessControl"
+                        ]
+                    }
+                ]
+            },
+            "ThumbnailConfig": {
+                "Bucket": "Bucket",
+                "StorageClass": "StorageClass",
+                "Permissions": [
+                    {
+                        "GranteeType": "GranteeType",
+                        "Grantee": "Grantee",
+                        "Access": [
+                            "AccessControl"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "NextPageToken": "NextPageToken"
+}

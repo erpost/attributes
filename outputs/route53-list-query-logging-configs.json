@@ -1,0 +1,10 @@
+{
+    "QueryLoggingConfigs": [
+        {
+            "Id": "Id",
+            "HostedZoneId": "HostedZoneId",
+            "CloudWatchLogsLogGroupArn": "CloudWatchLogsLogGroupArn"
+        }
+    ],
+    "NextToken": "NextToken"
+}

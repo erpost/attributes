@@ -1,0 +1,15 @@
+{
+    "Metrics": [
+        {
+            "Namespace": "Namespace",
+            "MetricName": "MetricName",
+            "Dimensions": [
+                {
+                    "Name": "Name",
+                    "Value": "Value"
+                }
+            ]
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,37 @@
+{
+    "cases": [
+        {
+            "caseId": "caseId",
+            "displayId": "displayId",
+            "subject": "subject",
+            "status": "status",
+            "serviceCode": "serviceCode",
+            "categoryCode": "categoryCode",
+            "severityCode": "severityCode",
+            "submittedBy": "submittedBy",
+            "timeCreated": "timeCreated",
+            "recentCommunications": {
+                "communications": [
+                    {
+                        "caseId": "caseId",
+                        "body": "body",
+                        "submittedBy": "submittedBy",
+                        "timeCreated": "timeCreated",
+                        "attachmentSet": [
+                            {
+                                "attachmentId": "attachmentId",
+                                "fileName": "fileName"
+                            }
+                        ]
+                    }
+                ],
+                "nextToken": "nextToken"
+            },
+            "ccEmailAddresses": [
+                "CcEmailAddress"
+            ],
+            "language": "language"
+        }
+    ],
+    "nextToken": "nextToken"
+}

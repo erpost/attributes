@@ -1,0 +1,10 @@
+{
+    "BulkDeployments": [
+        {
+            "BulkDeploymentArn": "BulkDeploymentArn",
+            "BulkDeploymentId": "BulkDeploymentId",
+            "CreatedAt": "CreatedAt"
+        }
+    ],
+    "NextToken": "NextToken"
+}

@@ -1,0 +1,13 @@
+{
+    "Containers": [
+        {
+            "Endpoint": "Endpoint",
+            "CreationTime": "1970-01-01T00:00:00",
+            "ARN": "ARN",
+            "Name": "Name",
+            "Status": "Status",
+            "AccessLoggingEnabled": true
+        }
+    ],
+    "NextToken": "NextToken"
+}

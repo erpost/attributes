@@ -1,0 +1,16 @@
+{
+    "profiles": [
+        {
+            "profileName": "profileName",
+            "signingMaterial": {
+                "certificateArn": "certificateArn"
+            },
+            "platformId": "platformId",
+            "signingParameters": {
+                "KeyName": ""
+            },
+            "status": "status"
+        }
+    ],
+    "nextToken": "nextToken"
+}

@@ -1,0 +1,9 @@
+{
+    "Regions": [
+        {
+            "Endpoint": "Endpoint",
+            "RegionName": "RegionName",
+            "OptInStatus": "OptInStatus"
+        }
+    ]
+}

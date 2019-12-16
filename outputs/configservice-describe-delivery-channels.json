@@ -1,0 +1,13 @@
+{
+    "DeliveryChannels": [
+        {
+            "name": "name",
+            "s3BucketName": "s3BucketName",
+            "s3KeyPrefix": "s3KeyPrefix",
+            "snsTopicARN": "snsTopicARN",
+            "configSnapshotDeliveryProperties": {
+                "deliveryFrequency": "deliveryFrequency"
+            }
+        }
+    ]
+}

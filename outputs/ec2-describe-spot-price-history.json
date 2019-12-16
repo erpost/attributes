@@ -1,0 +1,12 @@
+{
+    "NextToken": "NextToken",
+    "SpotPriceHistory": [
+        {
+            "AvailabilityZone": "AvailabilityZone",
+            "InstanceType": "InstanceType",
+            "ProductDescription": "ProductDescription",
+            "SpotPrice": "SpotPrice",
+            "Timestamp": "1970-01-01T00:00:00"
+        }
+    ]
+}

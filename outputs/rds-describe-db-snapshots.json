@@ -1,0 +1,40 @@
+{
+    "Marker": "Marker",
+    "DBSnapshots": [
+        {
+            "DBSnapshotIdentifier": "DBSnapshotIdentifier",
+            "DBInstanceIdentifier": "DBInstanceIdentifier",
+            "SnapshotCreateTime": "1970-01-01T00:00:00",
+            "Engine": "Engine",
+            "AllocatedStorage": 0,
+            "Status": "Status",
+            "Port": 0,
+            "AvailabilityZone": "AvailabilityZone",
+            "VpcId": "VpcId",
+            "InstanceCreateTime": "1970-01-01T00:00:00",
+            "MasterUsername": "MasterUsername",
+            "EngineVersion": "EngineVersion",
+            "LicenseModel": "LicenseModel",
+            "SnapshotType": "SnapshotType",
+            "Iops": 0,
+            "OptionGroupName": "OptionGroupName",
+            "PercentProgress": 0,
+            "SourceRegion": "SourceRegion",
+            "SourceDBSnapshotIdentifier": "SourceDBSnapshotIdentifier",
+            "StorageType": "StorageType",
+            "TdeCredentialArn": "TdeCredentialArn",
+            "Encrypted": true,
+            "KmsKeyId": "KmsKeyId",
+            "DBSnapshotArn": "DBSnapshotArn",
+            "Timezone": "Timezone",
+            "IAMDatabaseAuthenticationEnabled": true,
+            "ProcessorFeatures": [
+                {
+                    "Name": "Name",
+                    "Value": "Value"
+                }
+            ],
+            "DbiResourceId": "DbiResourceId"
+        }
+    ]
+}

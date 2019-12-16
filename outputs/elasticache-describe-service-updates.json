@@ -1,0 +1,19 @@
+{
+    "Marker": "Marker",
+    "ServiceUpdates": [
+        {
+            "ServiceUpdateName": "ServiceUpdateName",
+            "ServiceUpdateReleaseDate": "1970-01-01T00:00:00",
+            "ServiceUpdateEndDate": "1970-01-01T00:00:00",
+            "ServiceUpdateSeverity": "ServiceUpdateSeverity",
+            "ServiceUpdateRecommendedApplyByDate": "1970-01-01T00:00:00",
+            "ServiceUpdateStatus": "ServiceUpdateStatus",
+            "ServiceUpdateDescription": "ServiceUpdateDescription",
+            "ServiceUpdateType": "ServiceUpdateType",
+            "Engine": "Engine",
+            "EngineVersion": "EngineVersion",
+            "AutoUpdateAfterRecommendedApplyByDate": true,
+            "EstimatedUpdateTime": "EstimatedUpdateTime"
+        }
+    ]
+}
