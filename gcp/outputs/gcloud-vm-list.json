@@ -1,0 +1,77 @@
+[
+  {
+    "canIpForward": false,
+    "cpuPlatform": "Intel Broadwell",
+    "creationTimestamp": "2019-12-05T07:49:25.879-08:00",
+    "deletionProtection": false,
+    "description": "",
+    "disks": [
+      {
+        "autoDelete": true,
+        "boot": true,
+        "deviceName": "vm-test",
+        "index": 0,
+        "interface": "SCSI",
+        "kind": "compute#attachedDisk",
+        "licenses": [
+          "https://www.googleapis.com/compute/v1/projects/centos-cloud/global/licenses/centos-6"
+        ],
+        "mode": "READ_WRITE",
+        "source": "https://www.googleapis.com/compute/v1/projects/rpost-test/zones/us-east4-c/disks/vm-test",
+        "type": "PERSISTENT"
+      }
+    ],
+    "displayDevice": {
+      "enableDisplay": false
+    },
+    "id": "2480256423511235050",
+    "kind": "compute#instance",
+    "labelFingerprint": "ci0K3DGSgjE=",
+    "labels": {
+      "fisma": "test"
+    },
+    "machineType": "https://www.googleapis.com/compute/v1/projects/rpost-test/zones/us-east4-c/machineTypes/f1-micro",
+    "metadata": {
+      "fingerprint": "eIeH4VQrxw4=",
+      "kind": "compute#metadata"
+    },
+    "name": "vm-test",
+    "networkInterfaces": [
+      {
+        "accessConfigs": [
+          {
+            "kind": "compute#accessConfig",
+            "name": "External NAT",
+            "natIP": "35.245.88.174",
+            "networkTier": "PREMIUM",
+            "type": "ONE_TO_ONE_NAT"
+          }
+        ],
+        "fingerprint": "hli21rcj21A=",
+        "kind": "compute#networkInterface",
+        "name": "nic0",
+        "network": "https://www.googleapis.com/compute/v1/projects/rpost-test/global/networks/default",
+        "networkIP": "10.150.0.5",
+        "subnetwork": "https://www.googleapis.com/compute/v1/projects/rpost-test/regions/us-east4/subnetworks/default"
+      }
+    ],
+    "reservationAffinity": {
+      "consumeReservationType": "ANY_RESERVATION"
+    },
+    "scheduling": {
+      "automaticRestart": true,
+      "onHostMaintenance": "MIGRATE",
+      "preemptible": false
+    },
+    "selfLink": "https://www.googleapis.com/compute/v1/projects/rpost-test/zones/us-east4-c/instances/vm-test",
+    "startRestricted": false,
+    "status": "RUNNING",
+    "tags": {
+      "fingerprint": "pfSjJj1RiUg=",
+      "items": [
+        "ssh"
+      ]
+    },
+    "zone": "https://www.googleapis.com/compute/v1/projects/rpost-test/zones/us-east4-c"
+  }
+]
